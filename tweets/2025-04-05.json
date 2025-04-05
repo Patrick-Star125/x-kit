@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "CryptoHayes",
+      "name": "Arthur Hayes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860844599088189440/dH1AnJGk_normal.jpg",
+      "description": "Arthur Hayes, Co-Founder of BitMEX & CIO @Maelstromfund",
+      "followersCount": 663405,
+      "friendsCount": 25,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnwGOWAa0AAiuk1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoHayes/status/1908410144184295455",
+    "fullText": "THE END:\nOf US Treasuries and to a lesser extent US stocks as the global reserve asset. Since Nixon took the US off the gold standard in 1971, US treasury debt outstanding grew by 85x. The US had to create the credit dollars necessary for the growth in the world economy. This was https://t.co/sR9p2lwK47"
+  },
+  {
+    "user": {
+      "screenName": "0xJingleMingle",
+      "name": "Jingle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863778629752180736/g71l4BjC_normal.jpg",
+      "description": "The witch that always get trophy🔮 \n| 链上degen | 半吊子女巫  | NFA & DYOR\n| 超100%POR资金储备，安全首选。交易所&钱包，OKX就够 。🔗 https://t.co/Q1sB5otNHm",
+      "followersCount": 5473,
+      "friendsCount": 877,
+      "location": "solana"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnwF9ANbYAU56dI.png",
+      "https://pbs.twimg.com/media/GnwHb84bYAAE2Yn.png",
+      "https://pbs.twimg.com/media/GnwINoFaEAACMuT.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xJingleMingle/status/1908410084952334724",
+    "fullText": "《二段避雷指南——什么样的底不能抄？》\n\n虽然现在sol链标的市值的整体上限仍然不高，但可以观察到大大小小有持续力 &amp; 生命力顽强的慢拉标的很多，如 #titcoin, $rfc, $house, #stinkdex $figure ，不再像年后那段时间完全没有二段可以做，二段狗的春天好像又来了？ https://t.co/LdBmCQnq35"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 60786,
+      "friendsCount": 24,
+      "location": "群在这里"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1908409412592820351",
+    "fullText": "做多如做贼😤"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 60786,
+      "friendsCount": 24,
+      "location": "群在这里"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnwFEYsbIAArZ5Z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1908405924315926663",
+    "fullText": "#Mubarak  会不会诈尸 https://t.co/BMYZ3pA6BQ"
+  },
+  {
+    "user": {
       "screenName": "justinsuntron",
       "name": "H.E. Justin Sun 🍌",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905328711660175362/woLkMlCv_normal.jpg",
       "description": "@TRONDAO ₮ #TRX https://t.co/aNdf07ZKso | @BitTorrent #BTT https://t.co/Y1UfwSJ8ko | @htx_global #HTX Advisor https://t.co/XXmd74sr5V",
-      "followersCount": 3806053,
+      "followersCount": 3806073,
       "friendsCount": 3261,
       "location": "Geneva, Switzerland"
     },
@@ -22,7 +90,7 @@
       "name": "0xWizard👁💎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
       "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
-      "followersCount": 203105,
+      "followersCount": 203108,
       "friendsCount": 6077,
       "location": "Metaverse"
     },
@@ -37,7 +105,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -98,11 +166,28 @@
   },
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908020865221988352/NZf9l0Zi_normal.jpg",
+      "description": "The 2024-25 NBA season continues Saturday on NBA TV! 🏀 7:00pm/et: @Timberwolves/@sixers",
+      "followersCount": 48121737,
+      "friendsCount": 2014,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1908305971870322688/vid/avc1/1280x720/WVssLErQkiX52NKM.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/1908306397537726855",
+    "fullText": "JB BEATS THE SHOT CLOCK FROM WAY DOWNTOWN 😱\n\nShot almost hit the ceiling 😳 https://t.co/jUg3NdTcVj"
+  },
+  {
+    "user": {
       "screenName": "realDonaldTrump",
       "name": "Donald J. Trump",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
       "description": "45th & 47th President of the United States of America🇺🇸",
-      "followersCount": 102844944,
+      "followersCount": 102845934,
       "friendsCount": 53,
       "location": ""
     },
@@ -119,7 +204,7 @@
       "name": "Arthur Hayes",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860844599088189440/dH1AnJGk_normal.jpg",
       "description": "Arthur Hayes, Co-Founder of BitMEX & CIO @Maelstromfund",
-      "followersCount": 663371,
+      "followersCount": 663405,
       "friendsCount": 25,
       "location": ""
     },
@@ -185,7 +270,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -200,7 +285,7 @@
       "name": "H.E. Justin Sun 🍌",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905328711660175362/woLkMlCv_normal.jpg",
       "description": "@TRONDAO ₮ #TRX https://t.co/aNdf07ZKso | @BitTorrent #BTT https://t.co/Y1UfwSJ8ko | @htx_global #HTX Advisor https://t.co/XXmd74sr5V",
-      "followersCount": 3806053,
+      "followersCount": 3806073,
       "friendsCount": 3261,
       "location": "Geneva, Switzerland"
     },
@@ -217,7 +302,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -234,7 +319,7 @@
       "name": "CZ 🔶 BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902270560236605440/KpVD026z_normal.jpg",
       "description": "DM: https://t.co/ITLXkxWlol (fees go to charity)\n\n@BNBchain, @YZiLabs, @GiggleAcademy, ex-@binance.",
-      "followersCount": 10006388,
+      "followersCount": 10006443,
       "friendsCount": 1781,
       "location": ""
     },
@@ -249,7 +334,7 @@
       "name": "链研社",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
       "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉链研社交流群. https://t.co/xXOhLTPR4n👉币安手续费八折https://t.co/r9GREVIdCF",
-      "followersCount": 68758,
+      "followersCount": 68773,
       "friendsCount": 1083,
       "location": "萨厄瓦多"
     },
@@ -283,7 +368,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -298,7 +383,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -328,7 +413,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -345,7 +430,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -362,7 +447,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -394,7 +479,7 @@
       "name": "H.E. Justin Sun 🍌",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905328711660175362/woLkMlCv_normal.jpg",
       "description": "@TRONDAO ₮ #TRX https://t.co/aNdf07ZKso | @BitTorrent #BTT https://t.co/Y1UfwSJ8ko | @htx_global #HTX Advisor https://t.co/XXmd74sr5V",
-      "followersCount": 3806053,
+      "followersCount": 3806073,
       "friendsCount": 3261,
       "location": "Geneva, Switzerland"
     },
@@ -411,7 +496,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -426,7 +511,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -441,7 +526,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -456,7 +541,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -471,7 +556,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -488,7 +573,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -537,7 +622,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -552,7 +637,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 44951,
+      "followersCount": 44953,
       "friendsCount": 567,
       "location": "进群联系助理"
     },
@@ -569,7 +654,7 @@
       "name": "链研社",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
       "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉链研社交流群. https://t.co/xXOhLTPR4n👉币安手续费八折https://t.co/r9GREVIdCF",
-      "followersCount": 68758,
+      "followersCount": 68773,
       "friendsCount": 1083,
       "location": "萨厄瓦多"
     },
@@ -584,7 +669,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -599,7 +684,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -616,7 +701,7 @@
       "name": "The DeFi Investor 🔎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
       "description": "Crypto Analyst. Follow me for DeFi updates, narratives, and alpha. Subscribe to my free newsletter to stay on top of the crypto trends: https://t.co/qrKYXe4smW",
-      "followersCount": 140955,
+      "followersCount": 140957,
       "friendsCount": 1885,
       "location": "FREE NEWSLETTER→"
     },
@@ -633,7 +718,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -678,7 +763,7 @@
       "name": "H.E. Justin Sun 🍌",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905328711660175362/woLkMlCv_normal.jpg",
       "description": "@TRONDAO ₮ #TRX https://t.co/aNdf07ZKso | @BitTorrent #BTT https://t.co/Y1UfwSJ8ko | @htx_global #HTX Advisor https://t.co/XXmd74sr5V",
-      "followersCount": 3806053,
+      "followersCount": 3806073,
       "friendsCount": 3261,
       "location": "Geneva, Switzerland"
     },
@@ -693,7 +778,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -710,7 +795,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 44951,
+      "followersCount": 44953,
       "friendsCount": 567,
       "location": "进群联系助理"
     },
@@ -727,7 +812,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -744,7 +829,7 @@
       "name": "H.E. Justin Sun 🍌",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905328711660175362/woLkMlCv_normal.jpg",
       "description": "@TRONDAO ₮ #TRX https://t.co/aNdf07ZKso | @BitTorrent #BTT https://t.co/Y1UfwSJ8ko | @htx_global #HTX Advisor https://t.co/XXmd74sr5V",
-      "followersCount": 3806053,
+      "followersCount": 3806073,
       "friendsCount": 3261,
       "location": "Geneva, Switzerland"
     },
@@ -759,7 +844,7 @@
       "name": "憨巴龙王",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1701493248269881344/uXTOJ_0J_normal.jpg",
       "description": "瞎几把喊单的，找你接盘的，别买，骂我看不见。",
-      "followersCount": 64223,
+      "followersCount": 64224,
       "friendsCount": 384,
       "location": ""
     },
@@ -774,7 +859,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -789,7 +874,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -806,7 +891,7 @@
       "name": "Arthur Hayes",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860844599088189440/dH1AnJGk_normal.jpg",
       "description": "Arthur Hayes, Co-Founder of BitMEX & CIO @Maelstromfund",
-      "followersCount": 663371,
+      "followersCount": 663405,
       "friendsCount": 25,
       "location": ""
     },
@@ -821,7 +906,7 @@
       "name": "0xWizard👁💎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
       "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
-      "followersCount": 203105,
+      "followersCount": 203108,
       "friendsCount": 6077,
       "location": "Metaverse"
     },
@@ -836,7 +921,7 @@
       "name": "链研社",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
       "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉链研社交流群. https://t.co/xXOhLTPR4n👉币安手续费八折https://t.co/r9GREVIdCF",
-      "followersCount": 68758,
+      "followersCount": 68773,
       "friendsCount": 1083,
       "location": "萨厄瓦多"
     },
@@ -871,7 +956,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 60784,
+      "followersCount": 60786,
       "friendsCount": 24,
       "location": "群在这里"
     },
@@ -901,7 +986,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 138312,
+      "followersCount": 138315,
       "friendsCount": 667,
       "location": "萨尔瓦多"
     },
@@ -1079,7 +1164,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜链上神器gmgn: https://t.co/hObenUbI1p ｜新人首选 Okx : https://t.co/PwnanhiQbJ ｜3亿用在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 113008,
+      "followersCount": 113009,
       "friendsCount": 1543,
       "location": "moon"
     },
