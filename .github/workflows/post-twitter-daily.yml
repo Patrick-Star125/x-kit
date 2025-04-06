@@ -2,7 +2,7 @@ name: Post Twitter Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天运行
+    - cron: '0 0 1 * *'  # 每月1号运行
   workflow_dispatch:      # 允许手动触发
 
 jobs:
