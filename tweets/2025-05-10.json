@@ -1,11 +1,216 @@
 [
   {
     "user": {
+      "screenName": "0xBTCceo",
+      "name": "壹身武艺| |Bird🕊️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904960537760616448/JD6iVpwZ_normal.jpg",
+      "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
+      "followersCount": 9867,
+      "friendsCount": 311,
+      "location": "Auckland, New Zealand"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xBTCceo/status/1921226434787635424",
+    "fullText": "提醒一下大家，在GMGN打狗钱包一定要备份私钥，我好久没打狗了，今天买了点rato，然后转到GMGN的钱包地址,准备用他们的bot卖出，还转了点以太坊进去，准备卖出，gmgn平台自动把钱包地址给更新了，钱包也没备份，相当于资产彻底归零了\n\ngmgn"
+  },
+  {
+    "user": {
+      "screenName": "mdzzi",
+      "name": "茶不思.hl🎒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915950285991907332/xK3zVp9__normal.jpg",
+      "description": "山色迤逦皆因我 | Maxi @hyperliquidX |心澄如镜，写皆所得 | Maxi @Backpack |所有内容均不是广告",
+      "followersCount": 9038,
+      "friendsCount": 1432,
+      "location": "Manchester, England"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mdzzi/status/1921223331061133732",
+    "fullText": "分析单个项目没有任何意义，TGE是大多数项目的终点。\n\n关注把发币设在起点的项目吧。\n\n这个周期做的最好的应该是HYPE和KAITO."
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard👁💎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 206857,
+      "friendsCount": 6089,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1921206040810438886",
+    "fullText": "在币圈，不管是干啥的，除了顶层开赌场的，开赌台的老板。\n\n能管住手不进来赌（交易）的很少，看这个发财那个暴富的，哪忍得住。\n\n进来赌（交易），就要历劫：\n把所有亏钱破产的路，都走一遍，还没死，还精神正常的，算是终于入门了。\n\n从此，知道哪些事不能做。\n\n至于哪些事能做，就看天赋了。"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 64315,
+      "friendsCount": 26,
+      "location": "群在这里"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1921204814802759873",
+    "fullText": "https://t.co/jwrGODJLmr\n\n上钟了，我以为我能半小时回来"
+  },
+  {
+    "user": {
+      "screenName": "KKaWSB",
+      "name": "KK.aWSB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+      "description": "@Wagmi33Fund,#aWSBclub,#Bitcoin ,#BAYC , #AI . ｜有组织投研｜金狗大师｜meme猎手｜Trenches战壕交易员｜硅谷P小将｜AI+Web3｜\n金狗投研2025社群：https://t.co/RAqwp4VYZc",
+      "followersCount": 25499,
+      "friendsCount": 2473,
+      "location": "Mars"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KKaWSB/status/1921204622263546154",
+    "fullText": "扫链枯坐打狗,Trenches精进挑战day14 https://t.co/JNEK2WGUM4"
+  },
+  {
+    "user": {
+      "screenName": "0xBTCceo",
+      "name": "壹身武艺| |Bird🕊️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904960537760616448/JD6iVpwZ_normal.jpg",
+      "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
+      "followersCount": 9867,
+      "friendsCount": 311,
+      "location": "Auckland, New Zealand"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gql8jjPWMAA7dlW.jpg",
+      "https://pbs.twimg.com/media/Gql8ji2WIAAv_Ro.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xBTCceo/status/1921203677680796017",
+    "fullText": "越来越离谱 dnf 是西港园区组长 🤣🤣🤣🤣🤣 https://t.co/CLuDaOEy2Z"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜链上神器gmgn: https://t.co/hObenUbI1p ｜新人首选 Okx : https://t.co/PwnanhiQbJ ｜3亿用在币安：https://t.co/cKzZoL9bvx",
+      "followersCount": 116059,
+      "friendsCount": 1623,
+      "location": "moon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/1921199596833042761",
+    "fullText": "最近 @plumenetwork 和各种去中心化平台开始了合作\n\n我愿称之为rwa 产业的中继器\n\n我已经看到了各种传统资产rwa 化的前景了\n\n我们将会很快有机会在链上买到永不爆仓的10倍做多中国军工同时还能把这些资产加上一层defi \n\n假的rwa: 在合规框架下把年化3-7%的稳定资产上链卖给追求稳定收益的用户"
+  },
+  {
+    "user": {
+      "screenName": "TheDeFinvestor",
+      "name": "The DeFi Investor 🔎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
+      "description": "Crypto Analyst. Follow me for DeFi updates, narratives, & alpha. Subscribe to my free newsletter to stay on top of the crypto trends: https://t.co/qrKYXe3Uxo",
+      "followersCount": 142821,
+      "friendsCount": 1967,
+      "location": "FREE NEWSLETTER→"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gqlz5bWXUAAzYcj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDeFinvestor/status/1921194148897399169",
+    "fullText": "The search traffic for \"crypto\" is back to the 2022 bear market levels.\n\nKudos to everyone who is still here. https://t.co/KxBx4NunWq"
+  },
+  {
+    "user": {
+      "screenName": "brc20niubi",
+      "name": "王小二",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_normal.jpg",
+      "description": "我就是全宇宙最厉害的区块链天才，我一定一定一定行！ gmgn交易bot: https://t.co/vDAgBozKit",
+      "followersCount": 54872,
+      "friendsCount": 1582,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/brc20niubi/status/1921193426596622789",
+    "fullText": "最近有了一个很有意思的发明，人在币圈或多或少都有一个困扰，那就是亲戚朋友询问职业的时候该如何回答\n\n以前我会说我是炒股的，搞金融的，卖电脑的，或者干脆说什么都不做躺平的"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 64315,
+      "friendsCount": 26,
+      "location": "群在这里"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gqlw3PcWsAAmtjW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1921190819953782940",
+    "fullText": "半小时后播 https://t.co/MA2V0hxNDt"
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard👁💎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 206857,
+      "friendsCount": 6089,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1921189822745481698",
+    "fullText": "怎么赚到人生中第一个100万美金？\n\n我是创业，准确说是做生意，做手机游戏/app广告的生意。\n\n那时移动端融资非常多，投放是刚需，稍微跑的勤一点的，一年赚几百万并不难。\n\n思路也比较简单，哪里融资额大，哪里赚钱多，哪里“钱味“浓，就去哪里做生意。\n\n你们的第一个100万美金，是怎么赚的？"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896109616423145472/gHSUvGT3_normal.jpg",
+      "description": "Angel Investor | AI\n\n未来在链上.赛高のgmgn 👉 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/hP5K2XpC0I",
+      "followersCount": 114937,
+      "friendsCount": 6915,
+      "location": "Crypto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqlreA9aoAAPNc3.jpg",
+      "https://pbs.twimg.com/media/GqlreAZWUAAuMc_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1921184881943437440",
+    "fullText": "刚才这个中美谈判的进展相比大家都看见了。P1 把吃午饭午休说成了不欢而散的感觉，但仔细看，他说的全都是真话，这就是典型的春秋笔法\n\n一件事通过笔者和媒体的春秋笔法可以被描绘成一副截然不同的图景，而事实是什么只有当事人才知道\n\n你们这些人啊，一个个的听风就是雨，想搞个大新闻 👓 https://t.co/a3KS35UdHk"
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard👁💎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 206857,
+      "friendsCount": 6089,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1921180819969687800",
+    "fullText": "我们希望找到的标的，是能进入主升浪底部10倍到30倍的币，而不是跌出性价比，希望反弹吃50个点的币。"
+  },
+  {
+    "user": {
       "screenName": "woodycryptow",
       "name": "Woody",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1735479525616783360/tUdDdw5C_normal.jpg",
       "description": "交易終究靠自己而不靠他人 任何觀點均不是投資建議｜新一代交易所@backpack🎒",
-      "followersCount": 43594,
+      "followersCount": 43545,
       "friendsCount": 1461,
       "location": "Taiwan"
     },
@@ -20,7 +225,7 @@
       "name": "Donald J. Trump",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
       "description": "45th & 47th President of the United States of America🇺🇸",
-      "followersCount": 104326869,
+      "followersCount": 104483567,
       "friendsCount": 53,
       "location": ""
     },
@@ -54,7 +259,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 64376,
+      "followersCount": 64315,
       "friendsCount": 26,
       "location": "群在这里"
     },
@@ -71,7 +276,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 58275,
+      "followersCount": 58316,
       "friendsCount": 610,
       "location": "进群联系助理"
     },
@@ -86,7 +291,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 64376,
+      "followersCount": 64315,
       "friendsCount": 26,
       "location": "群在这里"
     },
@@ -101,8 +306,8 @@
       "name": "XX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1839912440387289088/AVnbfuLw_normal.jpg",
       "description": "iq5. NFT degen @0xSunNFT @corleonefnf @LaserCatNft | Shitcoin degen | Turned $5k to $7.5m in a week. | Turned $6m to $32m in 2 days. RETIRED :)",
-      "followersCount": 45155,
-      "friendsCount": 2842,
+      "followersCount": 45121,
+      "friendsCount": 2843,
       "location": "Munich"
     },
     "images": [],
@@ -116,8 +321,8 @@
       "name": "Ai 姨",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
       "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance\n个人主页：https://t.co/gff8vVlSl1",
-      "followersCount": 90714,
-      "friendsCount": 532,
+      "followersCount": 90673,
+      "friendsCount": 534,
       "location": "返佣链接 👉"
     },
     "images": [
@@ -133,8 +338,8 @@
       "name": "链研社",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
       "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉链研社交流群. https://t.co/xXOhLTPR4n👉币安手续费八折https://t.co/r9GREVIdCF",
-      "followersCount": 70908,
-      "friendsCount": 1164,
+      "followersCount": 70884,
+      "friendsCount": 1166,
       "location": "萨厄瓦多"
     },
     "images": [],
@@ -150,7 +355,7 @@
       "name": "CZ 🔶 BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902270560236605440/KpVD026z_normal.jpg",
       "description": "DM: https://t.co/ITLXkxWlol (fees go to charity)\n\n@BNBchain, @YZiLabs, @GiggleAcademy, ex-@binance.",
-      "followersCount": 10146251,
+      "followersCount": 10142678,
       "friendsCount": 1821,
       "location": ""
     },
@@ -167,7 +372,7 @@
       "name": "冷静冷静再冷静",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_normal.jpg",
       "description": "quitting my gambling addiction",
-      "followersCount": 60029,
+      "followersCount": 59974,
       "friendsCount": 1235,
       "location": ""
     },
@@ -182,7 +387,7 @@
       "name": "0xWizard👁💎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
       "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
-      "followersCount": 206898,
+      "followersCount": 206857,
       "friendsCount": 6089,
       "location": "Metaverse"
     },
@@ -197,8 +402,8 @@
       "name": "XX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1839912440387289088/AVnbfuLw_normal.jpg",
       "description": "iq5. NFT degen @0xSunNFT @corleonefnf @LaserCatNft | Shitcoin degen | Turned $5k to $7.5m in a week. | Turned $6m to $32m in 2 days. RETIRED :)",
-      "followersCount": 45155,
-      "friendsCount": 2842,
+      "followersCount": 45121,
+      "friendsCount": 2843,
       "location": "Munich"
     },
     "images": [
@@ -217,8 +422,8 @@
       "name": "壹身武艺| |Bird🕊️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904960537760616448/JD6iVpwZ_normal.jpg",
       "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
-      "followersCount": 9879,
-      "friendsCount": 310,
+      "followersCount": 9867,
+      "friendsCount": 311,
       "location": "Auckland, New Zealand"
     },
     "images": [],
@@ -232,7 +437,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 64376,
+      "followersCount": 64315,
       "friendsCount": 26,
       "location": "群在这里"
     },
@@ -249,7 +454,7 @@
       "name": "0xJeff",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1846579538802982912/9qCfx_WU_normal.jpg",
       "description": "Ex @TheSpartanGroup | Adv @vectis_finance\n\n |  NO BS AI 🔀 https://t.co/C6xz41Z7AE\n\n |  Investing in AI - Pitch🔽",
-      "followersCount": 66800,
+      "followersCount": 66789,
       "friendsCount": 859,
       "location": "Mainframe"
     },
@@ -266,7 +471,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 157348,
+      "followersCount": 157430,
       "friendsCount": 732,
       "location": "萨尔瓦多"
     },
@@ -283,7 +488,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 58275,
+      "followersCount": 58316,
       "friendsCount": 610,
       "location": "进群联系助理"
     },
@@ -298,7 +503,7 @@
       "name": "币圈慈善家",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1464518155020083204/OW28mCLv_normal.jpg",
       "description": "话痨博主，不构成投资建议。\n华语Top1的meme交易平台https://t.co/CUU2jfYanc  \n新人首选OKX，安全简单 https://t.co/9Whl44E5hC\n近3亿用户的共同选择，启程Web3，就在币安｜https://t.co/vs6TcdYute\n体验新一代交易所https://t.co/P2RBTP4GmJ",
-      "followersCount": 286052,
+      "followersCount": 285885,
       "friendsCount": 1451,
       "location": ""
     },
@@ -313,7 +518,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 64376,
+      "followersCount": 64315,
       "friendsCount": 26,
       "location": "群在这里"
     },
@@ -330,8 +535,8 @@
       "name": "壹身武艺| |Bird🕊️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904960537760616448/JD6iVpwZ_normal.jpg",
       "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
-      "followersCount": 9879,
-      "friendsCount": 310,
+      "followersCount": 9867,
+      "friendsCount": 311,
       "location": "Auckland, New Zealand"
     },
     "images": [
@@ -349,7 +554,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 58275,
+      "followersCount": 58316,
       "friendsCount": 610,
       "location": "进群联系助理"
     },
@@ -367,7 +572,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896109616423145472/gHSUvGT3_normal.jpg",
       "description": "Angel Investor | AI\n\n未来在链上.赛高のgmgn 👉 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/hP5K2XpC0I",
-      "followersCount": 115713,
+      "followersCount": 114937,
       "friendsCount": 6915,
       "location": "Crypto"
     },
@@ -384,8 +589,8 @@
       "name": "壹身武艺| |Bird🕊️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904960537760616448/JD6iVpwZ_normal.jpg",
       "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
-      "followersCount": 9879,
-      "friendsCount": 310,
+      "followersCount": 9867,
+      "friendsCount": 311,
       "location": "Auckland, New Zealand"
     },
     "images": [
@@ -401,8 +606,8 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜链上神器gmgn: https://t.co/hObenUbI1p ｜新人首选 Okx : https://t.co/PwnanhiQbJ ｜3亿用在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 116141,
-      "friendsCount": 1624,
+      "followersCount": 116059,
+      "friendsCount": 1623,
       "location": "moon"
     },
     "images": [],
