@@ -1,11 +1,303 @@
 [
   {
     "user": {
+      "screenName": "TheDeFinvestor",
+      "name": "The DeFi Investor 🔎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
+      "description": "Crypto Analyst. Follow me for DeFi updates, narratives, & alpha. Subscribe to my free newsletter to stay on top of the crypto trends: https://t.co/qrKYXe3Uxo",
+      "followersCount": 143378,
+      "friendsCount": 1970,
+      "location": "FREE NEWSLETTER→"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrAGNrCWUAEo9RQ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDeFinvestor/status/1923044413707579691",
+    "fullText": "The latest DeFi news👇\n\nCircle launched native USDC on Sonic\n\nChainlink, J.P. Morgan, and Ondo Finance teamed up to enable cross-chain settlement for tokenized US Treasuries\n\nSuperstate introduced Opening Bell - a platform for companies to launch tokenized equities on Ethereum https://t.co/9pBuo8a6Wv"
+  },
+  {
+    "user": {
+      "screenName": "BeckerC999",
+      "name": "Becker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
+      "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
+      "followersCount": 4963,
+      "friendsCount": 845,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrAGdYRXoAAnqx-.jpg",
+      "https://pbs.twimg.com/media/GrAGdYcXAAARy6H.jpg",
+      "https://pbs.twimg.com/media/GrAGdYjXoAAQlpF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BeckerC999/status/1923044162569396578",
+    "fullText": "多单开了这三个，逐仓，爆仓价损。 https://t.co/qgdL3Y1hRB"
+  },
+  {
+    "user": {
+      "screenName": "xiaomucrypto",
+      "name": "川沐｜Trumoo🐮",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+      "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
+      "followersCount": 158991,
+      "friendsCount": 738,
+      "location": "萨尔瓦多"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1923043502180663301/vid/avc1/720x1280/qbvyyotUHzbUis71.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/xiaomucrypto/status/1923043585408053320",
+    "fullText": "亏完也挺好，最近也不想玩了，炒币太累.\n我的性格币圈亏光就不想着整天折腾了. https://t.co/yOUInifyLs"
+  },
+  {
+    "user": {
+      "screenName": "BeckerC999",
+      "name": "Becker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
+      "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
+      "followersCount": 4963,
+      "friendsCount": 845,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrABk-IWEAApTPF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BeckerC999/status/1923038793814229023",
+    "fullText": "大币做多看好TRX https://t.co/ETPIxbHPXO"
+  },
+  {
+    "user": {
+      "screenName": "Defi0xJeff",
+      "name": "0xJeff",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1846579538802982912/9qCfx_WU_normal.jpg",
+      "description": "Ex @TheSpartanGroup | Adv @vectis_finance\n\n |  NO BS AI 🔀 https://t.co/C6xz41Z7AE\n\n |  Investing in AI - Pitch🔽",
+      "followersCount": 67213,
+      "friendsCount": 860,
+      "location": "Mainframe"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Defi0xJeff/status/1923034514386977112",
+    "fullText": "Today is a great day\n​\nFinally after an eternity of non-stop up-only pumps on @virtuals_io (especially for top agents &amp; genesis picks), we're seeing some real retracements that offer good potential dip-buying opportunities\n​\n$BIOS - was down 30%+ from ytd but already recovered"
+  },
+  {
+    "user": {
+      "screenName": "KKaWSB",
+      "name": "KK.aWSB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+      "description": "@Wagmi33Fund,#aWSBclub,#Bitcoin ,#BAYC , #AI . ｜有组织投研｜金狗大师｜meme猎手｜Trenches战壕交易员｜硅谷P小将｜AI+Web3｜ 深绿Agent｜金狗投研2025社群：https://t.co/RAqwp4VYZc",
+      "followersCount": 25644,
+      "friendsCount": 2501,
+      "location": "Mars"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KKaWSB/status/1923030049353236491",
+    "fullText": "扫链枯坐打狗,P小将vs深绿Agent实战（day19） https://t.co/l42CYX2hZf"
+  },
+  {
+    "user": {
+      "screenName": "thankUcrypto",
+      "name": "allincrypto 熬鹰资本",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+      "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
+      "followersCount": 63843,
+      "friendsCount": 615,
+      "location": "进群联系助理"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/thankUcrypto/status/1923025349534941360",
+    "fullText": "交易是一辈子的事，但是赚钱不是。\n你炒币最赚钱的时间往往只占一年里的一周 甚至几天。\n\n我上周说过了，做交易，只赢一次就特么够了。\n\n一周赢别人一辈子的钱，十辈子的钱。然后就可以又收手，提现，继续小资金参与了。\n\n厉害的交易员再厉害，遇到一个黑天鹅，只要有一点点杠杆，回撤就是20%-30%，"
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard👁💎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 208737,
+      "friendsCount": 6092,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1923023894815850729",
+    "fullText": "系统错了，可以改进。\n\n原则错了，无药可救。"
+  },
+  {
+    "user": {
+      "screenName": "crypto_daha",
+      "name": "Crypto 哈哈哥🎒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1873305533236854784/bO0e-LuR_normal.jpg",
+      "description": "🎒Backpack Elite，web3 builder，寻找alpha，百倍机会\n\nTG频道：https://t.co/B9kPYy2KSZ\n\nBackpack：https://t.co/rAxd38phml",
+      "followersCount": 18496,
+      "friendsCount": 6930,
+      "location": "Web3 宇宙"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/crypto_daha/status/1923019703334936954",
+    "fullText": "有公司老板收集员工身份资料注册币安，打Alpha空投和IDO来对冲薪资支出。\n\n不仅覆盖了工资成本，每月还有盈余...这操作也太秀了吧！\n\n难怪创业公司都喜欢招Web3爱好者，原来是另有用途啊哈哈。"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896109616423145472/gHSUvGT3_normal.jpg",
+      "description": "Angel Investor | AI\n\n未来在链上.赛高のgmgn 👉 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/1jHtOdRXCp",
+      "followersCount": 115295,
+      "friendsCount": 6938,
+      "location": "Crypto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq_qnuDaAAAVP5h.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1923017967106998543",
+    "fullText": "找到了个理财好地方，大门 也就是 Gate @Gate_io 时隔多年的第一次 Launchpad，现在已经 50M 进来了，我也就不藏私了，因为大家大概都是等着最后一刻再投入进去，有可能超募 100 倍左右\n\n计算下来如果超募 100x 需要存满 7 万美金，按 0.14u 的价格来说日化 https://t.co/x6Sw6O4C3Q"
+  },
+  {
+    "user": {
+      "screenName": "Luyaoyuan1",
+      "name": "Laolu🧙‍♂️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896641724249993216/DBEZZmny_normal.jpg",
+      "description": "No investment advice\nOG Moni Wizard @getmoni_io\n想想笨蛋王会怎么做？\n#OKX https://t.co/hVXKXxnvyU\n@Fragmetric https://t.co/N1kmMe7r35\n@superformxyz https://t.co/6GxzGJIitx",
+      "followersCount": 34234,
+      "friendsCount": 5854,
+      "location": "Crypto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq_qX0tXAAA1_YG.jpg",
+      "https://pbs.twimg.com/media/Gq_sNJeW0AA_n3r.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Luyaoyuan1/status/1923016348155904355",
+    "fullText": "LuDAO 周边免费抽奖 &lt;一&gt;\n\n转赞评一周后人工抽取 30 名，仅限大陆地区，无内容要求，只需要说“想要”。比较熟悉常见的朋友也不用做分母，等下次见面会带给你们。\n\n周边如图，想完美复刻 AI 的版本成本是比较难的，目前应该是倒数第二版，实际到手细节还会被调整，第一次制作体验流程。 https://t.co/14WUDL3md1"
+  },
+  {
+    "user": {
       "screenName": "0xBTCceo",
       "name": "壹身武艺| |Bird🕊️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
       "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
-      "followersCount": 9886,
+      "followersCount": 9892,
+      "friendsCount": 347,
+      "location": "Auckland, New Zealand"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1923008263257255936/vid/avc1/960x720/u5mmjpHYd_xaueqa.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/0xBTCceo/status/1923008324057891082",
+    "fullText": "二十多年的老游戏在区块链复活也是抽象\n\n听说打击脚本啊，外挂什么挺严格的\n\n最好是把工作室骗进来杀 https://t.co/QrckxU99sj"
+  },
+  {
+    "user": {
+      "screenName": "lianyanshe",
+      "name": "链研社",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
+      "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉链研社交流群. https://t.co/xXOhLTPR4n👉币安手续费八折https://t.co/r9GREVIdCF",
+      "followersCount": 71385,
+      "friendsCount": 1186,
+      "location": "萨厄瓦多"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq_jRWgWcAAGLbJ.jpg",
+      "https://pbs.twimg.com/media/Gq_jw0HaAAIwas6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lianyanshe/status/1923007410417041464",
+    "fullText": "Berachain 生态的流动性质押协议 Infrared @InfraredFinance 推出了积分加倍活动， Infrared 是 Berachain 上的核心 DeFi 基础设施，占据了主要的 TVL。近期和 Pendle 的合作，更新了一下玩法。\n\n本文主要围绕 Infrared 的流动性质押代币 iBGT 和 iBERA 在Pendle https://t.co/iFsY4vVhAO"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 64440,
+      "friendsCount": 29,
+      "location": "群在这里"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1923001846764916930",
+    "fullText": "申请休息一天，今晚不上钟"
+  },
+  {
+    "user": {
+      "screenName": "xiaomucrypto",
+      "name": "川沐｜Trumoo🐮",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+      "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
+      "followersCount": 158991,
+      "friendsCount": 738,
+      "location": "萨尔瓦多"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiaomucrypto/status/1923000698423177607",
+    "fullText": "我赌性太强了.\n心也贪.\n仅剩的钱我也套现走吧.\n从零开始😭"
+  },
+  {
+    "user": {
+      "screenName": "missoralways",
+      "name": "A",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
+      "description": "Narrative trader l Professional roundtripper l @protoscap",
+      "followersCount": 9935,
+      "friendsCount": 737,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/missoralways/status/1922993467849912596",
+    "fullText": "gm"
+  },
+  {
+    "user": {
+      "screenName": "ai_9684xtpa",
+      "name": "Ai 姨",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
+      "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance\n个人主页：https://t.co/gff8vVlSl1",
+      "followersCount": 92399,
+      "friendsCount": 536,
+      "location": "返佣链接 👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq_Xk13aAAAJAiN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ai_9684xtpa/status/1922992758882472319",
+    "fullText": "巨鲸 0x1D6...7C0F0（Arkham 标记疑似归属为 @General6316）三小时前从 #Bybit 提出价值 546.9 万美元的 $PEPE 和 $ETH\n\n🔹PEPE：提出价格 $0.0000135\n🔸ETH：提出价格 $2544\n\n钱包地址 https://t.co/A2ifJNeIFb\n\n本文由 #Gateio | @Gateio_zh 赞助 https://t.co/b7snDl2Ze2"
+  },
+  {
+    "user": {
+      "screenName": "xiaomucrypto",
+      "name": "川沐｜Trumoo🐮",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+      "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
+      "followersCount": 158991,
+      "friendsCount": 738,
+      "location": "萨尔瓦多"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiaomucrypto/status/1922992070555226191",
+    "fullText": "不开玩笑，这下真亏完了"
+  },
+  {
+    "user": {
+      "screenName": "0xBTCceo",
+      "name": "壹身武艺| |Bird🕊️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
+      "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
+      "followersCount": 9892,
       "friendsCount": 347,
       "location": "Auckland, New Zealand"
     },
@@ -23,8 +315,8 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 63348,
-      "friendsCount": 613,
+      "followersCount": 63843,
+      "friendsCount": 615,
       "location": "进群联系助理"
     },
     "images": [
@@ -40,7 +332,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 158851,
+      "followersCount": 158991,
       "friendsCount": 738,
       "location": "萨尔瓦多"
     },
@@ -55,7 +347,7 @@
       "name": "Yi He",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1912575633097703424/uEy75MJ8_normal.jpg",
       "description": "Co-Founder & Chief Customer Service Officer @Binance  \nHolder of #BNB",
-      "followersCount": 419661,
+      "followersCount": 419813,
       "friendsCount": 1029,
       "location": "Mars"
     },
@@ -70,8 +362,8 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896109616423145472/gHSUvGT3_normal.jpg",
       "description": "Angel Investor | AI\n\n未来在链上.赛高のgmgn 👉 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/1jHtOdRXCp",
-      "followersCount": 114820,
-      "friendsCount": 6939,
+      "followersCount": 115295,
+      "friendsCount": 6938,
       "location": "Crypto"
     },
     "images": [
@@ -87,8 +379,8 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 63348,
-      "friendsCount": 613,
+      "followersCount": 63843,
+      "friendsCount": 615,
       "location": "进群联系助理"
     },
     "images": [],
@@ -102,7 +394,7 @@
       "name": "壹身武艺| |Bird🕊️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
       "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
-      "followersCount": 9886,
+      "followersCount": 9892,
       "friendsCount": 347,
       "location": "Auckland, New Zealand"
     },
@@ -120,7 +412,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 158851,
+      "followersCount": 158991,
       "friendsCount": 738,
       "location": "萨尔瓦多"
     },
@@ -135,7 +427,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 158851,
+      "followersCount": 158991,
       "friendsCount": 738,
       "location": "萨尔瓦多"
     },
@@ -150,8 +442,8 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896109616423145472/gHSUvGT3_normal.jpg",
       "description": "Angel Investor | AI\n\n未来在链上.赛高のgmgn 👉 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/1jHtOdRXCp",
-      "followersCount": 114820,
-      "friendsCount": 6939,
+      "followersCount": 115295,
+      "friendsCount": 6938,
       "location": "Crypto"
     },
     "images": [],
@@ -165,8 +457,8 @@
       "name": "Jingle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863778629752180736/g71l4BjC_normal.jpg",
       "description": "✧ 链上degen | 半吊子女巫  | DYOR | 分享在亮点 \n✧ 超100%POR资金储备，安全首选。交易所&钱包，OKX就够 。🔗 https://t.co/Q1sB5otfRO",
-      "followersCount": 6574,
-      "friendsCount": 947,
+      "followersCount": 6588,
+      "friendsCount": 953,
       "location": "DM→"
     },
     "images": [
@@ -182,8 +474,8 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 63348,
-      "friendsCount": 613,
+      "followersCount": 63843,
+      "friendsCount": 615,
       "location": "进群联系助理"
     },
     "images": [
@@ -199,7 +491,7 @@
       "name": "布欧的量化日记",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1646454418584518656/QolfNrn8_normal.jpg",
       "description": "一个纯喜爱分享的专职币圈量化交易员，涉及币圈套利/cta/高频等策略思路！youtube免费学习频道：https://t.co/aNR1xmhpSL ，币coin有稳定收益实盘展示！\nTG群：https://t.co/2kfIclvoDg",
-      "followersCount": 1975,
+      "followersCount": 1978,
       "friendsCount": 309,
       "location": "Jiangxi"
     },
@@ -216,7 +508,7 @@
       "name": "Ai 姨",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
       "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance\n个人主页：https://t.co/gff8vVlSl1",
-      "followersCount": 92353,
+      "followersCount": 92399,
       "friendsCount": 536,
       "location": "返佣链接 👉"
     },
@@ -233,8 +525,8 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 63348,
-      "friendsCount": 613,
+      "followersCount": 63843,
+      "friendsCount": 615,
       "location": "进群联系助理"
     },
     "images": [
@@ -251,8 +543,8 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 63348,
-      "friendsCount": 613,
+      "followersCount": 63843,
+      "friendsCount": 615,
       "location": "进群联系助理"
     },
     "images": [],
@@ -266,7 +558,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 158851,
+      "followersCount": 158991,
       "friendsCount": 738,
       "location": "萨尔瓦多"
     },
@@ -281,8 +573,8 @@
       "name": "链研社",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
       "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉链研社交流群. https://t.co/xXOhLTPR4n👉币安手续费八折https://t.co/r9GREVIdCF",
-      "followersCount": 71334,
-      "friendsCount": 1187,
+      "followersCount": 71385,
+      "friendsCount": 1186,
       "location": "萨厄瓦多"
     },
     "images": [
@@ -301,8 +593,8 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 63348,
-      "friendsCount": 613,
+      "followersCount": 63843,
+      "friendsCount": 615,
       "location": "进群联系助理"
     },
     "images": [
@@ -318,7 +610,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 64413,
+      "followersCount": 64440,
       "friendsCount": 29,
       "location": "群在这里"
     },
@@ -336,8 +628,8 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 63348,
-      "friendsCount": 613,
+      "followersCount": 63843,
+      "friendsCount": 615,
       "location": "进群联系助理"
     },
     "images": [
@@ -353,7 +645,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 158851,
+      "followersCount": 158991,
       "friendsCount": 738,
       "location": "萨尔瓦多"
     },
@@ -370,7 +662,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜链上神器gmgn: https://t.co/hObenUbI1p ｜新人首选 Okx : https://t.co/PwnanhiQbJ ｜3亿用在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 116511,
+      "followersCount": 116551,
       "friendsCount": 1637,
       "location": "moon"
     },
@@ -385,7 +677,7 @@
       "name": "壹身武艺| |Bird🕊️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
       "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
-      "followersCount": 9886,
+      "followersCount": 9892,
       "friendsCount": 347,
       "location": "Auckland, New Zealand"
     },
@@ -400,8 +692,8 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 63348,
-      "friendsCount": 613,
+      "followersCount": 63843,
+      "friendsCount": 615,
       "location": "进群联系助理"
     },
     "images": [
@@ -417,7 +709,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 64413,
+      "followersCount": 64440,
       "friendsCount": 29,
       "location": "群在这里"
     },
@@ -432,7 +724,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 158851,
+      "followersCount": 158991,
       "friendsCount": 738,
       "location": "萨尔瓦多"
     },
@@ -442,6 +734,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiaomucrypto/status/1922918294928883908",
     "fullText": "现货nxpc梭了43万刀开盘3u\n我梭哈死了算了，难得所有人都有交易热情的. https://t.co/QO6nQegX2V"
+  },
+  {
+    "user": {
+      "screenName": "anticulturepro",
+      "name": "Anticulture Styles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1866051727226810368/zJ48kgkl_normal.jpg",
+      "description": "Anticulture: Celebrate American spirit with our themed fashion!",
+      "followersCount": 936,
+      "friendsCount": 54,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq-TRacaAAAMC8c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/anticulturepro/status/1922917599970721967",
+    "fullText": "Proudly represent your country in our Still Standing Cap. The design on this cap embodies the ideology that our great flag will withstand anything that comes its way\nGet yours now: https://t.co/aRWKTptJ24 https://t.co/qnrfWlAJ7Q"
   },
   {
     "user": {
@@ -1241,7 +1550,7 @@
       "name": "雨中狂睡Sleeping in the Rain🌳🐻⛓🧡👀",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1914320555668590593/fPgfRm7j_normal.jpg",
       "description": "Thoughts sharing｜Head Chef👨🏻‍🍳 @0xBeraHome ｜TG Channel：https://t.co/nBkOmCFBJP ｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rOoS1",
-      "followersCount": 23786,
+      "followersCount": 23813,
       "friendsCount": 3711,
       "location": "Bitcoin"
     },
