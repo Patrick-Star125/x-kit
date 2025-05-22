@@ -1,11 +1,546 @@
 [
   {
     "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #诈骗犯 #话痨\n\nBelieve what you believe\nwait for the wind",
+      "followersCount": 238163,
+      "friendsCount": 5077,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gre3TzkbUAEWn41.jpg",
+      "https://pbs.twimg.com/media/Gre3XPTacAAvXvt.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/1925465655609827531",
+    "fullText": "前几天我不是在TG里说，感觉现在很多vc和机构都在往稳定币这个赛道跑吗？\n然后衍生出的一个新概念叫做 payfi。说人话就是用稳定币去买披萨或者去餐厅吃饭之类的。\n然后sol上跟这个有关的项目是 @venta_xyz 。不过这个目前还没啥太多东西，只是关于这个东西大家可以关注着就行 https://t.co/gXTxblAivt"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn 🐳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925044061427347456/T2PaHvPZ_normal.jpg",
+      "description": "high risk leverage trader / meme coin maxi / called pepe at 600k market cap / Disclaimer: nothing I share is financial advice. Invest at your own risk. DYOR.",
+      "followersCount": 93374,
+      "friendsCount": 446,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrigVr9bAAALYvk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1925465146291593434",
+    "fullText": "RETAIL ARE NOT EVEN HERE YET $BTC WORLDWIDE SEARCH VOLUME 👇 https://t.co/DZ37Np6YKZ"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #诈骗犯 #话痨\n\nBelieve what you believe\nwait for the wind",
+      "followersCount": 238163,
+      "friendsCount": 5077,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/1925457581021319375",
+    "fullText": "刚带儿子去上感统课\n旁边有两个人语音聊天，电话那头让他把仓位全换到 $eth 上。\n\n我看着手上4000加仓的以太坊，沉默不语…"
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard👁💎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 209198,
+      "friendsCount": 6091,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1925454168564932734",
+    "fullText": "观察一个人的品性，要观察他在最得意和最失意时，是怎样的表现。\n\n磨练自己品性，也一样。\n\n最得意时，不忘乎所以，依然理性冷静，谦和有礼；\n最失意时，不妄自菲薄，依然坚守底线，坚韧平和。\n\n是谓君子。"
+  },
+  {
+    "user": {
+      "screenName": "Defi0xJeff",
+      "name": "0xJeff",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1846579538802982912/9qCfx_WU_normal.jpg",
+      "description": "Ex @TheSpartanGroup | Adv @vectis_finance\n\n |  NO BS AI 🔀 https://t.co/C6xz41Z7AE\n\n |  Investing in AI - Pitch🔽",
+      "followersCount": 67460,
+      "friendsCount": 864,
+      "location": "Mainframe"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1925453429675266048/vid/avc1/1200x674/ZCi1umUxjFqTLIDR.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/Defi0xJeff/status/1925453437728432434",
+    "fullText": "Since we're going back to full send mode again\n\nHere are the Top 8 AI Projects to watch for ↓ https://t.co/h3fAyE64Sm"
+  },
+  {
+    "user": {
+      "screenName": "BeckerC999",
+      "name": "Becker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
+      "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
+      "followersCount": 5273,
+      "friendsCount": 855,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GriSmP-WMAAomQL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BeckerC999/status/1925450030007165263",
+    "fullText": "河马弱突破，先止损了 https://t.co/IhTltZPkh5"
+  },
+  {
+    "user": {
       "screenName": "0xBTCceo",
       "name": "壹身武艺| |Bird🕊️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
       "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
-      "followersCount": 9764,
+      "followersCount": 9765,
+      "friendsCount": 527,
+      "location": "Auckland, New Zealand"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xBTCceo/status/1925444029237653772",
+    "fullText": "21年你发个比特币新高的朋友圈\n我是真为你开心，因为我知道你赚钱了 \n25年你发个比特币新高朋友圈\n我知道你是装的，你没有比特币。\n你又脱不下孔乙己的长衫，\n索性气氛一把，假装还有比特币，\n假装还赚钱了，\n假装你还过得比朋友圈其他人好。\n$btc"
+  },
+  {
+    "user": {
+      "screenName": "xiaomucrypto",
+      "name": "川沐｜Trumoo🐮",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+      "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
+      "followersCount": 159453,
+      "friendsCount": 744,
+      "location": "萨尔瓦多"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GriLEn-boAIMSwo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiaomucrypto/status/1925441761335509104",
+    "fullText": "群友20年底卖了200多个btc买了个房子.\n啥破房子小2亿. https://t.co/vi26wZqBcW"
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard👁💎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 209198,
+      "friendsCount": 6091,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1925438653586973164",
+    "fullText": "悉达多，是一本薄薄的书。\n\n初读，以为是讲求佛，再思，其实是包括交易在内，一切的求道之路，都如此。\n\n阶段一\n\n向外求，读书，问贤，自己尝试，发现所谓“智者”也不过在人云亦云。\n\n甚至，遇见佛祖，也无法开解内心的困惑，发现，原来一切的道，一切的佛，都不是一段道理，而是需要自己去感受和体会。"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 64761,
+      "friendsCount": 35,
+      "location": "群在这里"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GriGMmcboAAoc6C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1925436403556716552",
+    "fullText": "现在网吧这么贵了吗？\n\n15一个小时\n\n玩不起了😓 https://t.co/KKRzbX86GT"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn 🐳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925044061427347456/T2PaHvPZ_normal.jpg",
+      "description": "high risk leverage trader / meme coin maxi / called pepe at 600k market cap / Disclaimer: nothing I share is financial advice. Invest at your own risk. DYOR.",
+      "followersCount": 93374,
+      "friendsCount": 446,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GriCQjCboAcPPhP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1925432076951863496",
+    "fullText": "Yesterday I was trying to add money from @binance to my external wallet to fund HL to save myself from a potential major  liquidation.\n \nBut for the first time ever it just so happened that USDC on Arbitrum was SUSPENDED.\n \nCoincidence? Unlikely.\n \nThey was not only coming for me https://t.co/BsEDxv3KrA"
+  },
+  {
+    "user": {
+      "screenName": "cz_binance",
+      "name": "CZ 🔶 BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925425686866796544/CzWMyTnb_normal.jpg",
+      "description": "DM: https://t.co/ITLXkxVNyN (fees go to charity)\n\n@BNBchain, @YZiLabs, @GiggleAcademy, ex-@binance.",
+      "followersCount": 10132937,
+      "friendsCount": 1828,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GriAOA9WcAAbvxu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cz_binance/status/1925430816571600935",
+    "fullText": "Feel sorry for those who sold at $77k. Remember to look at a yearly chart instead of a 1 minute chart once in a while. https://t.co/zQScaM26oe"
+  },
+  {
+    "user": {
+      "screenName": "0xBTCceo",
+      "name": "壹身武艺| |Bird🕊️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
+      "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
+      "followersCount": 9765,
+      "friendsCount": 527,
+      "location": "Auckland, New Zealand"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xBTCceo/status/1925429275039342655",
+    "fullText": "大饼11w了，最近千万不要和别人说自己是玩 加密货币的， 别人说 你一定赚了很多钱吧 ，都不知道怎么回。"
+  },
+  {
+    "user": {
+      "screenName": "lianyanshe",
+      "name": "链研社",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
+      "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉链研社交流群. https://t.co/xXOhLTPR4n👉币安手续费八折https://t.co/r9GREVIdCF",
+      "followersCount": 71389,
+      "friendsCount": 1001,
+      "location": "萨厄瓦多"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grh92AHboAIESkM.jpg",
+      "https://pbs.twimg.com/media/Grh99pNbUAAetV2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lianyanshe/status/1925427743078195263",
+    "fullText": "比特币披萨节🍕感谢币安@binancezh 和 okx @okxchinese 投喂的披萨。\n\n15 年的今天 10000 比特币换只能换两个大披萨，现在一个比特币已经够吃一辈子的披萨了，比特币 2.2 万亿美金的市值也超过了谷歌的 2 万亿这在以前是想都不敢想的事情。 https://t.co/Rujb7TcxcM"
+  },
+  {
+    "user": {
+      "screenName": "cz_binance",
+      "name": "CZ 🔶 BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925425686866796544/CzWMyTnb_normal.jpg",
+      "description": "DM: https://t.co/ITLXkxVNyN (fees go to charity)\n\n@BNBchain, @YZiLabs, @GiggleAcademy, ex-@binance.",
+      "followersCount": 10132937,
+      "friendsCount": 1828,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cz_binance/status/1925425825479811187",
+    "fullText": "🍕"
+  },
+  {
+    "user": {
+      "screenName": "BeckerC999",
+      "name": "Becker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
+      "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
+      "followersCount": 5273,
+      "friendsCount": 855,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grh8Vq_WwAADVNK.jpg",
+      "https://pbs.twimg.com/media/Grh8VrBWEAASYbD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BeckerC999/status/1925425555505136089",
+    "fullText": "等了半天e子突破也等不来，河马开个头仓睡觉去了 https://t.co/GmUEgCjeMD"
+  },
+  {
+    "user": {
+      "screenName": "nft_hu",
+      "name": "Fiona ❤️& ✌️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1732381783558422528/2FQre00D_normal.jpg",
+      "description": "NFA——Fiona's daily news: https://t.co/GJr2Qy5lAb Join Bybit with: https://t.co/S0qSBUoHig\nJoin OKX with:https://t.co/i66xzml0MI",
+      "followersCount": 40615,
+      "friendsCount": 1703,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grh6PrsbgAA34kS.jpg",
+      "https://pbs.twimg.com/media/Grh6Pr2awAA2GiN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nft_hu/status/1925423506654994593",
+    "fullText": "补一个OKX的超高颜值Pizza，感谢🙏\n@okxchinese @Mercy_okx \n\nBTC也在这个历史时刻，从一个买pizza的笑话变成了全球最大的资产形式之一。\n\n留一点时间，或许就会有奇迹发生。每代人都有他自己的机会，只是身在局中的我们，往往看不透。\n\n2010 ～ 2025 \n10000 枚 BTC = 2个Pizza             是过去 https://t.co/QQZlgfbSle"
+  },
+  {
+    "user": {
+      "screenName": "ai_9684xtpa",
+      "name": "Ai 姨",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
+      "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance\n个人主页：https://t.co/gff8vVlSl1",
+      "followersCount": 93626,
+      "friendsCount": 539,
+      "location": "返佣链接 👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grh5KM0agAEGV_V.jpg",
+      "https://pbs.twimg.com/media/Grh5LTkboAITVgr.jpg",
+      "https://pbs.twimg.com/media/Grh6NBhboAI1a27.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ai_9684xtpa/status/1925423218695053713",
+    "fullText": "Pizza Day!\n2🍕= 10000 BTC = 11 亿美金\n\n感谢 @binancezh @okxchinese @bitgetglobal 的美味披萨啦 https://t.co/XqKLF8BPTa"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 64761,
+      "friendsCount": 35,
+      "location": "群在这里"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1925423213208801635",
+    "fullText": "今天去哪放松"
+  },
+  {
+    "user": {
+      "screenName": "devilcatbtc",
+      "name": "茂茂大魔王",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1754868819841908736/VlS_tGVh_normal.jpg",
+      "description": "币coin茂茂大魔王，专注BTC合约，最新电报和注册链接在简介。新人首选，安全简单。一站式链上链下交易平台OKX：https://t.co/RtfPKKmWmr",
+      "followersCount": 23452,
+      "friendsCount": 520,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grh5-WHboAAM2Mu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/devilcatbtc/status/1925422961240227861",
+    "fullText": "晚饭也有着落了,感谢nata,感谢Binance的投喂 🥰 \n大家一起共建加密世界 恰好今天比特币也创了历史新高，一切都是那么的巧合\n #Binancepizza #pizzaday https://t.co/VP1GSZzCUi"
+  },
+  {
+    "user": {
+      "screenName": "Luyaoyuan1",
+      "name": "Laolu🧙‍♂️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896641724249993216/DBEZZmny_normal.jpg",
+      "description": "No investment advice\nOG Moni Wizard @getmoni_io\n想想笨蛋王会怎么做？\n#OKX https://t.co/hVXKXxnvyU\n@Fragmetric https://t.co/N1kmMe7r35\n@superformxyz https://t.co/6GxzGJIitx",
+      "followersCount": 34503,
+      "friendsCount": 5856,
+      "location": "Crypto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grh42-pboAMg3e3.jpg",
+      "https://pbs.twimg.com/media/Grh42-jboAcgB5j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Luyaoyuan1/status/1925421741217915025",
+    "fullText": "感谢 @okxchinese 的空投，原谅拆开它居然散了，很有特色的披萨。\n\n今日 BTC 新高，也是大吉。\n\n#OKX https://t.co/Be3z7LMzXx"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn 🐳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925044061427347456/T2PaHvPZ_normal.jpg",
+      "description": "high risk leverage trader / meme coin maxi / called pepe at 600k market cap / Disclaimer: nothing I share is financial advice. Invest at your own risk. DYOR.",
+      "followersCount": 93374,
+      "friendsCount": 446,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1925420813895004461",
+    "fullText": "Moonpig stronger in numbers. Thats why it’s gonna win. Doesn’t need anyone. No KOLs no BS. Catalyst? No catalyst. Just a pig with a dream. And people love it. Community &gt; cabal. Moonpig 🌕🐷"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn 🐳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925044061427347456/T2PaHvPZ_normal.jpg",
+      "description": "high risk leverage trader / meme coin maxi / called pepe at 600k market cap / Disclaimer: nothing I share is financial advice. Invest at your own risk. DYOR.",
+      "followersCount": 93374,
+      "friendsCount": 446,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grh1xBKboAEXZgN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1925418332406391294",
+    "fullText": "I trade on #HyperLiquid.\n \nTo support me, use my affiliate link that will save you $$ on fees.\n \nhttps://t.co/KN0iJSvKpH\n \nOr use code: WYNN\n \nFollow proper risk management. Consult a financial specialist before making any investments. Follow proper risk management. Trade safely. https://t.co/YuWDW3U6Q6"
+  },
+  {
+    "user": {
+      "screenName": "devilcatbtc",
+      "name": "茂茂大魔王",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1754868819841908736/VlS_tGVh_normal.jpg",
+      "description": "币coin茂茂大魔王，专注BTC合约，最新电报和注册链接在简介。新人首选，安全简单。一站式链上链下交易平台OKX：https://t.co/RtfPKKmWmr",
+      "followersCount": 23452,
+      "friendsCount": 520,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Grh0NSkbMAAo7Bz.jpg",
+      "https://pbs.twimg.com/media/Grh0ZyJbQAAIVy_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/devilcatbtc/status/1925416938945356162",
+    "fullText": "一年一度的披萨节，感谢OK Mia 宇涵的披萨，午饭有着落了 （拍的实在太丑了，偷张别人的图）#OKXPIZZADAY  #OKX https://t.co/3Jph4kVM4t"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn 🐳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925044061427347456/T2PaHvPZ_normal.jpg",
+      "description": "high risk leverage trader / meme coin maxi / called pepe at 600k market cap / Disclaimer: nothing I share is financial advice. Invest at your own risk. DYOR.",
+      "followersCount": 93374,
+      "friendsCount": 446,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1925415552186818948",
+    "fullText": "You sold your Bitcoin to BlackRock 🫵😂"
+  },
+  {
+    "user": {
+      "screenName": "xiaomucrypto",
+      "name": "川沐｜Trumoo🐮",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+      "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
+      "followersCount": 159453,
+      "friendsCount": 744,
+      "location": "萨尔瓦多"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrhykgzaMAApuyl.jpg",
+      "https://pbs.twimg.com/media/Grhykg1boAAOJ6L.jpg",
+      "https://pbs.twimg.com/media/GrhykhQbAAAFYjl.jpg",
+      "https://pbs.twimg.com/media/GrhykhSboAYxiD3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiaomucrypto/status/1925414824735109541",
+    "fullText": "币安支持了usd1交易对.\n这次usd1相关的鸡犬升天，要火一阵子下不去了. https://t.co/vs0qnlTEB8"
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard👁💎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 209198,
+      "friendsCount": 6091,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1925412865563140428",
+    "fullText": "在交易和投机领域，大部分聪明人把时间花在需要激烈搏杀，复杂的技巧，非常艰难才能取胜，甚至不可能取胜的竞赛中。\n\n这就是为什么，大部分聪明人也赚不到什么钱。"
+  },
+  {
+    "user": {
+      "screenName": "Murphychen888",
+      "name": "Murphy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_normal.jpg",
+      "description": "17年老韭菜；研究链上数据和宏观情绪相结合，构建自己的交易思维。保持谨慎乐观！|  近3亿用户的共同选择就在币安：https://t.co/5pQWuny9gU  |  #OKX web3入口一个就够 https://t.co/YwY7pIgKzB",
+      "followersCount": 62520,
+      "friendsCount": 786,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrhvMbsacAAxZCj.jpg",
+      "https://pbs.twimg.com/media/GrhvMbkboAA17om.jpg",
+      "https://pbs.twimg.com/media/GrhvMblboAkjJuu.jpg",
+      "https://pbs.twimg.com/media/GrhvMbragAA3bvh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Murphychen888/status/1925411108594360724",
+    "fullText": "2017年我第一枚BTC就是在OKX买的，那时是叫OKEx（欧易）…\n\n2025年OKX又将这份前缘再续…\n\n很喜欢这句话：勇敢的人先享受世界；在币圈的小伙伴都是勇敢者，他们在波动中坚定信仰，在质疑中坚持选择。\n\n致敬加密世界的每一个勇敢者！\n\n谢谢 @okxchinese  @mia_okx \n\n#OKXPIZZADAY https://t.co/NPkKSqWx9y"
+  },
+  {
+    "user": {
+      "screenName": "0xBTCceo",
+      "name": "壹身武艺| |Bird🕊️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
+      "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
+      "followersCount": 9765,
+      "friendsCount": 527,
+      "location": "Auckland, New Zealand"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrhuG6waYAAvZgD.jpg",
+      "https://pbs.twimg.com/media/GrhuG6xboAQqngi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xBTCceo/status/1925409914631176276",
+    "fullText": "怎么那么多分析师 写小作文，无非就是多空\n做对方向拿住 ，做错了止损\n傻逼才去嘴硬硬扛，✍️1000字小作文\n搞得逻辑好像很正确一样 你们到底有没有仓位啊\n没有仓位不要嘴炮啊 错了就装死？\n现在懂王就是最大的车头\n让我们拥抱大饼，远离山寨\n真的震麻了，忘记了什么叫主升浪 https://t.co/ZI2AvUXMnu"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 64761,
+      "friendsCount": 35,
+      "location": "群在这里"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1925407310484316162/vid/avc1/886x1920/si2NJ-SXxZuTos_e.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Bitfatty/status/1925407450620207478",
+    "fullText": "金牌语音  最新一话 https://t.co/HBBrr9dsES"
+  },
+  {
+    "user": {
+      "screenName": "BeckerC999",
+      "name": "Becker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
+      "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
+      "followersCount": 5273,
+      "friendsCount": 855,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BeckerC999/status/1925406441956934035",
+    "fullText": "现在突破单还是没动力，等着做回踩单吧。\n\n市场fomo情绪不高，能咋办呢？吃恐慌盘，捡带血筹码慢慢做呗。"
+  },
+  {
+    "user": {
+      "screenName": "BeckerC999",
+      "name": "Becker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
+      "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
+      "followersCount": 5273,
+      "friendsCount": 855,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BeckerC999/status/1925405701792268340",
+    "fullText": "以太跑了 可能要浇……"
+  },
+  {
+    "user": {
+      "screenName": "0xBTCceo",
+      "name": "壹身武艺| |Bird🕊️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
+      "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
+      "followersCount": 9765,
       "friendsCount": 527,
       "location": "Auckland, New Zealand"
     },
@@ -22,7 +557,7 @@
       "name": "壹身武艺| |Bird🕊️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
       "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou",
-      "followersCount": 9764,
+      "followersCount": 9765,
       "friendsCount": 527,
       "location": "Auckland, New Zealand"
     },
@@ -37,7 +572,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜链上神器gmgn: https://t.co/hObenUbI1p ｜新人首选 Okx : https://t.co/PwnanhiQbJ ｜3亿用在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 116844,
+      "followersCount": 116860,
       "friendsCount": 1641,
       "location": "moon"
     },
@@ -52,7 +587,7 @@
       "name": "Becker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
       "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
-      "followersCount": 5259,
+      "followersCount": 5273,
       "friendsCount": 855,
       "location": ""
     },
@@ -69,7 +604,7 @@
       "name": "Becker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
       "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
-      "followersCount": 5259,
+      "followersCount": 5273,
       "friendsCount": 855,
       "location": ""
     },
@@ -84,7 +619,7 @@
       "name": "Becker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
       "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
-      "followersCount": 5259,
+      "followersCount": 5273,
       "friendsCount": 855,
       "location": ""
     },
@@ -101,7 +636,7 @@
       "name": "0xWizard👁💎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
       "description": "||👁💎 $act \n|| 🌞🌕https://t.co/nnmTLYcg5i\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
-      "followersCount": 209166,
+      "followersCount": 209198,
       "friendsCount": 6091,
       "location": "Metaverse"
     },
@@ -116,7 +651,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜链上神器gmgn: https://t.co/hObenUbI1p ｜新人首选 Okx : https://t.co/PwnanhiQbJ ｜3亿用在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 116844,
+      "followersCount": 116860,
       "friendsCount": 1641,
       "location": "moon"
     },
@@ -131,7 +666,7 @@
       "name": "Becker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
       "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
-      "followersCount": 5259,
+      "followersCount": 5273,
       "friendsCount": 855,
       "location": ""
     },
@@ -148,7 +683,7 @@
       "name": "Becker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
       "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年。",
-      "followersCount": 5259,
+      "followersCount": 5273,
       "friendsCount": 855,
       "location": ""
     },
@@ -165,7 +700,7 @@
       "name": "allincrypto 熬鹰资本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "独立交易员｜历史成绩 ：实盘 2万到1000万 ｜币安资产管理规模第2｜OKX 资管规模第 1｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli  https://t.co/vH93LC4A1m",
-      "followersCount": 68440,
+      "followersCount": 68520,
       "friendsCount": 609,
       "location": "进群联系助理"
     },
@@ -183,7 +718,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 64719,
+      "followersCount": 64761,
       "friendsCount": 35,
       "location": "群在这里"
     },
@@ -202,8 +737,8 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #诈骗犯 #话痨\n\nBelieve what you believe\nwait for the wind",
-      "followersCount": 238040,
-      "friendsCount": 5076,
+      "followersCount": 238163,
+      "friendsCount": 5077,
       "location": "New York, USA"
     },
     "images": [
@@ -473,7 +1008,7 @@
       "name": "Fiona ❤️& ✌️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732381783558422528/2FQre00D_normal.jpg",
       "description": "NFA——Fiona's daily news: https://t.co/GJr2Qy5lAb Join Bybit with: https://t.co/S0qSBUoHig\nJoin OKX with:https://t.co/i66xzml0MI",
-      "followersCount": 40605,
+      "followersCount": 40615,
       "friendsCount": 1703,
       "location": ""
     },
