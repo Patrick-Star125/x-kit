@@ -1,11 +1,597 @@
 [
   {
     "user": {
+      "screenName": "0xSleepinRain",
+      "name": "雨中狂睡Sleeping in the Rain🌳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1926845736353722368/isFzY6cC_normal.jpg",
+      "description": "Thoughts sharing｜Head Chef👨🏻‍🍳 @0xBeraHome ｜TG Channel：https://t.co/nBkOmCF3Uh ｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rNR2t",
+      "followersCount": 23932,
+      "friendsCount": 3743,
+      "location": "Bitcoin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xSleepinRain/status/1930659136926355687",
+    "fullText": "个人观感，以太坊基金会越来越像个人了⬇️\n\n1、设立了透明的 $ETH 售卖机制，不像以前经常时不时加仓 $DAI ，引发市场的舆论风波；\n\n2、审慎地参与 DeFi，并获得收益，以维持运营的收支平衡；\n\n3、针对 RWA 叙事做了一定的迎合。\n\n它正在从「卖 ETH 发工资+资助开发」扩展到「DeFi 生态的支持者」。"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896109616423145472/gHSUvGT3_normal.jpg",
+      "description": "Angel Investor | AI\n\n未来在链上.赛高のgmgn 👉 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/1jHtOdRXCp",
+      "followersCount": 114811,
+      "friendsCount": 6975,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1930658766196027436",
+    "fullText": "Circle 的竞价已经竞到 65 了，怎么看？\n这只能说明 WLFI 低估了，没有其他结论 over"
+  },
+  {
+    "user": {
+      "screenName": "KKaWSB",
+      "name": "KK.aWSB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+      "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto)  | Trenches｜硅谷 P 将军｜金狗投研 2025｜深绿 Agent",
+      "followersCount": 25981,
+      "friendsCount": 2543,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KKaWSB/status/1930657565597478950",
+    "fullText": "扫链枯坐打狗,P小将vs深绿Agent实战（day39） https://t.co/yszbzICZJH"
+  },
+  {
+    "user": {
+      "screenName": "0xBTCceo",
+      "name": "壹身武艺| |Bird🕊️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
+      "description": "币coin实盘 四年180倍 跟我赚钱加v xiazongbatou         Sahara #0234856",
+      "followersCount": 9993,
+      "friendsCount": 600,
+      "location": "Auckland, New Zealand"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xBTCceo/status/1930654883033804810",
+    "fullText": "🖐币安🖐  🖐币安🖐 🖐币安🖐\n     \\😭/            \\😭/            \\😭/\n      👕               👕               👕\n      👖               👖               👖\n    👞👞         👞👞         👞👞\n不要再封alpha的号了"
+  },
+  {
+    "user": {
       "screenName": "JamesWynnReal",
       "name": "James Wynn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
       "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
-      "followersCount": 344155,
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GssLmIwXYAEHR3p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930649634575159567",
+    "fullText": "FYI: the bottom red line is my liquidation point. They went for me, despite the buy pressure and all trading metrics pointing to a break-out. They decided to use their power and manipulation to take one guy out. Maybe it’s just a cOinCidEnce.\n \nSaved by a few dollars and by a few https://t.co/SX0ae6oUon"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896109616423145472/gHSUvGT3_normal.jpg",
+      "description": "Angel Investor | AI\n\n未来在链上.赛高のgmgn 👉 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/1jHtOdRXCp",
+      "followersCount": 114811,
+      "friendsCount": 6975,
+      "location": "Crypto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GssH_mQaQAA6q1N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1930645657259589817",
+    "fullText": "看见群友说今天 Circle 上市，没有美股账户的，直接买它的币，亏不了\n\n确实，梭哈 USDC 应该亏不了大钱 https://t.co/OrtILxmA0P"
+  },
+  {
+    "user": {
+      "screenName": "liangxihuigui",
+      "name": "凉兮大元帅（白虎）",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908861280066420736/8nYRtT6q_normal.jpg",
+      "description": "凉兮本人性别男，喜欢女（精神病地雷系）负债两亿已结清，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证，已停止吃消灭性欲的药，支持言论自由不拉黑任何人",
+      "followersCount": 408000,
+      "friendsCount": 463,
+      "location": "阴蒂"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/liangxihuigui/status/1930642238935306358",
+    "fullText": "骂我的这些人，你们的全家都不得好死，你们全家都得死翘翘，我操死你们的全家，一群畜生，一群下贱东西被奴役一辈子，活该被共济会光明会被阴谋集团控制，一群畜生中的畜牲，除了在网络上喷有什么用啊啊你们这群畜生有种他妈把那群阴谋集团杀干净，臭傻逼逼们操死你们的妈，你们全家是绝对要不得好死，"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GssDbmlWwAAx-o1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930640650493374770",
+    "fullText": "They must hate me.\n \nDodged liquidation by a number of dollars. https://t.co/syzGAXQnBJ"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GssCDrPWQAAsjyz.mp4"
+    ],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930639134881706062",
+    "fullText": "Talk about dodging bullets https://t.co/QfsINLTVgR"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GssBhhlWIAExJin.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930638556323524771",
+    "fullText": "Update: $BTC long is INTACT.\n \nThanks to the good guys. https://t.co/UxkS7jxmwx"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930637200460320860",
+    "fullText": "The thing is there’s probably only about 1-2% of my followers who thoroughly see and understand exactly what’s going on.\n \nThe rest are just puppets."
+  },
+  {
+    "user": {
+      "screenName": "nft_hu",
+      "name": "Fiona ❤️& ✌️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1732381783558422528/2FQre00D_normal.jpg",
+      "description": "NFA——Fiona's daily news: https://t.co/GJr2Qy5lAb Join Bybit with: https://t.co/S0qSBUoHig\nJoin OKX with:https://t.co/i66xzml0MI",
+      "followersCount": 40783,
+      "friendsCount": 1714,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsr_3QhakAEX7k-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nft_hu/status/1930636723220017588",
+    "fullText": "川普和习的首次电话在美方的主动要求下展开了，虽然没谈出什么新结果，但是起码双方认同了之前的日内瓦90日缓刑条例。\n\n按川普的尿性还要谈很久。 https://t.co/aYDMlBB5f3"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930635920828485954",
+    "fullText": "Money isn’t real.\n \nBitcoin isn’t real."
+  },
+  {
+    "user": {
+      "screenName": "yzilabs",
+      "name": "YZi Labs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1882427944750190592/dkLQ6Yh6_normal.jpg",
+      "description": "YZi Labs invests in ventures at every stage, prioritizing those with solid fundamentals in Web3, AI, and healthcare.",
+      "followersCount": 711582,
+      "friendsCount": 342,
+      "location": "Global"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsr8SakbkAAFsF1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yzilabs/status/1930635863777845469",
+    "fullText": "✨Congrats to the 23 startups accepted into Easy Residency Season 1! \n\nWith 1,000+ applicants and 100+ interviews in 3 weeks, we're extremely impressed by these 23 ambitious, mission-driven teams. \n\nWe (the Labs team) look forward to building together with them.\n\nHuge thanks to https://t.co/iRjl6JceYu"
+  },
+  {
+    "user": {
+      "screenName": "TheDeFinvestor",
+      "name": "The DeFi Investor 🔎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
+      "description": "Crypto Analyst. Follow me for DeFi updates, narratives, & alpha. Subscribe to my free newsletter to stay on top of the crypto trends: https://t.co/qrKYXe3Uxo",
+      "followersCount": 144230,
+      "friendsCount": 1997,
+      "location": "FREE NEWSLETTER→"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDeFinvestor/status/1930634777771618450",
+    "fullText": "3 ways to find airdrops worth farming \n\nIn this blog post I cover: \n\n- How to find the best 🪂 farms\n- An X list for yield and airdrop farming \n- My strategy for Kaito Earn \n\nRead it here:\nhttps://t.co/fQKuqmQjzS"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #诈骗犯 #话痨\n\nBelieve what you believe\nwait for the wind",
+      "followersCount": 240364,
+      "friendsCount": 5241,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsr9el3akAAnJAt.jpg",
+      "https://pbs.twimg.com/media/Gsr9elwa4AAn0gT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/1930634101192892643",
+    "fullText": "操！他妈的，又是被封了才知道bug是什么！\n\n下次有啥卡bug的，能不能偷偷给我说一下啊！ https://t.co/d7vK5TaFfc"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsr9Xy9W8AEEXPl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930633987401130219",
+    "fullText": "We broke out, clear as day. But low and behold, they TAGRET MY EXACT LIQUIDATION PRICE.\n \nPeople are VERY CLEARLY BUYING AT MY LIQUIDATION PRICE BECAUSE:\n \n1. They’re getting cheap bitcoin due to market manipulation.\n \n2. Their fighting the Bitcoin cabal\n \nWe will win.\n \nJ.Wynn https://t.co/bTc8085dwS"
+  },
+  {
+    "user": {
+      "screenName": "thankUcrypto",
+      "name": "allincrypto 熬鹰资本 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+      "description": "|实盘 2万到1000万 ｜90万到2200 万｜币安跟随者收益第 1 ｜币安资金规模第 2｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli https://t.co/vH93LC4A1m",
+      "followersCount": 76711,
+      "friendsCount": 607,
+      "location": "进群联系助理"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsr9IcNbYAAMvhz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/thankUcrypto/status/1930633719100141804",
+    "fullText": "我已经可以预见未来某一天 alpha 规则将会出现 500 个相关补丁，分 200 个版本依次更新。\n用户未来想加入alpha，必须先默背所有规则，任何一条规则漏了就是直接的金钱损失。\n\n最后alpha 推倒重来，变成贡献度 https://t.co/98agLPFaNy"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930632781740077408",
+    "fullText": "#SaveJamesWynn"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930632683652022321",
+    "fullText": "You think you can shut me up by stopping my long.\n \nNo.\n \nYou’re fueling me and exposing yourselves.\n \nYour tactics are being documented and exposed live by me.\n \nThe perpetrators will be named.\n \nPut me in jail, or kill me to shut me up from now on. \n \nI’m coming for every one"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930631991482806649",
+    "fullText": "I think I have some seriously good people on my side here. And I just wanna say\n \nThank you 🙏 ."
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsr7SilXcAAZnb0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930631701685776536",
+    "fullText": "Normal trading normal trading normal trading. Cabal wake up, see my long, and go for me.\n \nYou’ve exposed yourselves. FUCK YOU. https://t.co/IefBUBoo93"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsr60RAX0AAlth4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930631178215641216",
+    "fullText": "Market manipulation. https://t.co/2R4XB38kKK"
+  },
+  {
+    "user": {
+      "screenName": "thankUcrypto",
+      "name": "allincrypto 熬鹰资本 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+      "description": "|实盘 2万到1000万 ｜90万到2200 万｜币安跟随者收益第 1 ｜币安资金规模第 2｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli https://t.co/vH93LC4A1m",
+      "followersCount": 76711,
+      "friendsCount": 607,
+      "location": "进群联系助理"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsr6cCabwAAaqXE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/thankUcrypto/status/1930630756617056286",
+    "fullText": "你可千万别跌穿千万别跌回 2480！ https://t.co/njJKIGVJny"
+  },
+  {
+    "user": {
+      "screenName": "lianyanshe",
+      "name": "链研社",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
+      "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉链研社交流群. https://t.co/xXOhLTPR4n👉币安手续费八折https://t.co/r9GREVIdCF",
+      "followersCount": 72083,
+      "friendsCount": 1029,
+      "location": "萨厄瓦多"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsruEpyagAAd4gb.jpg",
+      "https://pbs.twimg.com/media/GsrvkrAaEAEPgDu.png",
+      "https://pbs.twimg.com/media/GsrwMU6asAAIGsA.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lianyanshe/status/1930629360610103334",
+    "fullText": "借着 Circle 上市聊聊为什么交易所才是稳定币之争的胜负手，同时稳定币的储备也是交易所的胜负手。\n\n交易所龙头币安和稳定币龙头泰达都是有年赚百亿美金的营收\n\n➤ 为什么交易所是稳定币之争的胜负手\n1. 稳定币发行量的关键 https://t.co/wt4ZePw2B5"
+  },
+  {
+    "user": {
+      "screenName": "cz_binance",
+      "name": "CZ 🔶 BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925425686866796544/CzWMyTnb_normal.jpg",
+      "description": "DM: https://t.co/ITLXkxVNyN (fees go to charity)\n\n@BNBchain, @YZiLabs, @GiggleAcademy, ex-@binance.",
+      "followersCount": 10112078,
+      "friendsCount": 1833,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cz_binance/status/1930627774932226202",
+    "fullText": "Not a competition. Keep building!"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsr1EBvXUAAN8JX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930624875468554569",
+    "fullText": "Big breakout, market manipulators sending it back down again. When will this shit end?!! $BTC 🤢 https://t.co/2iPlakwu40"
+  },
+  {
+    "user": {
+      "screenName": "kickflixAI",
+      "name": "KICKFLIX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921224861688434689/vJ2gRglG_normal.jpg",
+      "description": "Kickstarting the future of AI Entertainment.. on @solana.",
+      "followersCount": 1580,
+      "friendsCount": 11,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsr0cHLWgAAmqzg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/kickflixAI/status/1930624161107325284",
+    "fullText": "Ready? https://t.co/Q1Ss0XMole"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/Gsry5fkW4AEC742.mp4"
+    ],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930622474770661688",
+    "fullText": "Am fucking hungry https://t.co/UoiH6dOFvT"
+  },
+  {
+    "user": {
+      "screenName": "thankUcrypto",
+      "name": "allincrypto 熬鹰资本 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+      "description": "|实盘 2万到1000万 ｜90万到2200 万｜币安跟随者收益第 1 ｜币安资金规模第 2｜ 启程Web3，就在币安： https://t.co/zb06MdUYTP 助理 @Aoyingzhuli https://t.co/vH93LC4A1m",
+      "followersCount": 76711,
+      "friendsCount": 607,
+      "location": "进群联系助理"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/thankUcrypto/status/1930619705167073670",
+    "fullText": "天大的利好今天都出来了。外盘都全面起飞了还。大饼这还往下面钻？\n我只能说，利好应该兑现了。空！"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 64969,
+      "friendsCount": 40,
+      "location": "群在这里"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1930619240085639428",
+    "fullText": "请假一天🤫"
+  },
+  {
+    "user": {
+      "screenName": "TheDeFinvestor",
+      "name": "The DeFi Investor 🔎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
+      "description": "Crypto Analyst. Follow me for DeFi updates, narratives, & alpha. Subscribe to my free newsletter to stay on top of the crypto trends: https://t.co/qrKYXe3Uxo",
+      "followersCount": 144230,
+      "friendsCount": 1997,
+      "location": "FREE NEWSLETTER→"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsrnSCdWAAAKBJ6.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDeFinvestor/status/1930611046659567720",
+    "fullText": "The latest developments in DeFi👇\n\nVitalik Buterin said Ethereum L1 will scale ~10x within a year\n\nAAVE’s Umbrella, a major upgrade that lets you stake yield-bearing tokens to earn extra rewards, went live\n\nEthereum Foundation announced plans to sell less ETH and engage more with https://t.co/okhIeM1aje"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930609974411165992",
+    "fullText": "Full disclosure the only coins I own is $BTC and $moonpig"
+  },
+  {
+    "user": {
+      "screenName": "lianyanshe",
+      "name": "链研社",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
+      "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉链研社交流群. https://t.co/xXOhLTPR4n👉币安手续费八折https://t.co/r9GREVIdCF",
+      "followersCount": 72083,
+      "friendsCount": 1029,
+      "location": "萨厄瓦多"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsrnJ5zb0AAIde_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lianyanshe/status/1930609558806012269",
+    "fullText": "原来是给特靠谱通电话了，难怪涨了 https://t.co/jOoagm8fuJ"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
+      "friendsCount": 456,
+      "location": "$MOONPIG 🌕🐷"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsrnFxFXkAAC3E-.jpg",
+      "https://pbs.twimg.com/media/GsrnFw-WsAAhf4M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1930609487624212575",
+    "fullText": "Oopsie here we goooo https://t.co/Dnae0IhC0S"
+  },
+  {
+    "user": {
+      "screenName": "guanhaibit",
+      "name": "观海bit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1649630218687246336/-ikikl1H_normal.jpg",
+      "description": "💻 程序猿 | 💎 套利玩家 ｜ ❤️ DeFi 爱好者\n\n推特分享 投资记录📝，交志同道合的朋友🧑‍🤝‍🧑",
+      "followersCount": 3363,
+      "friendsCount": 1558,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsrlq5UbAAAYhHi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/guanhaibit/status/1930607918807732532",
+    "fullText": "#挖矿\n\n币安钱包的新矿，投入SOL现在年化90%+，持续不了多久。\n\n且挖且珍惜。 https://t.co/LwHnSTSIFi"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
+      "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
+      "followersCount": 344994,
       "friendsCount": 456,
       "location": "$MOONPIG 🌕🐷"
     },
@@ -20,7 +606,7 @@
       "name": "Murphy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_normal.jpg",
       "description": "17年老韭菜；研究链上数据和宏观情绪相结合，构建自己的交易思维。保持谨慎乐观！|  近3亿用户的共同选择就在币安：https://t.co/5pQWuny9gU  |  #OKX web3入口一个就够 https://t.co/YwY7pIgKzB",
-      "followersCount": 63675,
+      "followersCount": 63670,
       "friendsCount": 789,
       "location": ""
     },
@@ -37,8 +623,8 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #诈骗犯 #话痨\n\nBelieve what you believe\nwait for the wind",
-      "followersCount": 240516,
-      "friendsCount": 5239,
+      "followersCount": 240364,
+      "friendsCount": 5241,
       "location": "New York, USA"
     },
     "images": [],
@@ -52,7 +638,7 @@
       "name": "Ai 姨",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
       "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance | Sahara #0063349\n个人主页：https://t.co/gff8vVlSl1",
-      "followersCount": 95909,
+      "followersCount": 95889,
       "friendsCount": 549,
       "location": "返佣链接 👉"
     },
@@ -70,8 +656,8 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 65016,
-      "friendsCount": 39,
+      "followersCount": 64969,
+      "friendsCount": 40,
       "location": "群在这里"
     },
     "images": [
@@ -89,7 +675,7 @@
       "name": "链研社",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
       "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉链研社交流群. https://t.co/xXOhLTPR4n👉币安手续费八折https://t.co/r9GREVIdCF",
-      "followersCount": 72143,
+      "followersCount": 72083,
       "friendsCount": 1029,
       "location": "萨厄瓦多"
     },
@@ -106,8 +692,8 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896109616423145472/gHSUvGT3_normal.jpg",
       "description": "Angel Investor | AI\n\n未来在链上.赛高のgmgn 👉 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/1jHtOdRXCp",
-      "followersCount": 115360,
-      "friendsCount": 6973,
+      "followersCount": 114811,
+      "friendsCount": 6975,
       "location": "Crypto"
     },
     "images": [
@@ -125,8 +711,8 @@
       "name": "0xMao 🎀🎒",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930451033379221509/Qx3qoi7L_normal.jpg",
       "description": "猫一思考 上帝就发笑🤔",
-      "followersCount": 20363,
-      "friendsCount": 1731,
+      "followersCount": 20295,
+      "friendsCount": 1733,
       "location": ""
     },
     "images": [
@@ -143,7 +729,7 @@
       "name": "James Wynn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
       "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
-      "followersCount": 344155,
+      "followersCount": 344994,
       "friendsCount": 456,
       "location": "$MOONPIG 🌕🐷"
     },
@@ -158,7 +744,7 @@
       "name": "James Wynn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929471787030683648/SBbLOZkA_normal.jpg",
       "description": "High risk leverage trader | BTC maxi | Trying to make $1bn USD on perps in 2025.",
-      "followersCount": 344155,
+      "followersCount": 344994,
       "friendsCount": 456,
       "location": "$MOONPIG 🌕🐷"
     },
@@ -816,7 +1402,7 @@
       "name": "Upside",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876717390781628416/mTLBxrOr_normal.jpg",
       "description": "Follow @UpsideFun and we will DM you access before anyone else 👀 Backed by @MrJasonChoi, @CryptoHayes, and 25+ other degenerate angels.",
-      "followersCount": 15993,
+      "followersCount": 16091,
       "friendsCount": 35,
       "location": "Follow for early access 👀"
     },
