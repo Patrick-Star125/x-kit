@@ -1,11 +1,329 @@
 [
   {
     "user": {
+      "screenName": "Boywus",
+      "name": "Boywus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1818531629436203008/pd_aLbbA_normal.jpg",
+      "description": "高频交易| 跨所流动性复制 | 对冲交易 | 价差套利 \n免费分享开源脚本与交易原理\n开源资费面板：https://t.co/8DGHTW1sN0",
+      "followersCount": 4240,
+      "friendsCount": 236,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Boywus/status/1938805726828192200",
+    "fullText": "币安Alpha正在用“剩饭模式”挤压工作室，真实用户比例逐步提升"
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||🐿️🥜 $pnut\n|| 🌞🌕https://t.co/nnmTLYbIfK\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 211971,
+      "friendsCount": 6088,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1938802308911112390",
+    "fullText": "蔡澜去世，看了一期许知远采访他的视频。\n\n最大的感触不是蔡澜豁达，而是许提的问题，让我对知行这件事有了些重新思考。\n\n许不断抛出来一些宏大主题，蔡都是插科打诨的回避掉，“别给自己那么重包袱”。\n\n知识分子，如果是纯思维领域，比如数学，是可以不参与世间修行，获得大成就的。"
+  },
+  {
+    "user": {
+      "screenName": "lianyanshe",
+      "name": "链研社",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
+      "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉Youtube | https://t.co/CjMDeYoJQG👉币安手续费八折https://t.co/r9GREVIdCF",
+      "followersCount": 73329,
+      "friendsCount": 1058,
+      "location": "萨厄瓦多"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Guf-czgWEAErTow.jpg",
+      "https://pbs.twimg.com/media/Guf-f5HaoAUhh4H.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lianyanshe/status/1938798701713203702",
+    "fullText": "Sui生态系统中的头部Meme代币LOFI，和Turbos又一起搞了一个独家活动。任意添加一笔 LOFI/SUI 的流动性并参加抽奖就有 50 美金的奖励。\n\nTurbos @Turbos_finance  作为Sui生态的 meme 赛道中领先的 DEX，以其高效的交易引擎和对Meme币友好的上币策略，吸引了大量的项目方和用户。 https://t.co/zYUzLL9B3D"
+  },
+  {
+    "user": {
+      "screenName": "KKaWSB",
+      "name": "KK.aWSB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+      "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | Trenches｜硅谷 P 将军｜金狗投研｜    深绿 Agent👽｜Learn in public📖｜",
+      "followersCount": 26459,
+      "friendsCount": 2597,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KKaWSB/status/1938798456958836837",
+    "fullText": "财富是睡觉时还能挣钱的能力。这也才是真正值得我们长期构建的东西。"
+  },
+  {
+    "user": {
+      "screenName": "huojichuanqi",
+      "name": "布欧的量化日记",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1646454418584518656/QolfNrn8_normal.jpg",
+      "description": "一个纯喜爱分享的专职币圈量化交易员，涉及币圈套利/cta/高频等策略思路！youtube免费学习频道：https://t.co/aNR1xmhpSL ，币coin有稳定收益实盘展示！\nTG群：https://t.co/2kfIclvoDg",
+      "followersCount": 2110,
+      "friendsCount": 317,
+      "location": "Jiangxi"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Guf-lXzWsAIvVi1.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/huojichuanqi/status/1938798095569166383",
+    "fullText": "我发现一个问题，天天想着不爆仓其实也是钻牛角尖，好比谈女人，想占用一辈子不现实。。你只要解放思想，嫖一次是一次，不复投进去，自然回报就是预期了。策略也是一样，嫖到利润就拿出来，爆了就爆。。说到底，搞交易跟蔡澜一个思路，女朋友要多（账户要多），啥策略都跑（丑的照杀），自然就留下好的 https://t.co/mlhoSGWDB6"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
+      "followersCount": 243285,
+      "friendsCount": 5431,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/1938798006180155643",
+    "fullText": "下一个BN ALPHA 的大项目是哪个呢？\n\n你们觉得 @monad_xyz 会不会上？"
+  },
+  {
+    "user": {
+      "screenName": "lianyanshe",
+      "name": "链研社",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
+      "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉Youtube | https://t.co/CjMDeYoJQG👉币安手续费八折https://t.co/r9GREVIdCF",
+      "followersCount": 73329,
+      "friendsCount": 1058,
+      "location": "萨厄瓦多"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lianyanshe/status/1938797404465307870",
+    "fullText": "标普、纳指共创249年历史新高，BTC 没有随之破新高，之前说过把 BTC 替换成 Google 或者是 GGLL(两倍做多谷歌)跑赢 10～20%，但投资组合的抗风险性更强。"
+  },
+  {
+    "user": {
+      "screenName": "AirdropAlchemis",
+      "name": "炼金叔叔Alchemist.sol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+      "description": "✍️币安广场创作者｜🟣Solar member of @solana_zh ｜OKX Web3钱包现已支持130+公链，提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 #web3入口 一个就够 https://t.co/xfA5QPts19",
+      "followersCount": 34252,
+      "friendsCount": 1856,
+      "location": "Shibuya-ku, Tokyo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Guf3YmgWoAAp0C_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AirdropAlchemis/status/1938790208390283489",
+    "fullText": "限时限量--Uniswap头像卡 \nhttps://t.co/fcOUomeayw\n登陆推特生成即可  \n有啥用不知道\n反正外网很火\n感觉似乎跟推特号的权重相关 https://t.co/Ic0Zaqhv29"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gufz9eIWwAAAfmY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1938786412410867803",
+    "fullText": "Are you in my TG yet? \n \nJust posted https://t.co/7jBSians9A https://t.co/jjXCGkzJDS"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 65586,
+      "friendsCount": 46,
+      "location": "群在这里"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GufwUaWWUAA5nCI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1938782411422322697",
+    "fullText": "好多朋友问直播  \n没行情就不直播吧\n原本以为是趋势的开始，谁知道又是骗子\n\n老鼠仓多空双吃后把动能都榨干了\n明显有效波动在其他品种，别在泥巴里纠结 https://t.co/ESRYbE8Igm"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1938781337252483148",
+    "fullText": "The culture of meme coins has completely shifted\n \nWe OG’s used to like dog coins\n \nThese new kids like nigga coin, fartcoin etc\n \nMeme coins used to be fun\n \nNow they toxic AF\n \nTime to adapt"
+  },
+  {
+    "user": {
+      "screenName": "ai_9684xtpa",
+      "name": "Ai 姨",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
+      "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance | Sahara #0063349\n个人主页：https://t.co/gff8vVlSl1",
+      "followersCount": 100550,
+      "friendsCount": 567,
+      "location": "返佣链接 👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gufr8bWWQAAsO8f.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ai_9684xtpa/status/1938777609103647110",
+    "fullText": "巨鲸 / 机构 0x1fc...FAEd5 在 20 分钟前提出 1888 $ETH （456 万美元），随后存入 ETH2.0 中质押，真有信仰啊😆\n\n该地址近一周已累计建仓 5089 ETH，总价值 1265 万美元，均价 $2486\n\n钱包地址 https://t.co/M3porWbf5o\n\n本文由 #Gate 大门交易所 | @Gateio_zh 赞助 https://t.co/u7WIvHuhS4"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1938777161563062781",
+    "fullText": "My goal is to make $5,000,000 this weekend.\n \nAnd add it to the cold storage never touch pile of bitcoin.\n \nThat would be another 46.7 bitcoins.\n \nLETS FKN DO THIS.\n \nJ.Wynn 🫡"
+  },
+  {
+    "user": {
+      "screenName": "AirdropAlchemis",
+      "name": "炼金叔叔Alchemist.sol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+      "description": "✍️币安广场创作者｜🟣Solar member of @solana_zh ｜OKX Web3钱包现已支持130+公链，提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 #web3入口 一个就够 https://t.co/xfA5QPts19",
+      "followersCount": 34252,
+      "friendsCount": 1856,
+      "location": "Shibuya-ku, Tokyo"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AirdropAlchemis/status/1938776166716023089",
+    "fullText": "你们遭遇过校园霸凌和职场霸凌吗？\n我现在对一个项目的感觉就是「用户被霸凌」\n但我现在还在参与，就暂时不说是哪个项目了。"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1938774038668812317",
+    "fullText": "I smell a black swan event coming"
+  },
+  {
+    "user": {
+      "screenName": "hexiecs",
+      "name": "冷静冷静再冷静",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_normal.jpg",
+      "description": "quitting my gambling addiction",
+      "followersCount": 61421,
+      "friendsCount": 1306,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hexiecs/status/1938773591514104216",
+    "fullText": "ive just shorted $83m worth of chillhouse on hyperliquid\n\nunloading lots of spot supply soon\n\nthis will make jellyjelly look like child's play"
+  },
+  {
+    "user": {
+      "screenName": "ai_9684xtpa",
+      "name": "Ai 姨",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
+      "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance | Sahara #0063349\n个人主页：https://t.co/gff8vVlSl1",
+      "followersCount": 100550,
+      "friendsCount": 567,
+      "location": "返佣链接 👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GufnQZMaoAIAX51.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ai_9684xtpa/status/1938772681102651586",
+    "fullText": "@Gateio_zh 更新：凌晨 01:23 AguilaTrades 的 BTC 20x 多单已加仓至 1.6 亿美元\n\n目前持仓 1500 BTC，开仓价 $107,288.9，清算价 $101,730，浮亏 63.5 万美元\n\n传送门 👉 https://t.co/uU7cEyDgq9 https://t.co/tdMx2xlni8"
+  },
+  {
+    "user": {
+      "screenName": "AirdropAlchemis",
+      "name": "炼金叔叔Alchemist.sol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+      "description": "✍️币安广场创作者｜🟣Solar member of @solana_zh ｜OKX Web3钱包现已支持130+公链，提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 #web3入口 一个就够 https://t.co/xfA5QPts19",
+      "followersCount": 34252,
+      "friendsCount": 1856,
+      "location": "Shibuya-ku, Tokyo"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AirdropAlchemis/status/1938772650526146996",
+    "fullText": "接下来叔会避免发写KAITO榜单项目，除非我真的在参与\n\n口撸拿到大结果的基本都是KOL，原因很简单：很早写过xx项目的教程于是权重较高，纯属运气。\n现阶段去卷KAITO榜单竞争实属激烈，更坏的一点是天天发这些项目内容，别人看着也烦😂\n\n@GiveRep @ATTNtoken"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
+      "followersCount": 243285,
+      "friendsCount": 5431,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gudn7BPaoAAHEII.png",
+      "https://pbs.twimg.com/media/Gudn6ZhaMAAwJwF.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/1938767051855642975",
+    "fullText": "TON链上的一个新东西 @collectibles_tg \n我看简介没太懂要做啥，貌似是做贴纸/礼物/NFT这些的交易市场？\n进入tg之后，会有一些小任务，做完会有个倒计时。\n大家可以做一做，万一有惊喜\n链接：https://t.co/DNRzwo7PRF\n\n额外补充一下，这个项目被 TON 基金会的CEO @crownmax https://t.co/dcVeSv3G2X"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/1938765038178967632",
+    "fullText": "❌ ISRAEL BROKEN CEASEFIRE ❌"
+  },
+  {
+    "user": {
       "screenName": "yuyue_chris",
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/1jHtOdRXCp",
-      "followersCount": 108536,
+      "followersCount": 108561,
       "friendsCount": 7018,
       "location": "Crypto"
     },
@@ -23,10 +341,10 @@
       "screenName": "JamesWynnReal",
       "name": "James Wynn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
-      "description": "Top 0.1% BTC 🔥| Money isn't real 💯 | Leverage Trader 💹 | Meme Coin Sensei🥋*All posts NFA / Entertainment Only* Join my private channel 👉https://t.co/O9unATt74Q",
-      "followersCount": 382877,
-      "friendsCount": 499,
-      "location": "DM @SabrinaWynn on TG for biz"
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
     },
     "images": [],
     "videos": [],
@@ -55,10 +373,10 @@
       "screenName": "JamesWynnReal",
       "name": "James Wynn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
-      "description": "Top 0.1% BTC 🔥| Money isn't real 💯 | Leverage Trader 💹 | Meme Coin Sensei🥋*All posts NFA / Entertainment Only* Join my private channel 👉https://t.co/O9unATt74Q",
-      "followersCount": 382877,
-      "friendsCount": 499,
-      "location": "DM @SabrinaWynn on TG for biz"
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
     },
     "images": [],
     "videos": [],
@@ -70,10 +388,10 @@
       "screenName": "JamesWynnReal",
       "name": "James Wynn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
-      "description": "Top 0.1% BTC 🔥| Money isn't real 💯 | Leverage Trader 💹 | Meme Coin Sensei🥋*All posts NFA / Entertainment Only* Join my private channel 👉https://t.co/O9unATt74Q",
-      "followersCount": 382877,
-      "friendsCount": 499,
-      "location": "DM @SabrinaWynn on TG for biz"
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
     },
     "images": [],
     "videos": [],
@@ -82,13 +400,30 @@
   },
   {
     "user": {
+      "screenName": "ufc",
+      "name": "UFC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_normal.jpg",
+      "description": "#UFC317 | Topuria vs Oliveira | June 28th | 10pmET on @ESPNPlus PPV",
+      "followersCount": 13018068,
+      "friendsCount": 683,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1938696946367283200/vid/avc1/720x1280/AKW8vEAYCv2WYke5.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ufc/status/1938697243995054285",
+    "fullText": "It's all going down at UFC X 👏\n\nDon't miss out 👉 https://t.co/YEOJ5D2UEr https://t.co/jjKOugbFc4"
+  },
+  {
+    "user": {
       "screenName": "JamesWynnReal",
       "name": "James Wynn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
-      "description": "Top 0.1% BTC 🔥| Money isn't real 💯 | Leverage Trader 💹 | Meme Coin Sensei🥋*All posts NFA / Entertainment Only* Join my private channel 👉https://t.co/O9unATt74Q",
-      "followersCount": 382877,
-      "friendsCount": 499,
-      "location": "DM @SabrinaWynn on TG for biz"
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
     },
     "images": [],
     "videos": [],
@@ -100,10 +435,10 @@
       "screenName": "JamesWynnReal",
       "name": "James Wynn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
-      "description": "Top 0.1% BTC 🔥| Money isn't real 💯 | Leverage Trader 💹 | Meme Coin Sensei🥋*All posts NFA / Entertainment Only* Join my private channel 👉https://t.co/O9unATt74Q",
-      "followersCount": 382877,
-      "friendsCount": 499,
-      "location": "DM @SabrinaWynn on TG for biz"
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
     },
     "images": [],
     "videos": [],
@@ -116,8 +451,8 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 118480,
-      "friendsCount": 1666,
+      "followersCount": 118509,
+      "friendsCount": 1667,
       "location": "moon"
     },
     "images": [],
@@ -131,7 +466,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/1jHtOdRXCp",
-      "followersCount": 108536,
+      "followersCount": 108561,
       "friendsCount": 7018,
       "location": "Crypto"
     },
@@ -144,11 +479,26 @@
   },
   {
     "user": {
+      "screenName": "quantifyfunds",
+      "name": "Quantify Funds",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1855378303538081792/VkTBXr-c_normal.png",
+      "description": "Double exposure, single trade ETFs. Leveraged for the Long Run. \nhttps://t.co/qkOUUijgbX",
+      "followersCount": 679,
+      "friendsCount": 732,
+      "location": "Brooklyn, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/quantifyfunds/status/1938675196673642703",
+    "fullText": "How has STKd 100% Bitcoin &amp; 100% Gold ETF BTGD stacked up against Bitcoin and Gold? \nImportant information @ https://t.co/D3QXoNdBdv\""
+  },
+  {
+    "user": {
       "screenName": "0xSleepinRain",
       "name": "雨中狂睡🌲Doom",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934183886164213761/A_PN8w0F_normal.jpg",
       "description": "Thoughts sharing｜Head Chef👨🏻‍🍳 @0xBeraHome ｜TG Channel：https://t.co/nBkOmCFBJP ｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rOoS1",
-      "followersCount": 24289,
+      "followersCount": 24292,
       "friendsCount": 3773,
       "location": "Bitcoin"
     },
@@ -163,7 +513,7 @@
       "name": "allincrypto 熬鹰资本 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "｜PNL 3K—1.4M ｜120K—7M｜币安跟随者收益第1｜OKX规模第1｜ 币安：https://t.co/8IrHX1WSYl OKX https://t.co/KcBOmqBYUp 群https://t.co/vH93LC4A1m 助理@Aoyingzhuli",
-      "followersCount": 102150,
+      "followersCount": 102229,
       "friendsCount": 608,
       "location": "你就是你自己的交易之神。"
     },
@@ -178,7 +528,7 @@
       "name": "The DeFi Investor 🔎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
       "description": "Crypto Analyst. Follow me for DeFi updates, narratives, & alpha. Subscribe to my free newsletter to stay on top of the crypto trends: https://t.co/qrKYXe3Uxo",
-      "followersCount": 146006,
+      "followersCount": 146122,
       "friendsCount": 2046,
       "location": "FREE NEWSLETTER→"
     },
@@ -189,11 +539,28 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "Sharing the latest in the Conservative Movement 🇺🇸 Home to the most influential gatherings of conservatives in the world 🌎",
+      "followersCount": 245189,
+      "friendsCount": 5068,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1938658224162643969/vid/avc1/1080x1920/dNLgt7pmbnhdyIVT.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CPAC/status/1938658379863662972",
+    "fullText": ".@ByronDonalds:  \"Major win in the hat of @POTUS because it took someday going to the NATO countries and saying 'We love you guys, we're with you, but we're not going to pay the bill for everything anymore. You gotta do your part'...it's better for America, better for Europe.\" https://t.co/6vZJSDF7d0"
+  },
+  {
+    "user": {
       "screenName": "meleemarkets",
       "name": "Melee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909414883315109889/kvtsepiq_normal.jpg",
       "description": "Truth from controversy | There is no CA, ily",
-      "followersCount": 2835,
+      "followersCount": 2846,
       "friendsCount": 18,
       "location": "Solana"
     },
@@ -210,8 +577,8 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 118480,
-      "friendsCount": 1666,
+      "followersCount": 118509,
+      "friendsCount": 1667,
       "location": "moon"
     },
     "images": [],
@@ -240,8 +607,8 @@
       "name": "茶不思.hl🎒",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1915950285991907332/xK3zVp9__normal.jpg",
       "description": "山色迤逦皆因我 | Maxi @hyperliquidX @Backpack|心澄如镜，写皆所得 | 已娃有婚｜DEX researcher |不接广子",
-      "followersCount": 8937,
-      "friendsCount": 1446,
+      "followersCount": 8948,
+      "friendsCount": 1447,
       "location": "Manchester, England"
     },
     "images": [],
@@ -251,11 +618,26 @@
   },
   {
     "user": {
+      "screenName": "promptcon",
+      "name": "The PromptCon.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1910088293963927553/qOXg--yH_normal.jpg",
+      "description": "The https://t.co/SiYRM5cmQa is an annual fully virtual conference held in November. The conference targets every day people and their experiences with AI and machines.",
+      "followersCount": 6,
+      "friendsCount": 7,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/promptcon/status/1938618573469163926",
+    "fullText": "Discover AI like never before at https://t.co/8n1VkAVPXz! 🎉 Our 3-day virtual conference unpacks LLMs, their applications, and future trends. Don’t wait—join us now! 🚀"
+  },
+  {
+    "user": {
       "screenName": "thankUcrypto",
       "name": "allincrypto 熬鹰资本 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "｜PNL 3K—1.4M ｜120K—7M｜币安跟随者收益第1｜OKX规模第1｜ 币安：https://t.co/8IrHX1WSYl OKX https://t.co/KcBOmqBYUp 群https://t.co/vH93LC4A1m 助理@Aoyingzhuli",
-      "followersCount": 102150,
+      "followersCount": 102229,
       "friendsCount": 608,
       "location": "你就是你自己的交易之神。"
     },
@@ -273,7 +655,7 @@
       "name": "冷静冷静再冷静",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_normal.jpg",
       "description": "quitting my gambling addiction",
-      "followersCount": 61418,
+      "followersCount": 61421,
       "friendsCount": 1306,
       "location": ""
     },
@@ -290,7 +672,7 @@
       "name": "Upside",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876717390781628416/mTLBxrOr_normal.jpg",
       "description": "Follow @UpsideFun and we will DM you access before anyone else 👀 Backed by @MrJasonChoi, @CryptoHayes, and 25+ other degenerate angels.",
-      "followersCount": 20042,
+      "followersCount": 20038,
       "friendsCount": 36,
       "location": "Follow for early access 👀"
     },
@@ -306,10 +688,10 @@
       "screenName": "JamesWynnReal",
       "name": "James Wynn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1935578770586341376/V1MN4DBi_normal.jpg",
-      "description": "Top 0.1% BTC 🔥| Money isn't real 💯 | Leverage Trader 💹 | Meme Coin Sensei🥋*All posts NFA / Entertainment Only* Join my private channel 👉https://t.co/O9unATt74Q",
-      "followersCount": 382877,
-      "friendsCount": 499,
-      "location": "DM @SabrinaWynn on TG for biz"
+      "description": "BTC Top 1% 🥇| Money isn’t real 💵| High Stakes Leverage Trader 🤙 | Meme Coin Sensei 🥋 | Join my Wynning network 👉 https://t.co/O9unATszfi",
+      "followersCount": 382836,
+      "friendsCount": 501,
+      "location": "NFA / Entertainment Only"
     },
     "images": [
       "https://pbs.twimg.com/media/GudRkK7aAAE0Zb5.jpg"
@@ -457,7 +839,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/1jHtOdRXCp",
-      "followersCount": 108536,
+      "followersCount": 108561,
       "friendsCount": 7018,
       "location": "Crypto"
     },
@@ -475,7 +857,7 @@
       "name": "凉兮大元帅（白虎已上环已结扎）",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908861280066420736/8nYRtT6q_normal.jpg",
       "description": "凉兮本人性别男，喜欢女（地雷系）负债两亿已结清，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，因为负债这几年导致重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证，支持言论自由不拉黑任何人",
-      "followersCount": 370898,
+      "followersCount": 370944,
       "friendsCount": 466,
       "location": "阴蒂"
     },
@@ -584,8 +966,8 @@
       "name": "炼金叔叔Alchemist.sol",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
       "description": "✍️币安广场创作者｜🟣Solar member of @solana_zh ｜OKX Web3钱包现已支持130+公链，提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 #web3入口 一个就够 https://t.co/xfA5QPts19",
-      "followersCount": 34237,
-      "friendsCount": 1855,
+      "followersCount": 34252,
+      "friendsCount": 1856,
       "location": "Shibuya-ku, Tokyo"
     },
     "images": [
@@ -613,6 +995,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/cutepandaweb3/status/1938545257987309699",
     "fullText": "最近比较看好$SEI 但是我进的位置确实有点傻逼 这两天一直顶着-20%的回撤 现在才刚回到成本线\n还是不能上头 看上什么要考虑分批次抄底去配置 \n这次属于给大家做个反面教材 https://t.co/eJocj5HloJ"
+  },
+  {
+    "user": {
+      "screenName": "SoFi",
+      "name": "SoFi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1411014292791382016/LqQG6oZd_normal.jpg",
+      "description": "The finance company that's helping members get their money right. Bank, borrow, and invest — all in one app. NMLS #1121636 Questions: @SoFiSupport",
+      "followersCount": 157751,
+      "friendsCount": 1085,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SoFi/status/1938278931045773413",
+    "fullText": "📣 Strap in: we've got two BIG new features coming to SoFi:\n\n🌎 Send money worldwide faster, easier, and for less.\nJOIN WAITLIST: https://t.co/0vQI0uuxp9\n\n😎 Crypto trading is coming back!\nWaitlist coming soon 👀"
   },
   {
     "user": {
