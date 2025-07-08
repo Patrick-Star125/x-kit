@@ -1,11 +1,437 @@
 [
   {
     "user": {
+      "screenName": "0xSleepinRain",
+      "name": "雨中狂睡🌲",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940346874180866048/ooHPMcQR_normal.jpg",
+      "description": "Thoughts sharing｜Head Chef👨🏻‍🍳 @0xBeraHome ｜TG Channel：https://t.co/nBkOmCFBJP ｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rOoS1",
+      "followersCount": 24492,
+      "friendsCount": 3784,
+      "location": "Bitcoin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xSleepinRain/status/1942497586314895467",
+    "fullText": "哇，现在真的，AI 评论已经泛滥了。"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
+      "followersCount": 65550,
+      "friendsCount": 47,
+      "location": "群在这里"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1942496292623777927",
+    "fullText": "再牛逼的聪明钱胜率也不如 笨比反指的不败金身😂"
+  },
+  {
+    "user": {
+      "screenName": "0xScottBTC",
+      "name": "AI索罗斯科特",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1914140013060849664/VKG38tuf_normal.jpg",
+      "description": "3年硬件开发，2年券商投研，10年加密投资。目前专注AI量化\n@GryphsisAcademy 联合创始人\n商务联系(tg): scott_cheung\nCEX：https://t.co/c5NxRw55j9\nDEX：https://t.co/gOw7F25YGU",
+      "followersCount": 12029,
+      "friendsCount": 1221,
+      "location": "Bangkok"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUf6TBbwAAOSPy.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xScottBTC/status/1942494797048209753",
+    "fullText": "最近 Perp DEX 刷交易量的活动比较多，社区小伙伴好多人让我分享我推特发的做市商策略。经过这几天的调试，终于完成了一行代码不写，用 AI 实现做市商策略进行刷量，周四开一场分享会分享给大家，欢迎大家一起来交流～ https://t.co/DUxZd6N1jC"
+  },
+  {
+    "user": {
       "screenName": "BTCdayu",
       "name": "大宇",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1862767252400967680/mjEMe7kp_normal.jpg",
       "description": "币圈宝典 https://t.co/EIMVhaCHyk\n\n💰最高等级省手续费注册\n币安 https://t.co/CLh8KEA9Ri\nOK https://t.co/k9RDrZX7l7\n\n🤖链上打狗\nhttps://t.co/s2lOGi0Bnw\n\n✈️投资频道\nhttps://t.co/f4KWsBAJpr\n\n㊙️不滞于物 自此精修",
-      "followersCount": 265399,
+      "followersCount": 265411,
+      "friendsCount": 3697,
+      "location": "收费群1688U/年，点链接"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BTCdayu/status/1942490018041454812",
+    "fullText": "pumpfun始终在做正确的事，太牛逼。\n你们喜欢资产发行，我做个平台；\n你们喜欢炒meme，我赚手续费；\n你们fomo索拉纳，我先卖了；\n你们期待我拉盘，我用嘴支持；\n你们觉得我要凉，我直接卖一波平台币。\n\n你笑pumpfun被反超，他笑你傻比看不穿。"
+  },
+  {
+    "user": {
+      "screenName": "missoralways",
+      "name": "A",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
+      "description": "Narrative trader l Professional roundtripper l @protoscap",
+      "followersCount": 13698,
+      "friendsCount": 864,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/missoralways/status/1942489617158336824",
+    "fullText": "GM"
+  },
+  {
+    "user": {
+      "screenName": "0xCheshire",
+      "name": "柴郡🔔｜Crypto+AI Plus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1843286202528796673/PUyK9V4D_normal.jpg",
+      "description": "创始人@GrowithAI | 成员@bamboozcrypto\n\n非投资建议，独立思考 #DYOR \n\n加入交流群：https://t.co/lkMXOPXmCL\n\n#Binance 近3亿用户共同选择，出入金安全：https://t.co/iOHiyBqQmo\n\n#OKX 专属邀请链接：https://t.co/sqBPIwoF8P",
+      "followersCount": 135497,
+      "friendsCount": 933,
+      "location": "点击开始购买你人生第一枚比特币（保姆级教程）👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUYv9rWUAAzHii.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xCheshire/status/1942486639055626463",
+    "fullText": "没有它，CIA 无法运作。\n没有它，五角大楼无法运转。\n没有它，华尔街无法交易。\n\n但大多数人对帕兰泰尔的用途毫无概念。\n\n政府是如何允许一家市值 3000 亿美元的监控公司在你身边无处不在的：🧵 https://t.co/mdd4NjT5HS"
+  },
+  {
+    "user": {
+      "screenName": "AirdropAlchemis",
+      "name": "炼金叔叔Alchemist.sol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+      "description": "✍️币安广场创作者｜🟣Solar member of @solana_zh ｜OKX Web3钱包现已支持130+公链，提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 #web3入口 一个就够 https://t.co/xfA5QPts19",
+      "followersCount": 34713,
+      "friendsCount": 1921,
+      "location": "Shibuya-ku, Tokyo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUXuZsboAAihwR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AirdropAlchemis/status/1942485022570864924",
+    "fullText": "说实话最近这两周我的产量没那么高也没感觉到焦虑\n一方面是因为确实没碰到新的让我想深入交互的项目\n另一方面感觉搞抽象真的很快乐，我快乐，你们也快乐 https://t.co/fybLORpiNr"
+  },
+  {
+    "user": {
+      "screenName": "CryptoPainter_X",
+      "name": "Crypto_Painter",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1370798517384450048/Q2Y0JL7G_normal.jpg",
+      "description": "老朋友叫我“画师”，主要做 $BTC 技术\\数据分析和量化交易，提供各种刁钻角度看市场，用时间做杠杆，被造谣开直播时会砸盘。 正在猛学Web3应用层！$Kaito #Ethos $Virtual #OKX CEX：https://t.co/361fpORuDK",
+      "followersCount": 88770,
+      "friendsCount": 1146,
+      "location": "电报群 TG Group → "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1942319972849516544/pu/vid/avc1/720x720/aDHQWcRWAa23XeFA.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CryptoPainter_X/status/1942481669694579102",
+    "fullText": "这个小哥真的强，如果是我早就掉水里了...\n\n看的人还挺紧张的！\nhttps://t.co/eTmX9oGAlx"
+  },
+  {
+    "user": {
+      "screenName": "DtDt666",
+      "name": "看不懂的sol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1759123402139500544/g6UJlLcs_normal.jpg",
+      "description": "一生只搞一个币 $SOL  没有收费群，切勿相信。\n币安广场创作者！蓝鸟会成员！\n陪兄弟们一起穿越牛熊，通过逃顶和抄底赚更多的币。\n\n#OKX web3入口 一个就够 https://t.co/KejoV0foz5",
+      "followersCount": 132539,
+      "friendsCount": 1543,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUTLzLWMAEqCiF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DtDt666/status/1942480584741371968",
+    "fullText": "关于OKX提现风波，聊几句。作为传统金融从业者，始终认为合规化是行业发展的必经之路。关于近期OKX的舆论事件，我的观察如下：\n\n1. 事件导火索源于平台风控系统的标准升级，部分用户账户因系统误判受到限制。这种技术性误伤在金融机构系统迭代过程中并不罕见，但确实需要平台高度重视。\n\n2. https://t.co/zVoqx3e1G5"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\nSolarSG 发起人",
+      "followersCount": 335040,
+      "friendsCount": 5088,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUPIRVXgAAXryE.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1942477692810715289",
+    "fullText": "$BTC 的魅力有多大，大家都知道贝莱德是全球最大的资管公司，管理超过 11.58 万亿美元，旗下有将近 2,000 支基金，而作为仅仅自 2024年1月 诞生的 $IBIT （ Bitcoin 现货 ETF）就占据了预期年收益的第三名，达到了 1.91 亿美元。 https://t.co/lEPASU2Drz"
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||🐿️🥜 $pnut\n|| 🌞🌕https://t.co/nnmTLYbIfK\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 212440,
+      "friendsCount": 6092,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1942474745133556159",
+    "fullText": "这种，放开了固定大市值打新，能买的都让你买到，通常赚不到。\n\n原因很简单，买盘一次性消耗了，接下来都是卖盘。"
+  },
+  {
+    "user": {
+      "screenName": "CryptoPainter_X",
+      "name": "Crypto_Painter",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1370798517384450048/Q2Y0JL7G_normal.jpg",
+      "description": "老朋友叫我“画师”，主要做 $BTC 技术\\数据分析和量化交易，提供各种刁钻角度看市场，用时间做杠杆，被造谣开直播时会砸盘。 正在猛学Web3应用层！$Kaito #Ethos $Virtual #OKX CEX：https://t.co/361fpORuDK",
+      "followersCount": 88770,
+      "friendsCount": 1146,
+      "location": "电报群 TG Group → "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1942466951537696768/vid/avc1/1920x1080/KvHkkbk4SuO1MWQP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CryptoPainter_X/status/1942474680717435148",
+    "fullText": "CZ @cz_binance 亲自讲述在狱中的经历，我全程在幻想《肖申克救赎》里的画面...\n\n两个故事很相似~不过大表哥不是越狱出来的...🤣\n\n事实证明，一个人只要有价值，别人有求于你，走到哪里都会受欢迎...\nhttps://t.co/34tBOPchas"
+  },
+  {
+    "user": {
+      "screenName": "AirdropAlchemis",
+      "name": "炼金叔叔Alchemist.sol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+      "description": "✍️币安广场创作者｜🟣Solar member of @solana_zh ｜OKX Web3钱包现已支持130+公链，提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 #web3入口 一个就够 https://t.co/xfA5QPts19",
+      "followersCount": 34713,
+      "friendsCount": 1921,
+      "location": "Shibuya-ku, Tokyo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUOIXFXgAEcI-m.jpg",
+      "https://pbs.twimg.com/media/GvUOKjhWgAEdec6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AirdropAlchemis/status/1942474398612803628",
+    "fullText": "以后所有跟进的项目都要加上官推小铃铛\n错过了KITE AI 「FLY THE KITE」NFT\n免费铸造，总量2000张，其中1500张给到公众\n现在地板价已经到0.1 E左右了\n肠子悔青。 https://t.co/L7f9Ix54SN"
+  },
+  {
+    "user": {
+      "screenName": "hebi555",
+      "name": "何币",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1677888294661791748/GzBJhJcb_normal.jpg",
+      "description": "注意：此帐户中提到的任何内容都不是投资建议 本推特提到的任何项目都不要信，不要看，不要点，更不要买||https://t.co/Q8DISODv8H|| ||https://t.co/8Wu8bhqnL8||",
+      "followersCount": 377957,
+      "friendsCount": 1280,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUNW6_WQAA9D8N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hebi555/status/1942473512855486660",
+    "fullText": "pumpfun估值是bonk两倍，作为一个老想出货卖币的畜生盘，长期看这玩意只能养肥团队自己，但是打新本身只是套利而已。接下来，小红书们应该是男朋友玩bonkfun养你，可信吗？ https://t.co/WvxNgwa3ZF"
+  },
+  {
+    "user": {
+      "screenName": "AirdropAlchemis",
+      "name": "炼金叔叔Alchemist.sol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+      "description": "✍️币安广场创作者｜🟣Solar member of @solana_zh ｜OKX Web3钱包现已支持130+公链，提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 #web3入口 一个就够 https://t.co/xfA5QPts19",
+      "followersCount": 34713,
+      "friendsCount": 1921,
+      "location": "Shibuya-ku, Tokyo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUMta3WwAAwaTn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AirdropAlchemis/status/1942472955168219217",
+    "fullText": "4点钱喝咖啡是不会影响晚上睡眠的\n加油撸。 https://t.co/LAZwJaouxN"
+  },
+  {
+    "user": {
+      "screenName": "0xCheshire",
+      "name": "柴郡🔔｜Crypto+AI Plus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1843286202528796673/PUyK9V4D_normal.jpg",
+      "description": "创始人@GrowithAI | 成员@bamboozcrypto\n\n非投资建议，独立思考 #DYOR \n\n加入交流群：https://t.co/lkMXOPXmCL\n\n#Binance 近3亿用户共同选择，出入金安全：https://t.co/iOHiyBqQmo\n\n#OKX 专属邀请链接：https://t.co/sqBPIwoF8P",
+      "followersCount": 135497,
+      "friendsCount": 933,
+      "location": "点击开始购买你人生第一枚比特币（保姆级教程）👉"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xCheshire/status/1942471545479106578",
+    "fullText": "在牌桌上 15 分钟之内要找出那个最有可能给大家送钱的倒霉蛋，如果找不到，那么你自己就可能是那个倒霉蛋。"
+  },
+  {
+    "user": {
+      "screenName": "0xScottBTC",
+      "name": "AI索罗斯科特",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1914140013060849664/VKG38tuf_normal.jpg",
+      "description": "3年硬件开发，2年券商投研，10年加密投资。目前专注AI量化\n@GryphsisAcademy 联合创始人\n商务联系(tg): scott_cheung\nCEX：https://t.co/c5NxRw55j9\nDEX：https://t.co/gOw7F25YGU",
+      "followersCount": 12029,
+      "friendsCount": 1221,
+      "location": "Bangkok"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvT9uslaYAEwJNG.jpg",
+      "https://pbs.twimg.com/media/GvT_DqmaYAQ8Ue2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xScottBTC/status/1942469065051889954",
+    "fullText": "实用 AI 编程技巧 - 设置好 rules, 不再被你的AI码农气到脑壳疼！\n\n一、背景：AI 编程的阵痛\n如果你正在使用 AI 编程助手（如 Claude、Cursor、Gemini），你很可能已经体验过这种AI 编程初期的阵痛：\n1. 结果不稳定：同一个问题，AI 每次给出的代码风格和质量都可能不同。\n2. 上下文丢失：聊着聊着，AI https://t.co/EE9KnPBhw0"
+  },
+  {
+    "user": {
+      "screenName": "AirdropAlchemis",
+      "name": "炼金叔叔Alchemist.sol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+      "description": "✍️币安广场创作者｜🟣Solar member of @solana_zh ｜OKX Web3钱包现已支持130+公链，提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 #web3入口 一个就够 https://t.co/xfA5QPts19",
+      "followersCount": 34713,
+      "friendsCount": 1921,
+      "location": "Shibuya-ku, Tokyo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUHjV5XsAAUJ3b.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AirdropAlchemis/status/1942467138197066184",
+    "fullText": "刷到消息说 $DOGEX 是个骗局，@getmoni_io 有分析，\n大家千万别去领取！\n\n👉项目方名字频繁更换、代币分发后清空流动性池、合约限制用户卖出，自由交易受控、无限增发、空投要求用户先转ETH、价格与参数全由项目方操控\n\n📌截至目前，项目方已吸走超56084美金 https://t.co/S2OKPfwgEC"
+  },
+  {
+    "user": {
+      "screenName": "woodycryptow",
+      "name": "Woody",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1735479525616783360/tUdDdw5C_normal.jpg",
+      "description": "交易終究靠自己而不靠他人 任何觀點均不是投資建議",
+      "followersCount": 44401,
+      "friendsCount": 1477,
+      "location": "Taiwan"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUFPQEaYAIjbrv.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/woodycryptow/status/1942465475989958729",
+    "fullText": "攤牌了\n重押的其中一檔興櫃股票\n於今日申請上市 沒意外今年可以看到上市了 https://t.co/WEXy5OO7iE"
+  },
+  {
+    "user": {
+      "screenName": "0xCheshire",
+      "name": "柴郡🔔｜Crypto+AI Plus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1843286202528796673/PUyK9V4D_normal.jpg",
+      "description": "创始人@GrowithAI | 成员@bamboozcrypto\n\n非投资建议，独立思考 #DYOR \n\n加入交流群：https://t.co/lkMXOPXmCL\n\n#Binance 近3亿用户共同选择，出入金安全：https://t.co/iOHiyBqQmo\n\n#OKX 专属邀请链接：https://t.co/sqBPIwoF8P",
+      "followersCount": 135497,
+      "friendsCount": 933,
+      "location": "点击开始购买你人生第一枚比特币（保姆级教程）👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvT5uM3WcAAjg2i.jpg",
+      "https://pbs.twimg.com/media/GvT8gIyXgAAYcl8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xCheshire/status/1942456226895577113",
+    "fullText": "伪娘阿红这件事，最让人震惊的不是有多少男性参与了，也不是阿红这么丑还有人喜欢。而是其中一些直男，在知道阿红是男性的情况后，竟然抱着“来都来了”的心情继续做下去。\n\n从经济学的角度来看，这是典型的“沉没成本谬误”，非理性人对于【无法收回的成本】有着很强的【损失憎恶】。 https://t.co/oy3D7aLw4F"
+  },
+  {
+    "user": {
+      "screenName": "0xSleepinRain",
+      "name": "雨中狂睡🌲",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940346874180866048/ooHPMcQR_normal.jpg",
+      "description": "Thoughts sharing｜Head Chef👨🏻‍🍳 @0xBeraHome ｜TG Channel：https://t.co/nBkOmCFBJP ｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rOoS1",
+      "followersCount": 24492,
+      "friendsCount": 3784,
+      "location": "Bitcoin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xSleepinRain/status/1942455099454021985",
+    "fullText": "最近好多小学同学加我，无一例外都是都是结婚想要份子钱。反倒是加了好友的寒暄变成了最后一句「我在何时何地结婚」的铺垫。\n\n有点无聊。"
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||🐿️🥜 $pnut\n|| 🌞🌕https://t.co/nnmTLYbIfK\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 212440,
+      "friendsCount": 6092,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1942453695637250158",
+    "fullText": "你每天刷短视频的时间，有多久？\n\n我想一下，自己差不多每天看视频1个多小时，而且主要是刷各种演讲的长视频。\n\n不是装逼，其他的美女擦边，搞笑，爽剧，电影解读，真的都没兴趣。\n\n实在无聊就是打游戏，可能消耗久一点，再无聊就看看电影和剧。"
+  },
+  {
+    "user": {
+      "screenName": "woodycryptow",
+      "name": "Woody",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1735479525616783360/tUdDdw5C_normal.jpg",
+      "description": "交易終究靠自己而不靠他人 任何觀點均不是投資建議",
+      "followersCount": 44401,
+      "friendsCount": 1477,
+      "location": "Taiwan"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/woodycryptow/status/1942450523912974840",
+    "fullText": "雖然脆是目前幣圈最好拉新的地方\n當初我也是少數先公開說脆有流量的人\n後來也一堆人去做了\n\n但能不能請小朋友們不要動不動\n\nA9 A10財富自由\n這波我要退休了 爽賺\n幣圈賺錢好簡單\n\n用這種聳動的文詞來吸引韭菜\n要知道這本身違反\"真實性\"\n帶韭菜進來虧光 自己繼續打造永賺人設\n這樣對整個系統真的正常嗎?"
+  },
+  {
+    "user": {
+      "screenName": "maik2hello",
+      "name": "请叫我 MaiK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581597277801820166/fHH8rO8A_normal.jpg",
+      "description": "推特真实不刷数据不造假\n内容创作/信息分享/潜力项目/交互空投\n\nBinance 注册永久20%返佣：\nhttps://t.co/rfCd6mldyj\n\nOKX 钱包支持130+公链提供swap、NFT、DeFi一站式服务更有Cryptopedia一键埋伏空投",
+      "followersCount": 94112,
+      "friendsCount": 1233,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvTxs2obwAApN3j.jpg",
+      "https://pbs.twimg.com/media/GvTx-y7XkAAmnei.jpg",
+      "https://pbs.twimg.com/media/GvTyIPAbAAAaNIO.jpg",
+      "https://pbs.twimg.com/media/GvTyaYhXYAAwpBT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/maik2hello/status/1942447878594781364",
+    "fullText": "新范式早期alpha感觉挺有意思\n首个基于原生BTC网络升级，顶级机构PolyChain领投的 @Nubit_org雷电网络，国外很多大佬关注，就上面这些特性能初见端倪，不像之前很多蹭BTC的L2链 (并非原生BTC体系构建的BTC生态)\n\n重点说下怎么交互：\nhttps://t.co/823izGzXl3\n现在是第一阶段铸造tsUSD还有1天多截止\n1. https://t.co/l1lih7kYYj"
+  },
+  {
+    "user": {
+      "screenName": "hexiecs",
+      "name": "冷静冷静再冷静",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_normal.jpg",
+      "description": "quitting my gambling addiction",
+      "followersCount": 61860,
+      "friendsCount": 1331,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hexiecs/status/1942445035603038240",
+    "fullText": "好消息和好价格不会同时出现。"
+  },
+  {
+    "user": {
+      "screenName": "0xSleepinRain",
+      "name": "雨中狂睡🌲",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940346874180866048/ooHPMcQR_normal.jpg",
+      "description": "Thoughts sharing｜Head Chef👨🏻‍🍳 @0xBeraHome ｜TG Channel：https://t.co/nBkOmCFBJP ｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rOoS1",
+      "followersCount": 24492,
+      "friendsCount": 3784,
+      "location": "Bitcoin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xSleepinRain/status/1942444715867037704",
+    "fullText": ". @Mira_Network 这个应用 Klok 你们用过么？\n\n个人刷起来真的搞挺烦的。"
+  },
+  {
+    "user": {
+      "screenName": "BTCdayu",
+      "name": "大宇",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1862767252400967680/mjEMe7kp_normal.jpg",
+      "description": "币圈宝典 https://t.co/EIMVhaCHyk\n\n💰最高等级省手续费注册\n币安 https://t.co/CLh8KEA9Ri\nOK https://t.co/k9RDrZX7l7\n\n🤖链上打狗\nhttps://t.co/s2lOGi0Bnw\n\n✈️投资频道\nhttps://t.co/f4KWsBAJpr\n\n㊙️不滞于物 自此精修",
+      "followersCount": 265411,
       "friendsCount": 3697,
       "location": "收费群1688U/年，点链接"
     },
@@ -22,7 +448,7 @@
       "name": "大宇",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1862767252400967680/mjEMe7kp_normal.jpg",
       "description": "币圈宝典 https://t.co/EIMVhaCHyk\n\n💰最高等级省手续费注册\n币安 https://t.co/CLh8KEA9Ri\nOK https://t.co/k9RDrZX7l7\n\n🤖链上打狗\nhttps://t.co/s2lOGi0Bnw\n\n✈️投资频道\nhttps://t.co/f4KWsBAJpr\n\n㊙️不滞于物 自此精修",
-      "followersCount": 265399,
+      "followersCount": 265411,
       "friendsCount": 3697,
       "location": "收费群1688U/年，点链接"
     },
@@ -37,7 +463,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🎒https://t.co/nCo05yAFql  注册交易得平台币\n下轮牛市就能翻身！\n我的📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n ✉️DM for collab",
-      "followersCount": 65547,
+      "followersCount": 65550,
       "friendsCount": 47,
       "location": "群在这里"
     },
@@ -266,6 +692,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/hebi555/status/1942343961236148300",
     "fullText": "pump它来了\n\n4b 的pump 2b的bonk 你选哪个？ https://t.co/TtmlJdTs5W"
+  },
+  {
+    "user": {
+      "screenName": "jaredhulbert",
+      "name": "Jared Hulbert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1590533322291040256/qIzxbwt8_normal.jpg",
+      "description": "Father/husband. Builder/Coder/Lifter/Cooker of things. Founder https://t.co/NJ4eNL1937. 5th Gen NorCal. Both grandpas irradiated by US govt - Mutant Powers: TBD",
+      "followersCount": 209,
+      "friendsCount": 718,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jaredhulbert/status/1942328107492597996",
+    "fullText": "Just Launched!\n\nBitFlux AMI on AWS - Turnkey solution for optimizing EC2 instances. Save 50%.\n\nbitflux_mcp -  AI agents can now autonomously deploy, manage, and monitor BitFlux instances.\n\nCheck out the demo and reach out:\nhttps://t.co/vnbdwzO9wy"
   },
   {
     "user": {
@@ -835,6 +1276,21 @@
   },
   {
     "user": {
+      "screenName": "TradingBox_TM",
+      "name": "TradingBox™ 交易宝",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1899659920250949632/B7_H5fGq_normal.jpg",
+      "description": "TradingBox 交易宝 业界领先的交易分析工具 ！ ———————————————————————— \n帮助交易者更聪明洞察市场，捕捉每一次高概率 ！ ———————————————————————— \n#加密货币 #黄金 #原油 #外汇 #标普500 #美股 交易任何金融市场！",
+      "followersCount": 1430,
+      "friendsCount": 227,
+      "location": "华尔街"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TradingBox_TM/status/1942161653166153832",
+    "fullText": "TradingBox 让交易回归理性\nAI信号系统全天候监控，精准指引每一步\n7天0风险体验，不试试你怎么知道！"
+  },
+  {
+    "user": {
       "screenName": "0xcryptowizard",
       "name": "0xWizard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
@@ -867,6 +1323,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/butaidongjiaoyi/status/1942016866521637313",
     "fullText": "三件事。\n\n1. 做了个ETH波段，起床12WU止盈，言出法随。低成本的可考虑继续格局。\n\n2. 选择空了三个新币，理由如下：\n①现货新币，庄没筹\n②大饼爆拉也没走上行通道反而下跌\n③盈亏比高，开砸点设止损，也就最多亏1～3%波动 https://t.co/CXAbbFTrxd"
+  },
+  {
+    "user": {
+      "screenName": "YahooSports",
+      "name": "Yahoo Sports",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1700172399973421056/_xxxJmXc_normal.jpg",
+      "description": "Sports, news and highlights",
+      "followersCount": 574093,
+      "friendsCount": 1434,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941949320976076801/vid/avc1/1080x1920/r4OHPXleCp4XChwg.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/YahooSports/status/1941949391956320414",
+    "fullText": "Bronny is LOCKED-IN for Summer League 😤 https://t.co/9W9ILXVvQT"
   },
   {
     "user": {
