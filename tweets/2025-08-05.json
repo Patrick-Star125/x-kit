@@ -1,11 +1,547 @@
 [
   {
     "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxmcGd5bEAAkhLP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952763576114086062",
+    "fullText": "纽约联储：第二季度家庭总债务较第一季度增加1,850亿美元，达到18.39万亿美元。\n\n第二季度抵押贷款债务较第一季度增加1,310亿美元，达到12.94万亿美元。\n\n第二季度汽车贷款债务较第一季度增加130亿美元，达到1.66万亿美元。\n\n第二季度总体违约率维持在4.4%的高位，学生贷款逾期债务比例上升。 https://t.co/VxaBgqK6io"
+  },
+  {
+    "user": {
       "screenName": "0xSleepinRain",
       "name": "雨中狂睡🌲",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1951207910228275202/GHzmC1gJ_normal.jpg",
       "description": "Thoughts sharing｜Head Chef👨🏻‍🍳 @0xBeraHome ｜TG Channel：https://t.co/nBkOmCFBJP ｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rOoS1",
-      "followersCount": 25272,
+      "followersCount": 25277,
+      "friendsCount": 3777,
+      "location": "Bitcoin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xSleepinRain/status/1952763037477478526",
+    "fullText": "很简单，solana 台子打起来了，同名 meme 谁市值高我支持谁。"
+  },
+  {
+    "user": {
+      "screenName": "Boywus",
+      "name": "Boywus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1818531629436203008/pd_aLbbA_normal.jpg",
+      "description": "高频交易| 跨所流动性复制 | 对冲交易 | 价差套利 \n免费分享开源脚本与交易原理\n开源资费面板：https://t.co/8DGHTW1sN0",
+      "followersCount": 4527,
+      "friendsCount": 293,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxman4VbsAAYXYa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Boywus/status/1952762600611344576",
+    "fullText": "一个略微戏谑的POLYMARKET上利用时差套利的方法\n\nPOLYMARKET上经常会有一些XX在什么时候宣布XXX？\n由于大部分的都是美国的，比如 OpenAI会在哪一天宣布GPT5发布。\n\n为了这个发布会，不至于会在美国时间的凌晨大半夜加班发布吧，那么应该是在白天/上班时间/晚会这种时间发布 https://t.co/DtXWP1HABN"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ\n#BP 🎒 https://t.co/1jHtOdRXCp",
+      "followersCount": 109222,
+      "friendsCount": 7096,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1952761870710108600",
+    "fullText": "这几天总结经验发现，冲 3-5M 这一段的 SOL 币最容易亏\n\n这个市值区间最容易归零，属于目前散户情绪盘小叙事的高点"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxmYoJQa0AEWcwt.png",
+      "https://pbs.twimg.com/media/GxmZud1bIAAgn1W.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952761114493948415",
+    "fullText": "美股在22点以前的走势还可以，三大股指期货都是上升的，到了22点以后开始转为下跌，应该是7月 ISM 非制造业 PMI 数据导致的，该数据代表的是美国新进口和出口的经济走势数据，数据的下跌代表的是关税开始对全球贸易产生了影响，前值50.8，市场预期是 51.5，实际是 50.1 不但低于了预期，还低于前值。 https://t.co/lgps8WjkIt"
+  },
+  {
+    "user": {
+      "screenName": "guanhaibit",
+      "name": "观海bit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1649630218687246336/-ikikl1H_normal.jpg",
+      "description": "💻 程序猿 | 💎 套利玩家 ｜ ❤️ DeFi 爱好者\n\n推特分享 投资记录📝，交志同道合的朋友🧑‍🤝‍🧑",
+      "followersCount": 3464,
+      "friendsCount": 1607,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxmZVoJbwAAAksS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/guanhaibit/status/1952760976270651450",
+    "fullText": "#Yei\n\nBNW 今天上了 YEI 的第四期活动。\n\n激励前 13% APY，激励后 13.3% APY，真的是一天不到就塌了，搞了个寂寞。\n\n要是想刷分的，可以存 USDC再借出 USDC再存在，一个不赚钱的循环贷，但是借款积分会给很高。\n\n同时也可以借 WETH 跨链出去 AAVE https://t.co/EydUV9JrZO"
+  },
+  {
+    "user": {
+      "screenName": "HAZENLEE_",
+      "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896132624940191744/h18Fvuz6_normal.jpg",
+      "description": "𝙀／𝘼𝙘𝙘｜16年OG 伪Trader真Hodler ｜ 加密信仰传教士已ALL IN ₿TC+AI｜观点明确从不不马后炮 模棱两可 致力于科技金融投资交易科普｜抽象派行为艺术大师｜趋势吹哨人，多轮牛熊转换吹号手｜ 老婆跑了(LPPL)模型践行者，价值投资者｜做交易，我只用OKX",
+      "followersCount": 32159,
+      "friendsCount": 2916,
+      "location": "距离你384400km 🌕"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HAZENLEE_/status/1952759358821163325",
+    "fullText": "Andy哥的大狙狙太猛了🥹"
+  },
+  {
+    "user": {
+      "screenName": "lianyanshe",
+      "name": "链研社",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
+      "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉Youtube | https://t.co/CjMDeYoJQG👉币安手续费八折https://t.co/r9GREVIdCF",
+      "followersCount": 75478,
+      "friendsCount": 1073,
+      "location": "萨厄瓦多"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lianyanshe/status/1952757987355025893",
+    "fullText": "现在的所有微策略无非是三板斧\n第一波就是空手套白狼，把币装进上市公司，基金会卖币给公司，同时给你一个心理锚定价格用的，从市值几千万美金的做起，拉高币股的溢价。\n\n第二波找机构融资，按照比市场上股票低一些的价格募集资金，可以理解为之前的打折 OTC"
+  },
+  {
+    "user": {
+      "screenName": "cryptocishanjia",
+      "name": "币圈慈善家",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1464518155020083204/OW28mCLv_normal.jpg",
+      "description": "Trader，Investor，理性，不构成投资建议。\n华语Top1的meme交易平台https://t.co/CUU2jfYanc  \n新人首选OKX，安全简单 https://t.co/9Whl44E5hC\n近3亿用户的共同选择，就在币安｜https://t.co/vs6TcdYute",
+      "followersCount": 293637,
+      "friendsCount": 1556,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryptocishanjia/status/1952753888890876154",
+    "fullText": "管你这个那个的，拉盘就是最好的营销！"
+  },
+  {
+    "user": {
+      "screenName": "mdzzi",
+      "name": "茶不思.hl🎒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915950285991907332/xK3zVp9__normal.jpg",
+      "description": "山色迤逦皆因我 | Maxi @hyperliquidX @Backpack|心澄如镜，写皆所得｜DEX researcher |不接广子",
+      "followersCount": 9160,
+      "friendsCount": 1474,
+      "location": "Manchester, England"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mdzzi/status/1952752120400335202",
+    "fullText": "最近确实太乏味了，想想去年7～8月确实也是这样。\n\n看了一眼在跟的项目像backpack,和一些其他项目数据都不错。感觉在接下来两三个月会陆陆续续开花结果，期间支持了一下朋友创业，其实也想过自己要不要重操旧业，一想到要和人打交道就心累无比。\n\n还是接着躺平，活在自己的舒适圈吧。"
+  },
+  {
+    "user": {
+      "screenName": "missoralways",
+      "name": "A",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
+      "description": "Narrative trader l Professional roundtripper l @protoscap",
+      "followersCount": 18155,
+      "friendsCount": 893,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/missoralways/status/1952751270487367875",
+    "fullText": "Nobody said the road to 1B is going to be easy \n\nSlowly but surely brothers \n\nJust a memecoin"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952747933230870904",
+    "fullText": "高盛预计美联储将在九月开始降息。"
+  },
+  {
+    "user": {
+      "screenName": "TheDeFinvestor",
+      "name": "The DeFi Investor 🔎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
+      "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
+      "followersCount": 150495,
+      "friendsCount": 2117,
+      "location": "FREE NEWSLETTER→"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxmNwq1XwAAR1yy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDeFinvestor/status/1952747782529319371",
+    "fullText": "While BTC is at $112k and ETH is at $3.5k, retail couldn't care less. \n\nCoinbase's AppStore rank is above 300.\n\nLast bull run, it hit no. 1 on AppStore. https://t.co/ojILPSnw3v"
+  },
+  {
+    "user": {
+      "screenName": "PersimiAI",
+      "name": "persimi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1914409310379024384/YAzIzLLR_normal.jpg",
+      "description": "Get immediate, actionable customer insight by engaging with detailed AI powered personas. Any time, anywhere, ready whenever you need it.",
+      "followersCount": 24,
+      "friendsCount": 367,
+      "location": "North Carolina, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PersimiAI/status/1952745173517033711",
+    "fullText": "When you're getting feedback (even tough feedback), a great response to any point is \"Expand on that for me.\" or \"Talk about that a little more.\"\n\nYou'll get new details, better context, and tough feedback often softens to become much easier to process and act on."
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952736432042213445",
+    "fullText": "CNN：美国众议院监督委员会向司法部发出传票，要求提供爱泼斯坦档案。"
+  },
+  {
+    "user": {
+      "screenName": "alpha_pls",
+      "name": "Aylo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1504139683751763971/YDAbI0Ay_normal.jpg",
+      "description": "Research @alphapleaseHQ | TG channel updates https://t.co/Q3jLUFrk54 | Advisor @KaminoFinance",
+      "followersCount": 131298,
+      "friendsCount": 2793,
+      "location": "Subscribe 👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxl-IZzbgAAdA6z.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alpha_pls/status/1952731385095242215",
+    "fullText": "$MNT putting in a strong move here. \n\nWondering if its related to their major new product offering @UR_global (neobank), which is still a bit under the radar. \n\nSecond biggest mover in the top 100 over the last 7 days. https://t.co/7yrLEJrPLA"
+  },
+  {
+    "user": {
+      "screenName": "DtDt666",
+      "name": "看不懂的sol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1759123402139500544/g6UJlLcs_normal.jpg",
+      "description": "一生只搞一个币 $SOL  没有收费群，切勿相信。\n币安广场创作者！蓝鸟会成员！\n陪兄弟们一起穿越牛熊，通过逃顶和抄底赚更多的币。\n\n#OKX web3入口 一个就够 https://t.co/KejoV0foz5",
+      "followersCount": 136365,
+      "friendsCount": 1589,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxl9doXaMAA8mz-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DtDt666/status/1952729878106976730",
+    "fullText": "一文读懂：对经济学方面的整理！\n一、经济上行周期，重资产是扩张和兼并的利器，战场上的铠甲。下行周期，是溺水时的铠甲。\n\n二、随着历史发展，实际进入工业时代之后，各国经济的上行周期在变短，下行周期在变长。 https://t.co/9UNarTURHu"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952729107835617686",
+    "fullText": "特斯拉及埃隆·马斯克因 Robotaxi 安全风险被起诉  \n\n股东提起诉讼，指控埃隆·马斯克和特斯拉因隐瞒特斯拉自动驾驶技术（包括 Robotaxi）的安全风险而涉嫌证券欺诈。  \n\n此次诉讼源于六月底的一次测试，当时 Robotaxi 被目击高速行驶、突然刹车并进行危险操作。测试后，特斯拉股价下跌了 6.1%。"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
+      "followersCount": 120080,
+      "friendsCount": 1541,
+      "location": "moon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxl8rlPbAAAo6Z3.jpg",
+      "https://pbs.twimg.com/media/Gxl8rlGb0AEsDxt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/1952729049635422263",
+    "fullText": "一个叙事如果有机会能破圈\n\n那么只要我能知道\n\n大概率就不会错过\n\n我老了\n\n但是我是\n\n姜 https://t.co/DMPmn8E9jC"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952728678372176008",
+    "fullText": "小道消息：美国批准 OpenAI、Google 和 Anthropic 进入联邦 AI 供应商名单。"
+  },
+  {
+    "user": {
+      "screenName": "hexiecs",
+      "name": "冷静冷静再冷静",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_normal.jpg",
+      "description": "quitting my gambling addiction",
+      "followersCount": 62496,
+      "friendsCount": 1336,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hexiecs/status/1952725062987165769",
+    "fullText": "Return to tradition."
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxl12zHbMAAMAAt.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952721713172496447",
+    "fullText": "瓜要吃，正经事也要做 😂 昨天和几个小伙伴喝酒，聊到了合约开单这件事。很多人觉得合约很简单，不就是涨跌两个方向嘛？只要方向选对了，不就能一直拿着赚大钱？ https://t.co/vQc1nnmAiy"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxlzZt_bAAApagp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952718975726702708",
+    "fullText": "特朗普：沃什非常优秀。两个 Kevin 都非常优秀，许多美联储候选人都很出色。除了两个 Kevin 之外，还有另外两个人在考虑之中。我可以利用库格勒的空缺来挑选未来的美联储主席。\n\n从预测市场来看，沃什仍然是最大概率。 https://t.co/nVWcepWEp2"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952717935237312926",
+    "fullText": "特朗普：想再次竞选，但可能不会。北约领导人都听我的安排。"
+  },
+  {
+    "user": {
+      "screenName": "thankUcrypto",
+      "name": "allincrypto 熬鹰资本 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+      "description": "|PNL 120K—7M｜币安跟随者收益第1｜OKX规模第1｜ 币安：https://t.co/La1Z39b8ZY OKX https://t.co/KcBOmqBr4R 群https://t.co/vH93LC42bO 助理@Aoyingzhuli",
+      "followersCount": 114323,
+      "friendsCount": 593,
+      "location": "你就是你自己的交易之神。"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxlyg-Yb0AAW49D.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/thankUcrypto/status/1952717835047981552",
+    "fullText": "上个月提前说了8月在币安给大家做实盘活动。\n结果8月1号我就确认了个宣传文案，能扯出那么多事，这活动就搁置了。\n\n现在开好像也不是很合适，想了想，重新准备点儿奖品吧，这次我自己拿1WU出来买奖品。给收益额收益率前10也就是20人，都有奖品，各种数码产品为主。 https://t.co/zklF7RC46w"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952717310118019470",
+    "fullText": "特朗普：习近平提出了会面请求，如果达成贸易协议，将在年底前与中国的习近平会面。我们非常接近达成协议。"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952717114525057366",
+    "fullText": "特朗普：不担心油价，将很快因俄罗斯石油问题提高对印度的关税，将在未来 24 小时内大幅提高对印度的关税，印度是关税最高的国家。"
+  },
+  {
+    "user": {
+      "screenName": "TheDeFinvestor",
+      "name": "The DeFi Investor 🔎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
+      "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
+      "followersCount": 150495,
+      "friendsCount": 2117,
+      "location": "FREE NEWSLETTER→"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDeFinvestor/status/1952716631706116272",
+    "fullText": "Potential Q3 token launches watchlist\n\n@MeteoraAG - An advanced Solana DEX\n@Infinit_Labs - DeFi AI agents platform \n@OpenEden_X - RWA stablecoin issuer\n@LineaBuild - Consensys's Ethereum L2\n@FolksFinance -Crosschain lending dApp\n@PlasmaFDN - L1 built for stablecoins"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952716589935075664",
+    "fullText": "特朗普：将在接下来一周左右宣布关于半导体和芯片的相关消息，我们将对制药行业初步征收小额关税。一年内将上涨到150，涨幅250%。"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952716358761754762",
+    "fullText": "特朗普：如果欧盟不履行义务，将征收 35%的关税。\n\n欧盟：暂停报复性关税，正敲定与美国的贸易协议。"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 339960,
+      "friendsCount": 5117,
+      "location": "DeAgentAI体验官"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1952716202750673099",
+    "fullText": "特朗普：美联储主席鲍威尔高度政治化，许多联储候选人都非常优秀，可能很快宣布联储主席人选，有四名候选人，贝森特想留在他现在的位置。"
+  },
+  {
+    "user": {
+      "screenName": "BTCdayu",
+      "name": "大宇",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1862767252400967680/mjEMe7kp_normal.jpg",
+      "description": "币圈宝典 https://t.co/EIMVhaCHyk\n\n💰最高等级省手续费注册\n币安 https://t.co/CLh8KEA9Ri\nOK https://t.co/k9RDrZX7l7\n\n🤖链上打狗\nhttps://t.co/s2lOGi0Bnw\n\n✈️投资频道\nhttps://t.co/f4KWsBAJpr\n\n㊙️不滞于物 自此精修",
+      "followersCount": 268541,
+      "friendsCount": 3709,
+      "location": "收费群1688U/年，点链接"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BTCdayu/status/1952714878487249012",
+    "fullText": "“便宜还是贵，取决于10年以后的认知，而不是现在。”"
+  },
+  {
+    "user": {
+      "screenName": "Alvin0617",
+      "name": "alvin617.eth 🦇🔊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1949101146012086272/lxA6QPbF_normal.jpg",
+      "description": "Building @CryptoWesearch I @allaboutbera I Crypto ‘17 I Dive into new narratives 💎 ⚙️ 新一代合規交易所 🎒 https://t.co/Arc1yjCrbS",
+      "followersCount": 21164,
+      "friendsCount": 10072,
+      "location": "cryptowesearch.com"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxlrPvDbIAAwbka.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alvin0617/status/1952711559182184546",
+    "fullText": "光環越大, 摔得越重？\n熱度曾經非常高的 $IP 和 $BERA 現在如何了？\n\n關鍵還是有沒有 token 能跑出 , 奇怪的幣都能飛天, $DOLO 先示範拉飛，有著基本面的 DeFi  還行嗎 @InfraredFinance  \n\n想不到吧, 兩者 TGE 的時間都是在今年 2 月\n僅在半年前 今非昔比🥲\n\n曾經 TGE 之前受到社群喜愛的 Story $IP https://t.co/I8kLwGmBeu"
+  },
+  {
+    "user": {
+      "screenName": "CryptoHayes",
+      "name": "Arthur Hayes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945370420191875072/o5Ep8CTf_normal.png",
+      "description": "Arthur Hayes, Co-Founder of BitMEX & CIO @Maelstromfund",
+      "followersCount": 722455,
+      "friendsCount": 25,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoHayes/status/1952708908897763594",
+    "fullText": "NEW interviews from Maelstroms Chief  Arthur Hayes Access the latest insights on the markets digital assets and Web3  IssueWire https://t.co/AIMLrugila"
+  },
+  {
+    "user": {
+      "screenName": "0xSleepinRain",
+      "name": "雨中狂睡🌲",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1951207910228275202/GHzmC1gJ_normal.jpg",
+      "description": "Thoughts sharing｜Head Chef👨🏻‍🍳 @0xBeraHome ｜TG Channel：https://t.co/nBkOmCFBJP ｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rOoS1",
+      "followersCount": 25277,
       "friendsCount": 3777,
       "location": "Bitcoin"
     },
@@ -22,7 +558,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 168291,
+      "followersCount": 168282,
       "friendsCount": 795,
       "location": "萨尔瓦多"
     },
@@ -37,8 +573,8 @@
       "name": "The DeFi Investor 🔎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
       "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
-      "followersCount": 150570,
-      "friendsCount": 2115,
+      "followersCount": 150495,
+      "friendsCount": 2117,
       "location": "FREE NEWSLETTER→"
     },
     "images": [],
@@ -133,7 +669,7 @@
       "name": "Ai 姨",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
       "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance\n个人主页：https://t.co/gff8vVlSl1",
-      "followersCount": 104700,
+      "followersCount": 104731,
       "friendsCount": 584,
       "location": "返佣链接 👉"
     },
@@ -660,8 +1196,8 @@
       "name": "Definitely Not The Giver",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950559375929569280/XlG-ZJKs_normal.jpg",
       "description": "Megafund investor & fmr IB | Threads in highlights | Non-consensus cross-assets | Comments =/= investment advice | Subscribe: https://t.co/hXH5i3YaOw",
-      "followersCount": 40550,
-      "friendsCount": 471,
+      "followersCount": 40556,
+      "friendsCount": 470,
       "location": "Stream live sometimes on TG →"
     },
     "images": [],
@@ -907,6 +1443,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/sanyi_eth_/status/1952530509344731386",
     "fullText": "town @townsxyz 可以查了\n链接：https://t.co/Qt8dM5xXEL\n\n大号33w的积分能拿 9700 枚 $towns\n\n能吃肉吗？ https://t.co/pnZixCXuQW"
+  },
+  {
+    "user": {
+      "screenName": "rbradthomas",
+      "name": "Brad Thomas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1725935981612716032/Xfj-EnKA_normal.jpg",
+      "description": "Founder Wide Moat Research, Creator of iREIT®, Author of REITs For Dummies: https://t.co/PkB9GqCeB4",
+      "followersCount": 20600,
+      "friendsCount": 4425,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rbradthomas/status/1952528904788607350",
+    "fullText": "Anything can happen between now and mid-September, when the Fed meets next. But I think it’s safe to say Powell will buy the “weak economy” story hook, line, and sinker. Two of his governors already did, after all, even before Friday’s data was released.\n\nRead my entire article"
   },
   {
     "user": {
