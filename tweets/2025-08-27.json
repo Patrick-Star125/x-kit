@@ -1,11 +1,91 @@
 [
   {
     "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🇨🇳 CNM 点个关注啊\n📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n\n ✉️DM for collab",
+      "followersCount": 65995,
+      "friendsCount": 52,
+      "location": "群在这里"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzXtnwaa4AMpsG8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1960734493582745971",
+    "fullText": "$eth 踏碎空头的白骨 https://t.co/QsRKiE879F"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
+      "followersCount": 120655,
+      "friendsCount": 1546,
+      "location": "moon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/1960726925649043544",
+    "fullText": "最近天天亏钱\n\n但是金钱之外的东西\n\n我们整个体系越来越强\n\n人生的体验\n\n金钱之外的东西\n\n才是真正的弥足珍贵"
+  },
+  {
+    "user": {
+      "screenName": "woodycryptow",
+      "name": "Woody（修仙版本",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1735479525616783360/tUdDdw5C_normal.jpg",
+      "description": "交易終究靠自己而不靠他人 任何觀點均不是投資建議",
+      "followersCount": 45498,
+      "friendsCount": 1512,
+      "location": "Taiwan"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/woodycryptow/status/1960708469235048809",
+    "fullText": "冷知識 CRO 0.7我就回本了"
+  },
+  {
+    "user": {
+      "screenName": "roger73005305",
+      "name": "比特进",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1931553533041819648/Vn71V0qK_normal.jpg",
+      "description": "#Binance 注册: https://t.co/uTd6R8Eb5y                      \n#Bitget 注册:  https://t.co/ywqSbJW3qc\n#valuescan  邀请码: A6VUDJ",
+      "followersCount": 53550,
+      "friendsCount": 953,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzXDrxua4AAJYek.jpg",
+      "https://pbs.twimg.com/media/GzXDsL-a4Ac0HKs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/roger73005305/status/1960688379563270626",
+    "fullText": "SOL刚才也上了AI机会榜单了，BNB ETH之前都上了榜单，接下来就看BTC了。机会榜单一般是一波大趋势行情，\n如果是BTC上榜机会榜单，后面就是一波很大行情。\n\nValuescan新版本更新:\n1.新增主力增持加速、持仓减少加速\n2.新增停止资金异动追踪的通知；\n3.新增本金保护提醒； https://t.co/cFA43J8kwv"
+  },
+  {
+    "user": {
+      "screenName": "Web3Tinkle",
+      "name": "Tinkle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1683825378714845184/3HaKCjOB_normal.jpg",
+      "description": "Founder of Tinkle community ｜Data Scientist ｜@7n2capital｜Exclusive Telegram: https://t.co/WkP46QFcaJ｜私群申请：https://t.co/5YUcRHcLmR",
+      "followersCount": 53891,
+      "friendsCount": 2131,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Web3Tinkle/status/1960683066550276409",
+    "fullText": "大巴黎bio都解套了，该怎么操作接下来"
+  },
+  {
+    "user": {
       "screenName": "missoralways",
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 18430,
+      "followersCount": 18459,
       "friendsCount": 894,
       "location": ""
     },
@@ -20,7 +100,7 @@
       "name": "柴郡🔔｜Crypto+AI Plus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1843286202528796673/PUyK9V4D_normal.jpg",
       "description": "比特币至少还有10倍上涨空间，这意味着它会到达100万美元 #DYOR \n\n交流群：https://t.co/lkMXOPXmCL\n\n#Binance 近3亿用户共同选择，出入金安全：https://t.co/WIPio1MQsn\n\n#OKX 专属邀请：https://t.co/IspkjNKkJ0",
-      "followersCount": 139922,
+      "followersCount": 139967,
       "friendsCount": 945,
       "location": "点击开始购买你人生第一枚比特币（保姆级教程）👉"
     },
@@ -37,8 +117,8 @@
       "name": "何币",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1677888294661791748/GzBJhJcb_normal.jpg",
       "description": "注意：此帐户中提到的任何内容都不是投资建议 本推特提到的任何项目都不要信，不要看，不要点，更不要买||https://t.co/Q8DISODv8H|| ||https://t.co/8Wu8bhqnL8||",
-      "followersCount": 383963,
-      "friendsCount": 1303,
+      "followersCount": 384000,
+      "friendsCount": 1304,
       "location": ""
     },
     "images": [],
@@ -52,8 +132,8 @@
       "name": "Tinkle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1683825378714845184/3HaKCjOB_normal.jpg",
       "description": "Founder of Tinkle community ｜Data Scientist ｜@7n2capital｜Exclusive Telegram: https://t.co/WkP46QFcaJ｜私群申请：https://t.co/5YUcRHcLmR",
-      "followersCount": 53811,
-      "friendsCount": 2130,
+      "followersCount": 53891,
+      "friendsCount": 2131,
       "location": ""
     },
     "images": [],
@@ -67,7 +147,7 @@
       "name": "比特进",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931553533041819648/Vn71V0qK_normal.jpg",
       "description": "#Binance 注册: https://t.co/uTd6R8Eb5y                      \n#Bitget 注册:  https://t.co/ywqSbJW3qc\n#valuescan  邀请码: A6VUDJ",
-      "followersCount": 52435,
+      "followersCount": 53550,
       "friendsCount": 953,
       "location": ""
     },
@@ -84,8 +164,8 @@
       "name": "Tinkle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1683825378714845184/3HaKCjOB_normal.jpg",
       "description": "Founder of Tinkle community ｜Data Scientist ｜@7n2capital｜Exclusive Telegram: https://t.co/WkP46QFcaJ｜私群申请：https://t.co/5YUcRHcLmR",
-      "followersCount": 53811,
-      "friendsCount": 2130,
+      "followersCount": 53891,
+      "friendsCount": 2131,
       "location": ""
     },
     "images": [
@@ -102,7 +182,7 @@
       "name": "柴郡🔔｜Crypto+AI Plus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1843286202528796673/PUyK9V4D_normal.jpg",
       "description": "比特币至少还有10倍上涨空间，这意味着它会到达100万美元 #DYOR \n\n交流群：https://t.co/lkMXOPXmCL\n\n#Binance 近3亿用户共同选择，出入金安全：https://t.co/WIPio1MQsn\n\n#OKX 专属邀请：https://t.co/IspkjNKkJ0",
-      "followersCount": 139922,
+      "followersCount": 139967,
       "friendsCount": 945,
       "location": "点击开始购买你人生第一枚比特币（保姆级教程）👉"
     },
@@ -119,8 +199,8 @@
       "name": "alvin617.eth 🦇🔊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1949101146012086272/lxA6QPbF_normal.jpg",
       "description": "Building @CryptoWesearch I @allaboutbera I Crypto ‘17 I Dive into new narratives 💎 ⚙️ 新一代合規交易所 🎒 https://t.co/Arc1yjCrbS",
-      "followersCount": 21286,
-      "friendsCount": 10257,
+      "followersCount": 21297,
+      "friendsCount": 10259,
       "location": "cryptowesearch.com"
     },
     "images": [],
@@ -728,7 +808,7 @@
       "name": "CZ 🔶 BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1956989048716972034/aKj3WGca_normal.jpg",
       "description": "DM: https://t.co/ITLXkxWlol (fees go to charity)\n\n@BNBchain, @YZiLabs, @GiggleAcademy, ex-@binance.",
-      "followersCount": 10111707,
+      "followersCount": 10112226,
       "friendsCount": 1870,
       "location": ""
     },
@@ -850,6 +930,21 @@
     ],
     "tweetUrl": "https://x.com/CryptoPainter_X/status/1960467197140328676",
     "fullText": "当你尝试模仿传奇交易员的操作时...\nhttps://t.co/yMUE7Rs35o"
+  },
+  {
+    "user": {
+      "screenName": "WeAreOpenWorld",
+      "name": "Open World",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1957832361305108480/9VBbYeQc_normal.jpg",
+      "description": "The heartbeat of gaming culture.",
+      "followersCount": 60,
+      "friendsCount": 17,
+      "location": "Santa Monica, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WeAreOpenWorld/status/1960447541662613618",
+    "fullText": "Join the PlayDX community on Discord and get paid to share your thoughts on new games! Each survey takes less than 10 minutes."
   },
   {
     "user": {
@@ -1096,6 +1191,25 @@
   },
   {
     "user": {
+      "screenName": "0xJingleMingle",
+      "name": "Jingle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863778629752180736/g71l4BjC_normal.jpg",
+      "description": "✧ 链上degen | 半吊子女巫  | DYOR | 分享在亮点 | 奶子哥小助理版\n✧ 超100%POR资金储备，安全首选。交易所&钱包，OKX就够 。🔗 https://t.co/Q1sB5otNHm",
+      "followersCount": 9775,
+      "friendsCount": 1070,
+      "location": "DM→"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzPjpQWaMAA4i03.jpg",
+      "https://pbs.twimg.com/media/GzPj6yJa0AAnEck.jpg",
+      "https://pbs.twimg.com/media/GzPkWLzboAArczH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xJingleMingle/status/1960161652818723155",
+    "fullText": "Faster100 最近上线了新的「筹码分析工具」，比起原先，它更专注于地址分析，适合链上进阶选手，又又又跟lucas老板要了几个会员来做抽奖🎁抽奖方式在文章最后\n\n经常看我推特的应该知道，我是 faster 的老用户了，基本从他们上线后一直用到现在，这半年多里感受到最深刻的就是 faster100 https://t.co/kGGDv9lFjy"
+  },
+  {
+    "user": {
       "screenName": "MLB",
       "name": "MLB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1957287841425141760/haCns5eI_normal.jpg",
@@ -1130,11 +1244,28 @@
   },
   {
     "user": {
+      "screenName": "Luminosity",
+      "name": "Luminosity Gaming",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798020338942345216/5hWpLj7y_normal.png",
+      "description": "Gaming & Entertainment | 82x Champions 🏆",
+      "followersCount": 477627,
+      "friendsCount": 574,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1960080581489790976/vid/avc1/1920x1080/ppLU0NgNo4IyX1nC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Luminosity/status/1960081139600662863",
+    "fullText": "Step into the Arena of Sport, brought to you by @DICKS Sporting Goods.\nPut your parkour moves to the test and snag gold in mini-games like baseball, basketball, and go-kart catch!\nJump in now with the map code: 8128-3342-8305 https://t.co/QzA8fIGjLu"
+  },
+  {
+    "user": {
       "screenName": "Know2Protect",
       "name": "Know2Protect",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1837182489871200256/4u1AcCDx_normal.jpg",
       "description": "Know2Protect is a DHS public awareness campaign to combat online child sexual exploitation and abuse. Together We Can Stop Online Child Exploitation™.",
-      "followersCount": 2032,
+      "followersCount": 2033,
       "friendsCount": 158,
       "location": "Washington, DC"
     },
