@@ -1,11 +1,77 @@
 [
   {
     "user": {
+      "screenName": "game_for_one",
+      "name": "Game",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1607722344432242689/m1XRdYV7_normal.jpg",
+      "description": "Attention frontrunner.",
+      "followersCount": 37688,
+      "friendsCount": 403,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/game_for_one/status/1964400322060964111",
+    "fullText": "We do some weekend shopping."
+  },
+  {
+    "user": {
+      "screenName": "CryptoPainter_X",
+      "name": "Crypto_Painter",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1370798517384450048/Q2Y0JL7G_normal.jpg",
+      "description": "老朋友叫我“画师”，主要做 $BTC 技术\\数据分析和量化交易，提供各种刁钻角度看市场，用时间做杠杆，被造谣开直播时会砸盘。 正在猛学Web3应用层！#Kaito #Ethos #Virtual #OKX CEX：https://t.co/361fpORuDK",
+      "followersCount": 90921,
+      "friendsCount": 1285,
+      "location": "电报群 TG Group → "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0LXHJca8AExHb8.jpg",
+      "https://pbs.twimg.com/media/G0LXrCAbUAMwUR6.png",
+      "https://pbs.twimg.com/media/G0LYCnYbUAQTTZl.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoPainter_X/status/1964370342958551267",
+    "fullText": "难搞呀~ @campnetworkxyz 的空投拿到了两天愣是不知道怎么领...\n\n好在撸毛大师们提供了思路，先是通过 @gasdotzip 换了Camp主网的gas，然后再领取空投，接着再跨链换成ETH，得到了0.1枚Base链ETH...\n\n还是老样子，直接换成 $Kaito 质押了！\n\n最近两天已经从Kaito Eco上面收了1000美元的空投了... https://t.co/w11BSXS0at"
+  },
+  {
+    "user": {
+      "screenName": "EnHeng456",
+      "name": "EnHeng嗯哼🔸BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923715930552463360/3p061Lvv_normal.jpg",
+      "description": "05年大学生入场学习记｜build #Binance 近3亿选择https://t.co/jEqVI3VggF ｜投机者｜Boutique KOL Agency｜合作Dm Tg enheng777 ｜个人微信ttttwill｜仅代表个人观点不构成投资建议 高风险投机 DYOR",
+      "followersCount": 69653,
+      "friendsCount": 3654,
+      "location": "TG频道发布重要信息"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0LUMpIbUAQ9KDV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EnHeng456/status/1964365714040770615",
+    "fullText": "和台湾几个大学生终于聚到一起了\n\n见到了的这几个大学生都盈利了几M美金👀\n\n@QQARX @GCsheng @chijc_0619 \n\n还有一个不愿意露面的听说也赚了几M刀\n\n今天组合04、05、06，我是夹在中间\n\n现在大学生都是 $bnb 持有者 @cz_binance https://t.co/cWUZSUtUaF"
+  },
+  {
+    "user": {
+      "screenName": "Gold_Cryptoz",
+      "name": "Gold",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1315192299295391745/AFMEqRRm_normal.jpg",
+      "description": "‘If you wait until the wind and the weather are just right, you will never plant anything and never harvest anything.’ | contact: @emporia_capital",
+      "followersCount": 32137,
+      "friendsCount": 938,
+      "location": "Dubai, United Arab Emirates"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Gold_Cryptoz/status/1964365595690082444",
+    "fullText": "Just like there is summer and winter, there are seasons in trading \n\nIn summer you reap the harvest and prepare for the winter\n\nIn winter you sow the seed, prepare for the harvest to come and use summers harvest to see you through the winter"
+  },
+  {
+    "user": {
       "screenName": "meleemarkets",
       "name": "Melee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909414883315109889/kvtsepiq_normal.jpg",
       "description": "Join the Melee.",
-      "followersCount": 5312,
+      "followersCount": 5317,
       "friendsCount": 22,
       "location": "Solana"
     },
@@ -22,8 +88,8 @@
       "name": "EnHeng嗯哼🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923715930552463360/3p061Lvv_normal.jpg",
       "description": "05年大学生入场学习记｜build #Binance 近3亿选择https://t.co/jEqVI3VggF ｜投机者｜Boutique KOL Agency｜合作Dm Tg enheng777 ｜个人微信ttttwill｜仅代表个人观点不构成投资建议 高风险投机 DYOR",
-      "followersCount": 69662,
-      "friendsCount": 3653,
+      "followersCount": 69653,
+      "friendsCount": 3654,
       "location": "TG频道发布重要信息"
     },
     "images": [],
@@ -37,7 +103,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 105030,
+      "followersCount": 105017,
       "friendsCount": 7139,
       "location": "Crypto"
     },
@@ -57,7 +123,7 @@
       "name": "何币",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1677888294661791748/GzBJhJcb_normal.jpg",
       "description": "注意：此帐户中提到的任何内容都不是投资建议 本推特提到的任何项目都不要信，不要看，不要点，更不要买||https://t.co/Q8DISODv8H|| ||https://t.co/8Wu8bhqnL8||",
-      "followersCount": 385466,
+      "followersCount": 385489,
       "friendsCount": 1310,
       "location": ""
     },
@@ -72,7 +138,7 @@
       "name": "Aylo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1504139683751763971/YDAbI0Ay_normal.jpg",
       "description": "Research @alphapleaseHQ | TG channel updates https://t.co/Q3jLUFrk54 | Advisor @KaminoFinance",
-      "followersCount": 133450,
+      "followersCount": 133492,
       "friendsCount": 2823,
       "location": "Subscribe 👉"
     },
@@ -89,7 +155,7 @@
       "name": "看不懂的sol",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1759123402139500544/g6UJlLcs_normal.jpg",
       "description": "一生只搞一个币 $SOL  没有收费群，切勿相信。\n币安广场创作者！蓝鸟会成员！\n陪兄弟们一起穿越牛熊，通过逃顶和抄底赚更多的币。\n\n#OKX web3入口 一个就够 https://t.co/KejoV0foz5",
-      "followersCount": 140505,
+      "followersCount": 140533,
       "friendsCount": 1639,
       "location": "Hong Kong"
     },
@@ -106,8 +172,8 @@
       "name": "The DeFi Investor 🔎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
       "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
-      "followersCount": 153916,
-      "friendsCount": 2202,
+      "followersCount": 153997,
+      "friendsCount": 2203,
       "location": "FREE NEWSLETTER→"
     },
     "images": [],
@@ -121,7 +187,7 @@
       "name": "H.E. Justin Sun 👨‍🚀 (Astronaut Version)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
       "description": "👨‍💻 Entrepreneur | 🤵‍♂️ Diplomat | 👨‍🚀 Astronaut #712 | 🍌 Art Collector | Founder @trondao | Advisor @BitTorrent & @htx_global | Chinese @sunyuchentron",
-      "followersCount": 3844349,
+      "followersCount": 3844553,
       "friendsCount": 3411,
       "location": "Geneva, Switzerland"
     },
@@ -136,7 +202,7 @@
       "name": "Game",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607722344432242689/m1XRdYV7_normal.jpg",
       "description": "Attention frontrunner.",
-      "followersCount": 37678,
+      "followersCount": 37688,
       "friendsCount": 403,
       "location": ""
     },
@@ -151,7 +217,7 @@
       "name": "H.E. Justin Sun 👨‍🚀 (Astronaut Version)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
       "description": "👨‍💻 Entrepreneur | 🤵‍♂️ Diplomat | 👨‍🚀 Astronaut #712 | 🍌 Art Collector | Founder @trondao | Advisor @BitTorrent & @htx_global | Chinese @sunyuchentron",
-      "followersCount": 3844349,
+      "followersCount": 3844553,
       "friendsCount": 3411,
       "location": "Geneva, Switzerland"
     },
@@ -166,7 +232,7 @@
       "name": "Woody（修仙版本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1735479525616783360/tUdDdw5C_normal.jpg",
       "description": "交易終究靠自己而不靠他人 任何觀點均不是投資建議",
-      "followersCount": 45711,
+      "followersCount": 45702,
       "friendsCount": 1548,
       "location": "Taiwan"
     },
@@ -183,8 +249,8 @@
       "name": "AliceBCeiona",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
       "description": "Alicization社区与A组leader☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
-      "followersCount": 6290,
-      "friendsCount": 253,
+      "followersCount": 6286,
+      "friendsCount": 254,
       "location": ""
     },
     "images": [
@@ -199,8 +265,8 @@
       "screenName": "Cryptocald",
       "name": "Cald@LSE",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1961488676183244800/sloCk2VX_normal.jpg",
-      "description": "5yrs in Crypto. 20yo. gained smth from @Citadel @GoldmanSachs then build Crypto @LSESUBlockchain",
-      "followersCount": 2828,
+      "description": "5yrs in Crypto. 20yo. gained smth from @Citadel @GoldmanSachs then build Crypto @LSESUBlockchain 伦敦政经大二",
+      "followersCount": 2844,
       "friendsCount": 2499,
       "location": "Holborn,London"
     },
@@ -216,8 +282,8 @@
       "screenName": "Cryptocald",
       "name": "Cald@LSE",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1961488676183244800/sloCk2VX_normal.jpg",
-      "description": "5yrs in Crypto. 20yo. gained smth from @Citadel @GoldmanSachs then build Crypto @LSESUBlockchain",
-      "followersCount": 2828,
+      "description": "5yrs in Crypto. 20yo. gained smth from @Citadel @GoldmanSachs then build Crypto @LSESUBlockchain 伦敦政经大二",
+      "followersCount": 2844,
       "friendsCount": 2499,
       "location": "Holborn,London"
     },
@@ -234,7 +300,7 @@
       "name": "请叫我 MaiK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581597277801820166/fHH8rO8A_normal.jpg",
       "description": "正寻找alpha中...\n\nInner Circle CT 选手\n推特真实不刷数据不造假\nalpha信息分享/项目深度解读/交互空投\n\nBinance注册永久20%返佣：\nhttps://t.co/rfCd6mldyj\n\nOKX钱包支持130+公链提供swap,NFT,DeFi一站式服务",
-      "followersCount": 93981,
+      "followersCount": 94019,
       "friendsCount": 1312,
       "location": ""
     },
@@ -251,8 +317,8 @@
       "name": "The DeFi Investor 🔎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
       "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
-      "followersCount": 153916,
-      "friendsCount": 2202,
+      "followersCount": 153997,
+      "friendsCount": 2203,
       "location": "FREE NEWSLETTER→"
     },
     "images": [
@@ -268,8 +334,8 @@
       "name": "The DeFi Investor 🔎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
       "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
-      "followersCount": 153916,
-      "friendsCount": 2202,
+      "followersCount": 153997,
+      "friendsCount": 2203,
       "location": "FREE NEWSLETTER→"
     },
     "images": [],
@@ -283,7 +349,7 @@
       "name": "Woody（修仙版本",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1735479525616783360/tUdDdw5C_normal.jpg",
       "description": "交易終究靠自己而不靠他人 任何觀點均不是投資建議",
-      "followersCount": 45711,
+      "followersCount": 45702,
       "friendsCount": 1548,
       "location": "Taiwan"
     },
@@ -300,8 +366,8 @@
       "name": "The DeFi Investor 🔎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
       "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
-      "followersCount": 153916,
-      "friendsCount": 2202,
+      "followersCount": 153997,
+      "friendsCount": 2203,
       "location": "FREE NEWSLETTER→"
     },
     "images": [],
@@ -315,7 +381,7 @@
       "name": "Gold",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1315192299295391745/AFMEqRRm_normal.jpg",
       "description": "‘If you wait until the wind and the weather are just right, you will never plant anything and never harvest anything.’ | contact: @emporia_capital",
-      "followersCount": 32136,
+      "followersCount": 32137,
       "friendsCount": 938,
       "location": "Dubai, United Arab Emirates"
     },
@@ -650,7 +716,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 105030,
+      "followersCount": 105017,
       "friendsCount": 7139,
       "location": "Crypto"
     },
@@ -814,8 +880,8 @@
       "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896132624940191744/h18Fvuz6_normal.jpg",
       "description": "𝙀／𝘼𝙘𝙘｜16年OG 伪Trader真Hodler ｜ 加密信仰传教士已ALL IN ₿TC+AI｜观点明确从不不马后炮 模棱两可 致力于科技金融投资交易科普｜抽象派行为艺术大师｜趋势吹哨人，多轮牛熊转换吹号手｜ 老婆跑了(LPPL)模型践行者，价值投资者｜做交易，我只用https://t.co/b3sMD2LYqA",
-      "followersCount": 36891,
-      "friendsCount": 2957,
+      "followersCount": 36940,
+      "friendsCount": 2973,
       "location": "距离你384400km 🌕"
     },
     "images": [],
@@ -1027,8 +1093,8 @@
       "name": "The DeFi Investor 🔎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
       "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
-      "followersCount": 153916,
-      "friendsCount": 2202,
+      "followersCount": 153997,
+      "friendsCount": 2203,
       "location": "FREE NEWSLETTER→"
     },
     "images": [
@@ -1037,6 +1103,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/TheDeFinvestor/status/1963922040613736947",
     "fullText": "Sonic TVL is down 68% since May.\n\nBut in terms of tech, community strength, and DeFi integrations, I'd say it's still one of the top chains out there.\n\nWhat went wrong? https://t.co/7uBDXgBMhz"
+  },
+  {
+    "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "rest up. big Sunday ahead. 🏈",
+      "followersCount": 37920278,
+      "friendsCount": 2814,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1963801042895986688/vid/avc1/1920x1080/Y0kel5R8dSk7WSQB.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/1963801427416854790",
+    "fullText": "weather delay?\n\nand MJ took that personally https://t.co/edwxgTOWrZ"
   },
   {
     "user": {
