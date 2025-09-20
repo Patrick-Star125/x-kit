@@ -1,11 +1,137 @@
 [
   {
     "user": {
+      "screenName": "BTCdayu",
+      "name": "大宇",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1862767252400967680/mjEMe7kp_normal.jpg",
+      "description": "币圈宝典 https://t.co/EIMVhaCHyk\n\n💰最高等级省手续费注册\n币安 https://t.co/CLh8KEA9Ri\nOK \n交易所 https://t.co/k9RDrZX7l7\n钱包 https://t.co/0GUmXMTC19\n\n🤖链上打狗\nhttps://t.co/s2lOGi0Bnw\n\n✈️投资频道\nhttps://t.co/f4KWsBAJpr",
+      "followersCount": 272729,
+      "friendsCount": 3746,
+      "location": "收费群1688U/年，点链接"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BTCdayu/status/1969247170504118449",
+    "fullText": "目前币安投资的合约还有两个\n这个是自带生息稳定币（不用像HYPE一样后发USDH）\nhttps://t.co/SNklyw6WZa\n\n这个是竟然还支持SOL和ETH上，从中可以看到币安的布局，ASTER算是BSC链上\nhttps://t.co/L2h2Ajsq7W"
+  },
+  {
+    "user": {
+      "screenName": "Defi0xJeff",
+      "name": "0xJeff",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1846579538802982912/9qCfx_WU_normal.jpg",
+      "description": "Ex @TheSpartanGroup | Adv @vectis_finance\n\n |  NO BS AI & The After Hour 🔀 https://t.co/C6xz41YzL6\n\n |  Investing in AI - Pitch🔽",
+      "followersCount": 74432,
+      "friendsCount": 888,
+      "location": "Mainframe"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Defi0xJeff/status/1969232430822539539",
+    "fullText": "https://t.co/JDvLKMR3xl"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🇨🇳 CNM 点个关注啊\n📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n\n ✉️DM for collab",
+      "followersCount": 66158,
+      "friendsCount": 57,
+      "location": "群在这里"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1969229468377235456/vid/avc1/1320x736/m9a2XeCZYTvsCEv7.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Bitfatty/status/1969229537700438073",
+    "fullText": "$aster   还是熟悉的味道啊\n\n但是为啥没给上现货啊  “亲儿子”🤣不配？ https://t.co/9wM8UYU7aO"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🇨🇳 CNM 点个关注啊\n📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n\n ✉️DM for collab",
+      "followersCount": 66158,
+      "friendsCount": 57,
+      "location": "群在这里"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1969227299443691901",
+    "fullText": "让我来考考各位 顶尖交易员  \n有心的朋友肯定都已经观察到一个“铁律”\n每次有大项目要 TGE（发币“上市”） 前 \n大盘就会呈现跌不下去的“固定规律”\n仿佛要给大项目发币一个“面子”"
+  },
+  {
+    "user": {
+      "screenName": "CryptoHayes",
+      "name": "Arthur Hayes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945370420191875072/o5Ep8CTf_normal.png",
+      "description": "Arthur Hayes, Co-Founder of BitMEX & CIO @Maelstromfund",
+      "followersCount": 737007,
+      "friendsCount": 25,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1QZvDgbQAA-vvm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoHayes/status/1969227239792525816",
+    "fullText": "TGA refill almost done - target is $850bn. With this liquidity drain complete, up only can resume. https://t.co/LSVieKX2J8"
+  },
+  {
+    "user": {
+      "screenName": "0xcryptowizard",
+      "name": "0xWizard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+      "description": "||🐿️🥜 $pnut\n|| 🌞🌕https://t.co/nnmTLYbIfK\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+      "followersCount": 219183,
+      "friendsCount": 6170,
+      "location": "Metaverse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xcryptowizard/status/1969223875272581252",
+    "fullText": "每次财富效应出来，都有人后悔拍大腿。\n\n“本来准备投了，结果xxx。”\n“xxx都按头让我上，结果我xxx。”\n\n有意思，真再来一次，你就会上？\n\n回看k线都简单，站在现在，都傻眼。\n\n自己看不懂的，别人说好，就要上，那离亏没也不远了。"
+  },
+  {
+    "user": {
+      "screenName": "missoralways",
+      "name": "A",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
+      "description": "Narrative trader l Professional roundtripper l @protoscap",
+      "followersCount": 20062,
+      "friendsCount": 883,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/missoralways/status/1969212699784446390",
+    "fullText": "ASTER MODE \n\nsay it back \n\nlast time we see $ASTER sub 1 dollar"
+  },
+  {
+    "user": {
+      "screenName": "missoralways",
+      "name": "A",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
+      "description": "Narrative trader l Professional roundtripper l @protoscap",
+      "followersCount": 20062,
+      "friendsCount": 883,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1QJfocbQAAjKlr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/missoralways/status/1969209403699020183",
+    "fullText": "https://t.co/tOkAS3ELT9"
+  },
+  {
+    "user": {
       "screenName": "yuyue_chris",
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 103937,
+      "followersCount": 104065,
       "friendsCount": 7173,
       "location": "Crypto"
     },
@@ -20,8 +146,8 @@
       "name": "EnHeng嗯哼🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1966152812536147968/nzlqBIZQ_normal.jpg",
       "description": "05年大学生入场学习记｜#BNB｜build Binance 近3亿选择https://t.co/jEqVI3VggF ｜Boutique KOL Agency｜合作Dm Tg enheng777 ｜个人微信ttttwill｜仅代表个人观点不构成投资建议 高风险投机 DYOR",
-      "followersCount": 70723,
-      "friendsCount": 3043,
+      "followersCount": 70840,
+      "friendsCount": 3042,
       "location": "TG频道发布重要信息"
     },
     "images": [
@@ -37,7 +163,7 @@
       "name": "何币",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1677888294661791748/GzBJhJcb_normal.jpg",
       "description": "注意：此帐户中提到的任何内容都不是投资建议 本推特提到的任何项目都不要信，不要看，不要点，更不要买||https://t.co/Q8DISODv8H|| ||https://t.co/8Wu8bhqnL8||",
-      "followersCount": 386907,
+      "followersCount": 387011,
       "friendsCount": 1325,
       "location": ""
     },
@@ -53,7 +179,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
       "description": "Alicization社区与A组leader☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
       "followersCount": 6510,
-      "friendsCount": 274,
+      "friendsCount": 273,
       "location": ""
     },
     "images": [
@@ -69,7 +195,7 @@
       "name": "KK.aWSB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
       "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | 硅谷 P 将军｜金狗投研｜深绿 Agent👽｜Learn in public📖｜\n\n✈️投研频道：https://t.co/QsTW1lsaMp",
-      "followersCount": 29271,
+      "followersCount": 29311,
       "friendsCount": 2515,
       "location": "Palo Alto"
     },
@@ -84,8 +210,8 @@
       "name": "大宇",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1862767252400967680/mjEMe7kp_normal.jpg",
       "description": "币圈宝典 https://t.co/EIMVhaCHyk\n\n💰最高等级省手续费注册\n币安 https://t.co/CLh8KEA9Ri\nOK \n交易所 https://t.co/k9RDrZX7l7\n钱包 https://t.co/0GUmXMTC19\n\n🤖链上打狗\nhttps://t.co/s2lOGi0Bnw\n\n✈️投资频道\nhttps://t.co/f4KWsBAJpr",
-      "followersCount": 272669,
-      "friendsCount": 3747,
+      "followersCount": 272729,
+      "friendsCount": 3746,
       "location": "收费群1688U/年，点链接"
     },
     "images": [],
@@ -99,8 +225,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [
@@ -116,8 +242,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [
@@ -133,8 +259,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [
@@ -150,8 +276,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [],
@@ -167,8 +293,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [],
@@ -182,7 +308,7 @@
       "name": "@levelsio",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1589756412078555136/YlXMBzhp_normal.jpg",
       "description": "💸https://t.co/sQ0aiU7v02 $336K/m\n📸https://t.co/lAyoqmSBRX $148K/m\n🏡https://t.co/1oqUgfD6CZ $33K/m\n🛰https://t.co/ZHSvI2wjyW $31K/m\n🌍https://t.co/UXK5AFqCaQ $14K/m\n👙https://t.co/RyXpqGuFM3 $14K/m\n💾https://t.co/M1hEUBAynC $6K/m",
-      "followersCount": 726257,
+      "followersCount": 726331,
       "friendsCount": 2167,
       "location": "📕 My book $8K/m  👉"
     },
@@ -199,8 +325,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [],
@@ -214,8 +340,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [
@@ -231,7 +357,7 @@
       "name": "Melee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909414883315109889/kvtsepiq_normal.jpg",
       "description": "Join the Melee.",
-      "followersCount": 6407,
+      "followersCount": 6441,
       "friendsCount": 20,
       "location": "Solana"
     },
@@ -248,8 +374,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [],
@@ -263,8 +389,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [],
@@ -278,8 +404,8 @@
       "name": "Game",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607722344432242689/m1XRdYV7_normal.jpg",
       "description": "Attention frontrunner.",
-      "followersCount": 38578,
-      "friendsCount": 421,
+      "followersCount": 38658,
+      "friendsCount": 420,
       "location": ""
     },
     "images": [],
@@ -293,8 +419,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [],
@@ -308,8 +434,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [],
@@ -323,8 +449,8 @@
       "name": "The DeFi Investor 🔎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
       "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
-      "followersCount": 154679,
-      "friendsCount": 2247,
+      "followersCount": 154749,
+      "friendsCount": 2246,
       "location": "FREE NEWSLETTER→"
     },
     "images": [
@@ -340,8 +466,8 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 19885,
-      "friendsCount": 885,
+      "followersCount": 20062,
+      "friendsCount": 883,
       "location": ""
     },
     "images": [],
@@ -355,7 +481,7 @@
       "name": "CZ 🔶 BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1961440580279336960/PiiIs8Lh_normal.jpg",
       "description": "@BNBchain\n@YZiLabs\n@GiggleAcademy\n@binance",
-      "followersCount": 10145077,
+      "followersCount": 10146523,
       "friendsCount": 1866,
       "location": ""
     },
@@ -372,7 +498,7 @@
       "name": "链研社",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1566981958022107137/DD7wCZ4q_normal.jpg",
       "description": "穿越牛熊的数据派交易员|币股双修| #Binance 币安广场创作者|Web3创业OG|拥抱AI|SUI Builder，奉行周期大于一切，关注真正影响投资决策的信息👉Youtube | https://t.co/CjMDeYoJQG👉币安手续费八折https://t.co/r9GREVIdCF",
-      "followersCount": 76250,
+      "followersCount": 76269,
       "friendsCount": 1135,
       "location": "萨厄瓦多"
     },
@@ -389,7 +515,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 121426,
+      "followersCount": 121491,
       "friendsCount": 1558,
       "location": "moon"
     },
@@ -404,7 +530,7 @@
       "name": "Phyrex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
       "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
-      "followersCount": 347837,
+      "followersCount": 347915,
       "friendsCount": 5262,
       "location": "DeAgentAI体验官"
     },
@@ -421,7 +547,7 @@
       "name": "Phyrex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
       "description": "4XLABS 辅导全球Web3项目落地华语市场\n只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
-      "followersCount": 347837,
+      "followersCount": 347915,
       "friendsCount": 5262,
       "location": "DeAgentAI体验官"
     },
@@ -438,7 +564,7 @@
       "name": "allincrypto 熬鹰资本 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
       "description": "|PNL 120K—7M｜币安跟随者收益第1｜OKX规模第1｜ 币安：https://t.co/La1Z39b8ZY OKX https://t.co/KcBOmqBr4R 群https://t.co/vH93LC42bO 助理@Aoyingzhuli",
-      "followersCount": 118015,
+      "followersCount": 118047,
       "friendsCount": 594,
       "location": "你就是你自己的交易之神。"
     },
@@ -550,7 +676,7 @@
       "name": "hansolar.🕯️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1663409265317658626/2d-rxKpE_normal.jpg",
       "description": "🔮🐶🔮 I like data, defi and degening | intern @lighter_xyz | 💬 https://t.co/boLwACvoUe | 🏰 @Castle__Cap",
-      "followersCount": 23305,
+      "followersCount": 23312,
       "friendsCount": 3789,
       "location": "online"
     },
@@ -565,7 +691,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 121426,
+      "followersCount": 121491,
       "friendsCount": 1558,
       "location": "moon"
     },
@@ -582,7 +708,7 @@
       "name": "43A6 - btcboxer.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1482334747020111873/_Nf8LN9W_normal.jpg",
       "description": "匿名安全驾驶员，直线赛道猛踩油门，弯道不翻车； 独立思考，个人随想，总结； ⚠️无交流群⚠️ 我的推特帖子主题分类目录：https://t.co/eRZWSYg0Sp",
-      "followersCount": 7905,
+      "followersCount": 7908,
       "friendsCount": 606,
       "location": ""
     },
