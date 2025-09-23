@@ -1,11 +1,89 @@
 [
   {
     "user": {
+      "screenName": "HaywarZhu",
+      "name": "Haywar | 海老师🗿",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904297408273772544/TwlamTm3_normal.jpg",
+      "description": "不玩流量的二级玩家 | 没有付费群 | Web3公益教育 | BN跟单实盘383BD",
+      "followersCount": 12058,
+      "friendsCount": 1685,
+      "location": "Toronto 🇨🇦"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HaywarZhu/status/1970573449987825899",
+    "fullText": "hyper ass liquid 😭😭"
+  },
+  {
+    "user": {
+      "screenName": "degentradingLSD",
+      "name": "degentrading",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1883554633630744576/er32dCLA_normal.jpg",
+      "description": "yolo",
+      "followersCount": 52813,
+      "friendsCount": 704,
+      "location": "Mum's basement"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/degentradingLSD/status/1970560546065015045",
+    "fullText": "what happens to btc if spx starts tanking too? :O"
+  },
+  {
+    "user": {
+      "screenName": "0xSleepinRain",
+      "name": "雨中狂睡🌳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963595713318981636/uvWKWG0v_normal.jpg",
+      "description": "Seeking asymmetric opportunities｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rOoS1",
+      "followersCount": 26794,
+      "friendsCount": 3835,
+      "location": "Bitcoin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xSleepinRain/status/1970542138091044995",
+    "fullText": "一个币，贵有贵的道理，便宜有便宜的说法。贵，它继续贵下去的概率就更高。便宜，它继续便宜下去的概率就更高。\n\n只有少数，是非共识机会。"
+  },
+  {
+    "user": {
+      "screenName": "cryptocishanjia",
+      "name": "币圈慈善家",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1464518155020083204/OW28mCLv_normal.jpg",
+      "description": "Trader，Investor，理性，不构成投资建议。  阿奶，你一定可以的！华语Top1的meme交易平台https://t.co/CUU2jfYanc 新人首选OKX，安全简单 https://t.co/9Whl44E5hC 近3亿用户的共同选择，就在币安｜https://t.co/vs6TcdYute",
+      "followersCount": 298068,
+      "friendsCount": 1604,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryptocishanjia/status/1970522866660892838",
+    "fullText": "BINANCE SEASON！"
+  },
+  {
+    "user": {
+      "screenName": "0xScottBTC",
+      "name": "AI索罗斯科特",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1914140013060849664/VKG38tuf_normal.jpg",
+      "description": "3年硬件开发，2年券商投研，10年加密投资。目前专注AI量化\n@GryphsisAcademy 联合创始人\n商务联系(tg): scott_cheung",
+      "followersCount": 11068,
+      "friendsCount": 1231,
+      "location": "Bangkok"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1izltpbYAECMVn.jpg",
+      "https://pbs.twimg.com/media/G1izoldaoAM98_G.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xScottBTC/status/1970522406096904547",
+    "fullText": "什么？你们刷 Aster 还有资金磨损？ 500U 高频做市商策略出动，我应该是全网唯一负成本撸到 Aster 空投的。加入我的战队 https://t.co/JyfML4loDL ，领取我之前做的0代码ai编程实现做市商策略的视频教程 https://t.co/n10nO2r3aC"
+  },
+  {
+    "user": {
       "screenName": "HAZENLEE_",
       "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896132624940191744/h18Fvuz6_normal.jpg",
       "description": "𝙀／𝘼𝙘𝙘｜16年OG 伪Trader真Hodler ｜ 加密信仰传教士已ALL IN ₿TC+AI｜观点明确从不不马后炮 模棱两可 致力于科技金融投资交易科普｜抽象派行为艺术大师｜趋势吹哨人，多轮牛熊转换吹号手｜ 老婆跑了(LPPL)模型践行者，价值投资者｜做交易，我只用https://t.co/b3sMD2LYqA",
-      "followersCount": 38445,
+      "followersCount": 38482,
       "friendsCount": 2915,
       "location": "距离你384400km 🌕"
     },
@@ -22,7 +100,7 @@
       "name": "雨中狂睡🌳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963595713318981636/uvWKWG0v_normal.jpg",
       "description": "Seeking asymmetric opportunities｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rOoS1",
-      "followersCount": 26786,
+      "followersCount": 26794,
       "friendsCount": 3835,
       "location": "Bitcoin"
     },
@@ -37,7 +115,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 168943,
+      "followersCount": 168964,
       "friendsCount": 808,
       "location": "萨尔瓦多"
     },
@@ -54,7 +132,7 @@
       "name": "雨中狂睡🌳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963595713318981636/uvWKWG0v_normal.jpg",
       "description": "Seeking asymmetric opportunities｜近3亿用户的共同选择，启程Web3，就在币安：https://t.co/1Jme3rOoS1",
-      "followersCount": 26786,
+      "followersCount": 26794,
       "friendsCount": 3835,
       "location": "Bitcoin"
     },
@@ -71,8 +149,8 @@
       "name": "Tinkle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1683825378714845184/3HaKCjOB_normal.jpg",
       "description": "Founder of Tinkle community ｜Data Scientist ｜@7n2capital｜Exclusive Telegram: https://t.co/WkP46QFcaJ｜私群申请：https://t.co/5YUcRHcLmR",
-      "followersCount": 43711,
-      "friendsCount": 2142,
+      "followersCount": 43710,
+      "friendsCount": 2141,
       "location": ""
     },
     "images": [
@@ -89,7 +167,7 @@
       "name": "布欧的量化日记",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1646454418584518656/QolfNrn8_normal.jpg",
       "description": "一个纯喜爱分享的专职币圈量化交易员，涉及币圈套利/cta/高频等策略思路！youtube免费学习频道：https://t.co/aNR1xmhpSL \nTG群：https://t.co/2kfIclvoDg",
-      "followersCount": 2510,
+      "followersCount": 2511,
       "friendsCount": 339,
       "location": "Jiangxi"
     },
@@ -104,7 +182,7 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 22557,
+      "followersCount": 22628,
       "friendsCount": 889,
       "location": ""
     },
@@ -121,8 +199,8 @@
       "name": "@levelsio",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1589756412078555136/YlXMBzhp_normal.jpg",
       "description": "💸https://t.co/sQ0aiU7v02 $336K/m\n📸https://t.co/lAyoqmSBRX $148K/m\n🏡https://t.co/1oqUgfD6CZ $33K/m\n🛰https://t.co/ZHSvI2wjyW $31K/m\n🌍https://t.co/UXK5AFqCaQ $14K/m\n👙https://t.co/RyXpqGuFM3 $14K/m\n💾https://t.co/M1hEUBAynC $6K/m",
-      "followersCount": 728871,
-      "friendsCount": 2176,
+      "followersCount": 728984,
+      "friendsCount": 2177,
       "location": "📕 My book $8K/m  👉"
     },
     "images": [],
@@ -136,7 +214,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🇨🇳 CNM 点个关注啊\n📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n\n ✉️DM for collab",
-      "followersCount": 65880,
+      "followersCount": 65926,
       "friendsCount": 57,
       "location": "群在这里"
     },
@@ -151,8 +229,8 @@
       "name": "Tinkle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1683825378714845184/3HaKCjOB_normal.jpg",
       "description": "Founder of Tinkle community ｜Data Scientist ｜@7n2capital｜Exclusive Telegram: https://t.co/WkP46QFcaJ｜私群申请：https://t.co/5YUcRHcLmR",
-      "followersCount": 43711,
-      "friendsCount": 2142,
+      "followersCount": 43710,
+      "friendsCount": 2141,
       "location": ""
     },
     "images": [
@@ -171,7 +249,7 @@
       "name": "Game",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607722344432242689/m1XRdYV7_normal.jpg",
       "description": "Attention frontrunner.",
-      "followersCount": 39201,
+      "followersCount": 39199,
       "friendsCount": 381,
       "location": ""
     },
@@ -186,7 +264,7 @@
       "name": "PoPi 牛犁.m🐜",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963828929422340096/7CCowKTe_normal.png",
       "description": "不會主動私訊  \n努力成為萬粉博主中\n📮https://t.co/6RVB9C4gNu\nTG頻道:https://t.co/q5efPuaX1P",
-      "followersCount": 7349,
+      "followersCount": 7347,
       "friendsCount": 2856,
       "location": ""
     },
@@ -201,8 +279,8 @@
       "name": "EnHeng嗯哼🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1966152812536147968/nzlqBIZQ_normal.jpg",
       "description": "05年大学生入场学习记｜build #BNB｜Binance 近3亿选择https://t.co/Y1GpxuSDRD｜@Giggleacademy BNB 慈善贡献榜首位｜Boutique KOL Agency｜合作Dm Tg enheng777 ｜个人微信ttttwill｜仅代表个人观点不构成投资建议 高风险投机 DYOR",
-      "followersCount": 74264,
-      "friendsCount": 3038,
+      "followersCount": 74327,
+      "friendsCount": 3039,
       "location": "TG频道发布重要信息"
     },
     "images": [],
@@ -216,7 +294,7 @@
       "name": "A",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879336864751960064/AxR-noCV_normal.jpg",
       "description": "Narrative trader l Professional roundtripper l @protoscap",
-      "followersCount": 22557,
+      "followersCount": 22628,
       "friendsCount": 889,
       "location": ""
     },
@@ -231,7 +309,7 @@
       "name": "CJ_Blockchain, CFA🆓",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Former Investment banker   |  All in #Blockchain  |  8 years #Bitcoin Holder  |  Blockchain Industry Researcher\nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 6192,
+      "followersCount": 6193,
       "friendsCount": 759,
       "location": ""
     },
@@ -246,7 +324,7 @@
       "name": "Ai 姨",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
       "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance\n个人主页：https://t.co/gff8vVlSl1",
-      "followersCount": 108746,
+      "followersCount": 108769,
       "friendsCount": 603,
       "location": "返佣链接 👉"
     },
@@ -263,7 +341,7 @@
       "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896132624940191744/h18Fvuz6_normal.jpg",
       "description": "𝙀／𝘼𝙘𝙘｜16年OG 伪Trader真Hodler ｜ 加密信仰传教士已ALL IN ₿TC+AI｜观点明确从不不马后炮 模棱两可 致力于科技金融投资交易科普｜抽象派行为艺术大师｜趋势吹哨人，多轮牛熊转换吹号手｜ 老婆跑了(LPPL)模型践行者，价值投资者｜做交易，我只用https://t.co/b3sMD2LYqA",
-      "followersCount": 38445,
+      "followersCount": 38482,
       "friendsCount": 2915,
       "location": "距离你384400km 🌕"
     },
@@ -281,7 +359,7 @@
       "name": "比特肥 || Bitfatty (🍀,🍀)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
       "description": "🇨🇳 CNM 点个关注啊\n📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n\n ✉️DM for collab",
-      "followersCount": 65880,
+      "followersCount": 65926,
       "friendsCount": 57,
       "location": "群在这里"
     },
@@ -474,7 +552,7 @@
       "name": "川沐｜Trumoo🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
       "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
-      "followersCount": 168943,
+      "followersCount": 168964,
       "friendsCount": 808,
       "location": "萨尔瓦多"
     },
