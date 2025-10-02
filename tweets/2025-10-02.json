@@ -1,12 +1,235 @@
 [
   {
     "user": {
+      "screenName": "meleemarkets",
+      "name": "Melee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909414883315109889/kvtsepiq_normal.jpg",
+      "description": "The only prediction market with 100x+ returns. Be early, be right, win big. \n\nJoin the Telegram: https://t.co/ncerDnzsSW",
+      "followersCount": 12844,
+      "friendsCount": 24,
+      "location": "Solana"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1973840921318891520/vid/avc1/1080x1080/zGPfzlqcAmVShM40.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/meleemarkets/status/1973840979141800218",
+    "fullText": "pump unlocked liquidity for any token\n\nmelee does the same for prediction markets, and it comes with the same potential for 100x returns\n\n-no LPs\n-no market makers\n-no gatekeepers\n\ncreators launch, and early traders capture the upside https://t.co/X26RzbrIYj"
+  },
+  {
+    "user": {
       "screenName": "cutepandaweb3",
       "name": "cutepanda",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1725392592547065856/zw3JOFGM_normal.jpg",
       "description": "web3/solidity/meme/gamefi/nft $Virtual $Neiro $TOSHI #MEMECOIN #TON #BASE Fragment: +888 0999 0888 Telegram: @CutePandaWeb3 https://t.co/J8V8soOl3P",
-      "followersCount": 22568,
-      "friendsCount": 1834,
+      "followersCount": 22576,
+      "friendsCount": 1838,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cutepandaweb3/status/1973840324373172625",
+    "fullText": "以前的卖飞的筹码 跟你现在做的决策是无关的\n\n比如你100k市值买入了 $4 翻倍之后就跑了\n结果cz提了一下突然拉到10M 那么就不要后悔第一次的卖出 这时候就重新判断是不是能入场 要上多少\n\n上了alpha之后50-60M的位置 又是重新判断的时候 \n至于之前不管是卖飞了10k 100k 还是5M 10M位置的货"
+  },
+  {
+    "user": {
+      "screenName": "brc20niubi",
+      "name": "王小二",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_normal.jpg",
+      "description": "我就是全宇宙最厉害的区块链天才，我一定一定一定行！\n\n00后，从前的目标是赚很多很多钱，现在的目标是去很多很多地方做很多很多没做过的事\n\ngmgn交易bot:  https://t.co/7m8Q1hiwir",
+      "followersCount": 57752,
+      "friendsCount": 1606,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/brc20niubi/status/1973826448403411334",
+    "fullText": "又干了点 $form ，感觉bsc会来一波meme热了，form是https://t.co/TiHWW9lj3K的平台币\n\n说多了也没啥用，干就完了"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 125435,
+      "friendsCount": 520,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/1973818736831528977",
+    "fullText": "经常看很多人这个又吃又拿，那个又吃又拿，我比较好奇，这么多又吃又拿，最后整体资金的总收益率跑赢比特币了吗？"
+  },
+  {
+    "user": {
+      "screenName": "cutepandaweb3",
+      "name": "cutepanda",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1725392592547065856/zw3JOFGM_normal.jpg",
+      "description": "web3/solidity/meme/gamefi/nft $Virtual $Neiro $TOSHI #MEMECOIN #TON #BASE Fragment: +888 0999 0888 Telegram: @CutePandaWeb3 https://t.co/J8V8soOl3P",
+      "followersCount": 22576,
+      "friendsCount": 1838,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cutepandaweb3/status/1973815619738062957",
+    "fullText": "在电脑边等着 $4 突破100M\n我好截个图"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 102502,
+      "friendsCount": 7234,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1973806042665672984",
+    "fullText": "4 means 发 in Cantonese\n\n$4 就是发财"
+  },
+  {
+    "user": {
+      "screenName": "Bitfatty",
+      "name": "比特肥 || Bitfatty (🍀,🍀)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+      "description": "🇨🇳 CNM 点个关注啊\n📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n\n ✉️DM for collab",
+      "followersCount": 65854,
+      "friendsCount": 57,
+      "location": "群在这里"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2ReCuPasAAHUw1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Bitfatty/status/1973805943633916336",
+    "fullText": "空了点 $btc  \n爱是克制  是放手 是嘴角的泪水\n\n祝我好运 https://t.co/vyGbeJ9VfM"
+  },
+  {
+    "user": {
+      "screenName": "cz_binance",
+      "name": "CZ 🔶 BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961440580279336960/PiiIs8Lh_normal.jpg",
+      "description": "@BNBchain\n@YZiLabs\n@GiggleAcademy\n@binance",
+      "followersCount": 10245373,
+      "friendsCount": 1880,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cz_binance/status/1973799364544840119",
+    "fullText": "You get a lot of pile-on lawsuits after a plea. People do this as a profession. One threatened that I must pay them $4.4 billion USD (yes, billion) or else, they would have the media write about (fake stories of) “Binance helped terrorists”, etc.\n\nWe always choose to fight for"
+  },
+  {
+    "user": {
+      "screenName": "cutepandaweb3",
+      "name": "cutepanda",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1725392592547065856/zw3JOFGM_normal.jpg",
+      "description": "web3/solidity/meme/gamefi/nft $Virtual $Neiro $TOSHI #MEMECOIN #TON #BASE Fragment: +888 0999 0888 Telegram: @CutePandaWeb3 https://t.co/J8V8soOl3P",
+      "followersCount": 22576,
+      "friendsCount": 1838,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2RSazKbMAAW9sE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cutepandaweb3/status/1973793212574937401",
+    "fullText": "NFT on Bitcoin is back https://t.co/JkWgW4nZwx"
+  },
+  {
+    "user": {
+      "screenName": "missoralways",
+      "name": "A",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971912900013862912/swXDv1Ue_normal.jpg",
+      "description": "Narrative trader l Professional roundtripper l @protoscap",
+      "followersCount": 25731,
+      "friendsCount": 891,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/missoralways/status/1973791418570375382",
+    "fullText": "there is a full blown bull market happening as we speak, if you don’t feel the same you just aren’t in the right coins. \n\nlast few weeks have been easy mode fr \n\nbe around winners"
+  },
+  {
+    "user": {
+      "screenName": "alpha_pls",
+      "name": "Aylo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1504139683751763971/YDAbI0Ay_normal.jpg",
+      "description": "Research @alphapleaseHQ | TG channel updates https://t.co/Q3jLUFrk54 | Advisor @KaminoFinance",
+      "followersCount": 133928,
+      "friendsCount": 2836,
+      "location": "Subscribe 👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2RPIpiXkAAeodF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alpha_pls/status/1973790815966409088",
+    "fullText": "Bears have to be nervous.\n\nStrong move from Bitcoin.\n\nHistorically, it’s extremely rare for $BTC to get within 5% of its ATH and not break higher.\n\nAnd when the prior ATH was set just weeks earlier, it’s never failed (AI double-checked). https://t.co/yb8c2ktUc1"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99qSG",
+      "followersCount": 251356,
+      "friendsCount": 6197,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2RJKrWbMAAmHNi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/1973787661514281277",
+    "fullText": "论，10月alpha的竞争会有多激烈？\n\n回分节奏重叠\n截止到10月3日，我工作室的号回分节奏基本围绕在下面几个节点\n其实大部分新号和回流的玩家，都是25号前后开始重新入职的。按照14+2的正常节奏来算，10月7日左右能到192分，可以领一些空投了。\n但是，恰好和25号前后已经领取的老号冲突了。 https://t.co/4fdyoUNQ4N"
+  },
+  {
+    "user": {
+      "screenName": "TheDeFinvestor",
+      "name": "The DeFi Investor 🔎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
+      "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
+      "followersCount": 156366,
+      "friendsCount": 2282,
+      "location": "FREE NEWSLETTER→"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDeFinvestor/status/1973785527712358633",
+    "fullText": "Q4 will be massive for DeFi. \n\nI just sent a newsletter covering: \n\n• 3 major upcoming DeFi launches \n• The next big upgrade for Hyperliquid\n• This week's DeFi news \n\nRead it here: \nhttps://t.co/gU0qW2qkIN"
+  },
+  {
+    "user": {
+      "screenName": "missoralways",
+      "name": "A",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971912900013862912/swXDv1Ue_normal.jpg",
+      "description": "Narrative trader l Professional roundtripper l @protoscap",
+      "followersCount": 25731,
+      "friendsCount": 891,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2RK6a3bIAAth8C.jpg",
+      "https://pbs.twimg.com/media/G2RK6bAaMAA7uTO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/missoralways/status/1973784912676434025",
+    "fullText": "6m to 100m so far on $4 \n\nposted full thesis as always with 10 more hard shills as to why this is an obvious play \n\n“slow at first then all at once”\n\nanother successful 7 figure narrative spotted and served on a silver platter for my bros \n\ngod speed https://t.co/FrcXXwcvL3"
+  },
+  {
+    "user": {
+      "screenName": "cutepandaweb3",
+      "name": "cutepanda",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1725392592547065856/zw3JOFGM_normal.jpg",
+      "description": "web3/solidity/meme/gamefi/nft $Virtual $Neiro $TOSHI #MEMECOIN #TON #BASE Fragment: +888 0999 0888 Telegram: @CutePandaWeb3 https://t.co/J8V8soOl3P",
+      "followersCount": 22576,
+      "friendsCount": 1838,
       "location": ""
     },
     "images": [
@@ -22,8 +245,8 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 125413,
-      "friendsCount": 519,
+      "followersCount": 125435,
+      "friendsCount": 520,
       "location": "China"
     },
     "images": [],
@@ -37,8 +260,8 @@
       "name": "0xyuxi | 0x雨曦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954097814990204928/OxYLMkE__normal.jpg",
       "description": "Stay hungry,stay IQ50\n死也要死在龙头上",
-      "followersCount": 4883,
-      "friendsCount": 2053,
+      "followersCount": 4896,
+      "friendsCount": 2061,
       "location": ""
     },
     "images": [
@@ -55,7 +278,7 @@
       "name": "The DeFi Investor 🔎",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
       "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
-      "followersCount": 156413,
+      "followersCount": 156366,
       "friendsCount": 2282,
       "location": "FREE NEWSLETTER→"
     },
@@ -72,8 +295,8 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 125413,
-      "friendsCount": 519,
+      "followersCount": 125435,
+      "friendsCount": 520,
       "location": "China"
     },
     "images": [],
@@ -102,8 +325,8 @@
       "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896132624940191744/h18Fvuz6_normal.jpg",
       "description": "𝙀／𝘼𝙘𝙘｜16年OG 伪Trader真Hodler ｜ 加密信仰传教士已ALL IN ₿TC+AI｜观点明确从不不马后炮 模棱两可 致力于科技金融投资交易科普｜抽象派行为艺术大师｜趋势吹哨人，多轮牛熊转换吹号手｜ 老婆跑了(LPPL)模型践行者，价值投资者｜做交易，我只用https://t.co/b3sMD2LYqA",
-      "followersCount": 39485,
-      "friendsCount": 2937,
+      "followersCount": 39496,
+      "friendsCount": 2945,
       "location": "距离你384400km 🌕"
     },
     "images": [
@@ -119,8 +342,8 @@
       "name": "cutepanda",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1725392592547065856/zw3JOFGM_normal.jpg",
       "description": "web3/solidity/meme/gamefi/nft $Virtual $Neiro $TOSHI #MEMECOIN #TON #BASE Fragment: +888 0999 0888 Telegram: @CutePandaWeb3 https://t.co/J8V8soOl3P",
-      "followersCount": 22568,
-      "friendsCount": 1834,
+      "followersCount": 22576,
+      "friendsCount": 1838,
       "location": ""
     },
     "images": [],
@@ -134,7 +357,7 @@
       "name": "Surf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1916869204549963776/XFtTtq6s_normal.jpg",
       "description": "Even the best need a copilot. \n\nMake smarter moves, faster with institution-grade crypto research and onchain execution in one flow.\n\nPowered by @BuildOnCyber.",
-      "followersCount": 135754,
+      "followersCount": 135688,
       "friendsCount": 21,
       "location": "NFA"
     },
@@ -151,7 +374,7 @@
       "name": "CZ 🔶 BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1961440580279336960/PiiIs8Lh_normal.jpg",
       "description": "@BNBchain\n@YZiLabs\n@GiggleAcademy\n@binance",
-      "followersCount": 10245562,
+      "followersCount": 10245373,
       "friendsCount": 1880,
       "location": ""
     },
@@ -168,7 +391,7 @@
       "name": "Ai 姨",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
       "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance\n个人主页：https://t.co/gff8vVlSl1",
-      "followersCount": 109691,
+      "followersCount": 109687,
       "friendsCount": 604,
       "location": "返佣链接 👉"
     },
@@ -185,8 +408,8 @@
       "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896132624940191744/h18Fvuz6_normal.jpg",
       "description": "𝙀／𝘼𝙘𝙘｜16年OG 伪Trader真Hodler ｜ 加密信仰传教士已ALL IN ₿TC+AI｜观点明确从不不马后炮 模棱两可 致力于科技金融投资交易科普｜抽象派行为艺术大师｜趋势吹哨人，多轮牛熊转换吹号手｜ 老婆跑了(LPPL)模型践行者，价值投资者｜做交易，我只用https://t.co/b3sMD2LYqA",
-      "followersCount": 39485,
-      "friendsCount": 2937,
+      "followersCount": 39496,
+      "friendsCount": 2945,
       "location": "距离你384400km 🌕"
     },
     "images": [
@@ -202,7 +425,7 @@
       "name": "小熊饼干.eth⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师\nCFA Level III candidate\nCertified Financial Technician - IFTA\n现在是一名保安，爱吃小熊饼干\n#web3入口 OKX Web3钱包一个就够 https://t.co/GiZjrXzMaX",
-      "followersCount": 49008,
+      "followersCount": 49021,
       "friendsCount": 799,
       "location": "推文均非投资建议"
     },
@@ -219,8 +442,8 @@
       "name": "币圈慈善家",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1464518155020083204/OW28mCLv_normal.jpg",
       "description": "Trader，Investor，理性，不构成投资建议。  @WinTradersFNF\n阿奶，你一定可以的！华语Top1的meme交易平台https://t.co/CUU2jfYanc 新人首选OKX，安全简单 https://t.co/9Whl44E5hC 近3亿用户的共同选择，就在币安｜https://t.co/vs6TcdYute",
-      "followersCount": 299238,
-      "friendsCount": 1621,
+      "followersCount": 299272,
+      "friendsCount": 1623,
       "location": ""
     },
     "images": [],
@@ -234,7 +457,7 @@
       "name": "请叫我 MaiK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581597277801820166/fHH8rO8A_normal.jpg",
       "description": "Inner Circle CT 选手\n推特真实不刷数据不造假\nalpha信息分享/交互空投/项目解读\n\nBinance注册永久20%返佣：\nhttps://t.co/rfCd6mldyj\n\nOKX钱包邀请码：MK9527（20%返佣）",
-      "followersCount": 93176,
+      "followersCount": 93151,
       "friendsCount": 1314,
       "location": ""
     },
@@ -252,7 +475,7 @@
       "name": "比特进",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931553533041819648/Vn71V0qK_normal.jpg",
       "description": "#Binance 注册: https://t.co/uTd6R8Eb5y                      \n#Bitget 注册:  https://t.co/ywqSbJW3qc\n#valuescan  邀请码: A6VUDJ",
-      "followersCount": 54381,
+      "followersCount": 54417,
       "friendsCount": 982,
       "location": ""
     },
@@ -270,8 +493,8 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 125413,
-      "friendsCount": 519,
+      "followersCount": 125435,
+      "friendsCount": 520,
       "location": "China"
     },
     "images": [
@@ -287,8 +510,8 @@
       "name": "Crypto_Painter",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1370798517384450048/Q2Y0JL7G_normal.jpg",
       "description": "老朋友叫我“画师”，主要做 $BTC 技术\\数据分析和量化交易，提供各种刁钻角度看市场，用时间做杠杆，被造谣开直播时会砸盘。 正在猛学Web3应用层！#Kaito #Sidekick #Virtual #OKX CEX：https://t.co/361fpORuDK",
-      "followersCount": 86418,
-      "friendsCount": 1313,
+      "followersCount": 86444,
+      "friendsCount": 1316,
       "location": "电报群 TG Group → "
     },
     "images": [
@@ -304,8 +527,8 @@
       "name": "Crypto_Painter",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1370798517384450048/Q2Y0JL7G_normal.jpg",
       "description": "老朋友叫我“画师”，主要做 $BTC 技术\\数据分析和量化交易，提供各种刁钻角度看市场，用时间做杠杆，被造谣开直播时会砸盘。 正在猛学Web3应用层！#Kaito #Sidekick #Virtual #OKX CEX：https://t.co/361fpORuDK",
-      "followersCount": 86418,
-      "friendsCount": 1313,
+      "followersCount": 86444,
+      "friendsCount": 1316,
       "location": "电报群 TG Group → "
     },
     "images": [
@@ -321,7 +544,7 @@
       "name": "Arthur Hayes",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1945370420191875072/o5Ep8CTf_normal.png",
       "description": "Arthur Hayes, Co-Founder of BitMEX & CIO @Maelstromfund",
-      "followersCount": 743996,
+      "followersCount": 744018,
       "friendsCount": 25,
       "location": ""
     },
@@ -845,8 +1068,8 @@
       "name": "Game",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607722344432242689/m1XRdYV7_normal.jpg",
       "description": "Attention frontrunner.",
-      "followersCount": 39698,
-      "friendsCount": 375,
+      "followersCount": 39700,
+      "friendsCount": 365,
       "location": ""
     },
     "images": [],
