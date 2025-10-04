@@ -1,6 +1,121 @@
 [
   {
     "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
+      "followersCount": 122196,
+      "friendsCount": 1563,
+      "location": "moon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/1974312472548159838",
+    "fullText": "560k 市值上了ok 上的3\n\n对标币安的4\n\n目前800k\n\n你比个3看看是不是ok的手势"
+  },
+  {
+    "user": {
+      "screenName": "Vey200209",
+      "name": "薯条大王🔸BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
+      "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
+      "followersCount": 903,
+      "friendsCount": 152,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2YqPscagAAtFXP.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Vey200209/status/1974311946112675907",
+    "fullText": "区块链的世界，看似自由，其实一点也不神秘。\n 就像在银行转账，柜台大妈能清清楚楚地看到你转了多少钱、给了谁，比特币、以太坊也是这样，所有痕迹都赤裸裸地摊在链上。\nBeldex 想做的，是把这层「透明玻璃」换成「雾化玻璃」。 https://t.co/KI7WFprxAu"
+  },
+  {
+    "user": {
+      "screenName": "Vey200209",
+      "name": "薯条大王🔸BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
+      "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
+      "followersCount": 903,
+      "friendsCount": 152,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2YmhLibMAM6KHJ.png",
+      "https://pbs.twimg.com/media/G2YmoQDaEAAYSB7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Vey200209/status/1974308097108947290",
+    "fullText": "很多刚进币圈的朋友都不喜欢炒币，觉得买涨买跌压力大，风险还高。其实还有一个更轻松的玩法，就是去撸毛。\n简单说，就是参与一些项目送出的免费福利，比如 NFT、测试网任务、积分活动。做得好，就有可能赚到你的第一桶金。\n\n最近一个例子就是 @GoKiteAI \n前段时间它发了一批 https://t.co/MR4wNcFCbU"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 102628,
+      "friendsCount": 7236,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1974301578984370194",
+    "fullText": "10.4\n400?\n$4"
+  },
+  {
+    "user": {
+      "screenName": "chtomch",
+      "name": "社畜小迟🎒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784262907796299776/1IfAbYmx_normal.jpg",
+      "description": "小迟社区创始人， Wlfi 早期支持者，铭文OG，比特币生态狂热爱好者，#Binance 币安一键注册👉 注册 #Binance👉https://t.co/UcsmfxVmy4，邀请码：355575013",
+      "followersCount": 17088,
+      "friendsCount": 3673,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2Ybd2fbQAA4PfN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/chtomch/status/1974295689938264418",
+    "fullText": "里程碑5亿美金，相信下个5亿很快到来 https://t.co/xamk4sJVcm"
+  },
+  {
+    "user": {
+      "screenName": "chtomch",
+      "name": "社畜小迟🎒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784262907796299776/1IfAbYmx_normal.jpg",
+      "description": "小迟社区创始人， Wlfi 早期支持者，铭文OG，比特币生态狂热爱好者，#Binance 币安一键注册👉 注册 #Binance👉https://t.co/UcsmfxVmy4，邀请码：355575013",
+      "followersCount": 17088,
+      "friendsCount": 3673,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chtomch/status/1974295398211784804",
+    "fullText": "Okb是很难超过Bnb了，xdog能不能拉到天上振奋下人心@star_okx"
+  },
+  {
+    "user": {
+      "screenName": "Airdrop_Guard",
+      "name": "小熊饼干.eth⛵",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
+      "description": "前债券评级分析师\nCFA Level III candidate\nCertified Financial Technician - IFTA\n现在是一名保安，爱吃小熊饼干\n#web3入口 OKX Web3钱包一个就够 https://t.co/GiZjrXzMaX",
+      "followersCount": 49121,
+      "friendsCount": 800,
+      "location": "推文均非投资建议"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2YZpzhbMAMo4Oh.jpg",
+      "https://pbs.twimg.com/media/G2YZrAEbQAAUA9a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Airdrop_Guard/status/1974293736915153136",
+    "fullText": "⌞ DoubleZero 质押取回教程 ⌝\n\n我是 10 月 2 日在官网取回质押的，当时预估 1- 2 日会回到我的钱包，但是今天早上去看，没有到账，有点着急，结果是需要多做一步解押手续才行\n\n估计很多朋友会遇到这个问题，我给大家图文演示一下\n\n🍍 流程：登陆你的质押钱包 → 点击 SOL 代币 → 进入质押界面 → https://t.co/rx8hK5Ob9Q"
+  },
+  {
+    "user": {
       "screenName": "roger73005305",
       "name": "比特进",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931553533041819648/Vn71V0qK_normal.jpg",
@@ -30,6 +145,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/guanhaibit/status/1974271573608812852",
     "fullText": "#BGB\n\n走的太墨迹了，不过赌一波牛尾的爆发还是值得的，空投持续买入。\n\n相信你，BG在这狂暴牛市下，会不甘寂寞独领风骚一把！ @Bitget_zh @xiejiayinBitget https://t.co/0OBN7OosRx"
+  },
+  {
+    "user": {
+      "screenName": "chtomch",
+      "name": "社畜小迟🎒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784262907796299776/1IfAbYmx_normal.jpg",
+      "description": "小迟社区创始人， Wlfi 早期支持者，铭文OG，比特币生态狂热爱好者，#Binance 币安一键注册👉 注册 #Binance👉https://t.co/UcsmfxVmy4，邀请码：355575013",
+      "followersCount": 17088,
+      "friendsCount": 3673,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2X_BT4aMAAfU__.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/chtomch/status/1974264414418182306",
+    "fullText": "感谢所有人的支持，体验了吧前三的感觉，1.背包🎒35%手续费全部返还，预计25年底或者26年初发币https://t.co/UE6h0VsH5H\n@Backpack_CN @Miiiho420 https://t.co/1XQS2lGgG8"
   },
   {
     "user": {
@@ -402,7 +534,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 102614,
+      "followersCount": 102628,
       "friendsCount": 7236,
       "location": "Crypto"
     },
@@ -432,7 +564,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 122182,
+      "followersCount": 122196,
       "friendsCount": 1563,
       "location": "moon"
     },
@@ -478,6 +610,23 @@
   },
   {
     "user": {
+      "screenName": "Vey200209",
+      "name": "薯条大王🔸BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
+      "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
+      "followersCount": 903,
+      "friendsCount": 152,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2V0LXpbIAAH91J.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Vey200209/status/1974111781242241376",
+    "fullText": "如果你错过Aster，那你一定不能错过StandX。\n截止日期10月31号。\n\n薯条教你怎么用最少的钱刷最多的 StandX 积分\n\n最近市场上讨论度比较高的两个项目，一个是 Aster，另一个就是 StandX。\nAster 已经结束，如果没有参与，这次的 StandX一定要参与。\n根据 @BTW0205 整理的 Q4 项目清单，StandX https://t.co/gEV39UXJcH"
+  },
+  {
+    "user": {
       "screenName": "0xBTCceo",
       "name": "壹身武艺| |Bird🕊️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921425534636183552/HZOiz7pC_normal.jpg",
@@ -490,6 +639,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/0xBTCceo/status/1974109006743679443",
     "fullText": "Binance 持仓量/流通市值排序\n币种                持仓/市值           持仓(1h)         市值         资金费率\nJELLYJELLY       0.9816   63.99m( 2.96%)   65.19m   0.0571%\nEPIC             0.8684    2.88m(-0.75%)    3.32m   0.0050%\nHANA             0.7916    9.66m( 0.05%)   12.20m"
+  },
+  {
+    "user": {
+      "screenName": "0xYuxi",
+      "name": "0xyuxi | 0x雨曦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954097814990204928/OxYLMkE__normal.jpg",
+      "description": "Stay hungry,stay IQ50\n死也要死在龙头上",
+      "followersCount": 4948,
+      "friendsCount": 2066,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2VpeRlbcAAuPdX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xYuxi/status/1974100003137466766",
+    "fullText": "看到哥们们二级赚完土狗赚，真为你们感到开心\n弟弟还得辛苦劳作，羡慕死了 https://t.co/cQjIrF0CZo"
+  },
+  {
+    "user": {
+      "screenName": "timotimo007",
+      "name": "Timo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890432492026703872/R0DTi8Ok_normal.jpg",
+      "description": "Investor&trader | https://t.co/cfoT9NJywM | https://t.co/SMq9oer4Xq | tg 群 https://t.co/YQHDSbf66C",
+      "followersCount": 51883,
+      "friendsCount": 1021,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/timotimo007/status/1974092084354162864",
+    "fullText": "买了10wu cards，成本在 24 左右。逻辑：\n1. rwa 赛道龙头（我觉得真的算 rwa 的）\n\n2. 收入是 pump 1/5，pump 最高 90亿，cards目前 5亿，上所的话毛估一下还有 4x 左右空间\n\n3. cards 不是 meme，币安应该不至于因为是 sol 链卡上所\n\n4. 有几个 liquidity fund"
   },
   {
     "user": {
@@ -510,11 +691,203 @@
   },
   {
     "user": {
+      "screenName": "0xleng1",
+      "name": "Leng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909695525655359488/m8kyvLag_normal.jpg",
+      "description": "ido打新/空投/铭文/NFT早期项目研究，不构成任何投资建议。只有币安的广子会发发。合作DM 印钞机付费群申请 https://t.co/6ErsmgwMH7",
+      "followersCount": 32644,
+      "friendsCount": 348,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2Vc66ObMAcBR0w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xleng1/status/1974086189595701315",
+    "fullText": "目前撸毛项目我也就每天做一下小时里的limitless，推上的策略蛮多的可以看看 https://t.co/SSLOiHKBkJ"
+  },
+  {
+    "user": {
+      "screenName": "0xleng1",
+      "name": "Leng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909695525655359488/m8kyvLag_normal.jpg",
+      "description": "ido打新/空投/铭文/NFT早期项目研究，不构成任何投资建议。只有币安的广子会发发。合作DM 印钞机付费群申请 https://t.co/6ErsmgwMH7",
+      "followersCount": 32644,
+      "friendsCount": 348,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2VcxqVbMAEAjv6.jpg",
+      "https://pbs.twimg.com/media/G2VcxqRa4AA9iij.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xleng1/status/1974086031243931965",
+    "fullText": "记得前段时间上的 0G，市值也稳在 3b 附近了，作为 AI 赛道的模块化 L1，虽然有过一些争议，币价表现其实也达到预期了。0G 将链、计算、存储和数据可用性分离，以支持高性能的去中心化 AI 执行和验证。不少合作伙伴也实力蛮强的，覆盖 AI 计算、DePIN、DeFi 等领域。\n\nWeb3 的 AI https://t.co/bxgAgreOY7"
+  },
+  {
+    "user": {
+      "screenName": "0xlong_life",
+      "name": "风吹我已散",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936776997897953280/AQnBCynt_normal.jpg",
+      "description": "RWA早期布道者｜ICM 10U VC｜链上韭菜｜只会做空｜\n此推记录个人币圈历程，重分享。\n祝你早安，午安，晚安",
+      "followersCount": 4967,
+      "friendsCount": 985,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xlong_life/status/1974085150448443691",
+    "fullText": "X链和ok钱包 dex等链上板块核心目标是自托管，另一种大棋。\n\n但这和散户关系多大？"
+  },
+  {
+    "user": {
+      "screenName": "Airdrop_Guard",
+      "name": "小熊饼干.eth⛵",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
+      "description": "前债券评级分析师\nCFA Level III candidate\nCertified Financial Technician - IFTA\n现在是一名保安，爱吃小熊饼干\n#web3入口 OKX Web3钱包一个就够 https://t.co/GiZjrXzMaX",
+      "followersCount": 49121,
+      "friendsCount": 800,
+      "location": "推文均非投资建议"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Airdrop_Guard/status/1974084088136151435",
+    "fullText": "⌞ 10 月币圈，大机会分享 ⌝\n\n先说本周🎒积分，约 2900 万交易量，拿到 6900 分，积分本周减少 70%，原因不明，还在分析中\n\n10 月，我重点参与的机会有 3 个，给大家分享一下\n\n🍍SUI 基金会攒的局，上个版本的神 Jump 领投，看似融资只有 1000 万+，实际是个低调的天王 @MMTFinance，参与方式是在"
+  },
+  {
+    "user": {
       "screenName": "connectfarm1",
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 122182,
+      "followersCount": 122196,
+      "friendsCount": 1563,
+      "location": "moon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/1974080293398327478",
+    "fullText": "这个账号注册以来发推最多的一天\n\n今天也是带家人旅游的最后一天\n\n不过大多数时间都在高铁上\n\n下午孩子们在睡觉我就在p和发推\n\n像今天那么癫的状态也不容易\n\n行情好\n\n也容易p\n\n等到没癫可以发的时候大家就继续云淡风轻吧\n\n纯币圈现在在我看来是个小甜点\n\n已经很难再是自己的一道主菜了"
+  },
+  {
+    "user": {
+      "screenName": "0xleng1",
+      "name": "Leng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909695525655359488/m8kyvLag_normal.jpg",
+      "description": "ido打新/空投/铭文/NFT早期项目研究，不构成任何投资建议。只有币安的广子会发发。合作DM 印钞机付费群申请 https://t.co/6ErsmgwMH7",
+      "followersCount": 32644,
+      "friendsCount": 348,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xleng1/status/1974065042992882074",
+    "fullText": "链上撸毛有多枯，翻了过去十天我关注的所有的项目的推文，现在除开存钱/开合约。还有反撸90%的银河，还真没什么好东西可以撸的，白嫖目前只看到一个linera。"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
+      "followersCount": 122196,
+      "friendsCount": 1563,
+      "location": "moon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/1974060366004097237",
+    "fullText": "既然数字都可以上 alpha\n\n那么逻辑上来说\n\n表情包也可以吧\n\n上了点cz 最喜欢的表情包\n\n😭\n\nCa: \n\n0x89cbb8b68a2e9ad9b7a650d28e638b9a8a744444\n\n目前市值不到200k\n\nP盘币"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 125529,
+      "friendsCount": 520,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/1974053429325803692",
+    "fullText": "哎，当不了哇塞型人格，做不了KOL，抱不了团，融不了圈子...\n没法做到：\n哇塞，你好棒！\n哇塞，你好厉害！\n哇塞，如何如何...\n这里指明明没有，却虚夸的那种哇塞...\n不包含那种真情实意的哇塞。"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 125529,
+      "friendsCount": 520,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/G2U8M-AawAADxH3.mp4"
+    ],
+    "tweetUrl": "https://x.com/TingHu888/status/1974050220901347376",
+    "fullText": "前几天被吓尿的一些人这波又赢麻了... https://t.co/vdEtrjrvKh"
+  },
+  {
+    "user": {
+      "screenName": "Vey200209",
+      "name": "薯条大王🔸BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
+      "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
+      "followersCount": 903,
+      "friendsCount": 152,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2U7akJa0AANfWZ.jpg",
+      "https://pbs.twimg.com/media/G2U7cRNbIAENx7Q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Vey200209/status/1974049934149365775",
+    "fullText": "前两天刷群的时候，我看到有人在聊 Falcon Stable 的小羊毛，我就顺手去研究了一下。\n结果发现还真有几个地方能薅点小利。\n\n我先试的是 Mexc 的 USDf 存款活动。\n抹茶现在在搞个理财，把 USDf 存进去 7 天，年化能给到 30%。\n我想了下，反正 Falcon TGE 之后我手里正好闲着点 USDf，就扔进去试试。 https://t.co/1sBE6Mw03V"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
+      "followersCount": 122196,
+      "friendsCount": 1563,
+      "location": "moon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/1974041449306952095",
+    "fullText": "下一个 alpha 位\n\n$1"
+  },
+  {
+    "user": {
+      "screenName": "Vey200209",
+      "name": "薯条大王🔸BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
+      "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
+      "followersCount": 903,
+      "friendsCount": 152,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2UyilLawAAeiC5.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Vey200209/status/1974039590022549872",
+    "fullText": "最近特别喜欢一句话：\n人活着就是为了玩。\n工作、赚钱、运动、交友、恋爱、结婚，这些事的目的都只有一个：\n让人生变得更好玩。\n如果有一天，你发现某种生活、某份工作、某段关系让你不再觉得好玩了，甚至感受到痛苦，那最简单的选择就是：\n直接跑路，去找更好玩的东西。 https://t.co/eOK06sVBe7"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
+      "followersCount": 122196,
       "friendsCount": 1563,
       "location": "moon"
     },
@@ -522,6 +895,244 @@
     "videos": [],
     "tweetUrl": "https://x.com/connectfarm1/status/1974036606610014326",
     "fullText": "我觉得 @four_meme_ 应该考虑下升级一下自己的技术基建了\n\n尤其是带税和分红的这种机制随着 $giggle 兴起后估计会更加流行\n\n而且bnbchain 是一直都有带税加分红的传统（各种baby细节）\n\n从建设的角度\n\n这种币更加适合建设和打长线\n\n但是因为缺少有公信力的三方\n\n大家都担心撤池跑路"
+  },
+  {
+    "user": {
+      "screenName": "0xlong_life",
+      "name": "风吹我已散",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936776997897953280/AQnBCynt_normal.jpg",
+      "description": "RWA早期布道者｜ICM 10U VC｜链上韭菜｜只会做空｜\n此推记录个人币圈历程，重分享。\n祝你早安，午安，晚安",
+      "followersCount": 4967,
+      "friendsCount": 985,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xlong_life/status/1974036409821667730",
+    "fullText": "openai 收购 shopyfi\n关联标的\ndupe\nikon（给shopyfi做过外包）\n\nopenai 推出sora\n关联标的\ngiggles（昨天那个openai 有收购giggles的消息感觉是狗庄买的 用来测试市场的）\nyapper（这个dev 对待代币态度基本为0，我对他绝无任何正面评价，赌博可以）"
+  },
+  {
+    "user": {
+      "screenName": "DesmondCrypto",
+      "name": "Desmond (⛩️,🔺) $BELIEVE $XTER",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774680774241034241/MICn0uBv_normal.jpg",
+      "description": "YouTuber, Former Analyst at #Binance & https://t.co/dApO9MTtRV Learn before investing 📚 | 先求知，後投資🤓",
+      "followersCount": 7052,
+      "friendsCount": 1394,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DesmondCrypto/status/1974031506235666844",
+    "fullText": "$CAKE默默衝上$3.5\n\n無論 $1 還是 $4，也要給交易稅\n\n可能不久後你會聽到有人shill $CAKE 才是BSC親兒子和真的有營收的，和 $CAKE 之前弄了一場governance drama，就像CRO爆發前都無恥地把burn掉的token都回收一樣\n\n以前這個敍事不能有效發酵，但目前 $ASTER引發的情緒，倒是有可能有不少人會買單了"
+  },
+  {
+    "user": {
+      "screenName": "chtomch",
+      "name": "社畜小迟🎒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784262907796299776/1IfAbYmx_normal.jpg",
+      "description": "小迟社区创始人， Wlfi 早期支持者，铭文OG，比特币生态狂热爱好者，#Binance 币安一键注册👉 注册 #Binance👉https://t.co/UcsmfxVmy4，邀请码：355575013",
+      "followersCount": 17088,
+      "friendsCount": 3673,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2Ul7Mma4AAxAcU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/chtomch/status/1974025722537681130",
+    "fullText": "穿着🎒交易会有加成吗 https://t.co/ViewcQYSsv"
+  },
+  {
+    "user": {
+      "screenName": "0xlong_life",
+      "name": "风吹我已散",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936776997897953280/AQnBCynt_normal.jpg",
+      "description": "RWA早期布道者｜ICM 10U VC｜链上韭菜｜只会做空｜\n此推记录个人币圈历程，重分享。\n祝你早安，午安，晚安",
+      "followersCount": 4967,
+      "friendsCount": 985,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xlong_life/status/1973994065147404705",
+    "fullText": "今年最大的几个偏见\n骂sol 流动性对项目币有毒（一转攻势）\n觉得bsc 都是内幕（福利阳谋）\n没注意盘圈（带带）"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 125529,
+      "friendsCount": 520,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/1973991239478653232",
+    "fullText": "听着大爷的萨克斯，还有那手风琴，看着大妈彩绸飞转，舞衣翩翩，惬意🤪～"
+  },
+  {
+    "user": {
+      "screenName": "timotimo007",
+      "name": "Timo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890432492026703872/R0DTi8Ok_normal.jpg",
+      "description": "Investor&trader | https://t.co/cfoT9NJywM | https://t.co/SMq9oer4Xq | tg 群 https://t.co/YQHDSbf66C",
+      "followersCount": 51883,
+      "friendsCount": 1021,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/timotimo007/status/1973976526212522205",
+    "fullText": "你不需要向任何人证明自己，\n你需要做的是保持自己的节奏，\n不在意别人的评价和看法，\n专注于你自己的事，\n周遭事物都不重要，\n变得平静和从容，\n你终将走向自己想要的路。"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 102628,
+      "friendsCount": 7236,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1973958521302757431",
+    "fullText": "观察情绪与趋势是一项二级的重要命题\n\n昨天和朋友聊到多巴胺，有的人是健身能产生多巴胺，我说炒币能带来多巴胺\n\n勇气、激情和想象力能用来克服偏见"
+  },
+  {
+    "user": {
+      "screenName": "chtomch",
+      "name": "社畜小迟🎒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784262907796299776/1IfAbYmx_normal.jpg",
+      "description": "小迟社区创始人， Wlfi 早期支持者，铭文OG，比特币生态狂热爱好者，#Binance 币安一键注册👉 注册 #Binance👉https://t.co/UcsmfxVmy4，邀请码：355575013",
+      "followersCount": 17088,
+      "friendsCount": 3673,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2TmT8SbQAAWre0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/chtomch/status/1973955773597405264",
+    "fullText": "能否让我再爱你一次form https://t.co/TM5A9PrhNt"
+  },
+  {
+    "user": {
+      "screenName": "chtomch",
+      "name": "社畜小迟🎒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784262907796299776/1IfAbYmx_normal.jpg",
+      "description": "小迟社区创始人， Wlfi 早期支持者，铭文OG，比特币生态狂热爱好者，#Binance 币安一键注册👉 注册 #Binance👉https://t.co/UcsmfxVmy4，邀请码：355575013",
+      "followersCount": 17088,
+      "friendsCount": 3673,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2TasqLbMAYD5sp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/chtomch/status/1973943003279749517",
+    "fullText": "本周保持6kw交易量，拿下32790分，终于不是王者守门员了！！后续我会保持这个节奏到赛季结束@Backpack_CN @Miiiho420 @lxrcr1201 背包🎒35%手续费全部返还，预计25年底或者26年初发币https://t.co/UE6h0VteVf https://t.co/qtUQ78qHFG"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员 🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896754276699082752/Z6OKc6D1_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
+      "followersCount": 122196,
+      "friendsCount": 1563,
+      "location": "moon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2TWuvtaIAAiKJN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/1973938644856848567",
+    "fullText": "昨晚睡觉前入手了一点 $1\n\n大概率是数字赛道龙二\n\n因为怕起床归0所以并没有买够筹码\n\n但是醒来一看已经飞了\n\n这种不用分析\n\n就是跟着bnbchain 热度走\n\n按照过去几轮的经验\n\n应该会有至少3天的热度\n\n以 $4 和 $giggle 上币安为关键时间节点 https://t.co/cSiaKFcYht"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 102628,
+      "friendsCount": 7236,
+      "location": "Crypto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2TSI5ma0AEasIe.jpg",
+      "https://pbs.twimg.com/media/G2TSI8YaYAEF3sa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1973933590372368733",
+    "fullText": "20M 的 $4\n和\n160M 的 $4\n\n如果仍然有人对 CZ 抱有偏见，那么在 $ASTER 后也应该意识到 CZ 回归不一样了\n\n先信资本 https://t.co/uK1hulV2wv"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99qSG",
+      "followersCount": 251827,
+      "friendsCount": 6200,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/1973932012299046985",
+    "fullText": "其实你什么都没错过，这些机会本来就不属于你，机会是留个有准备的人的，而不是懒狗怂逼\n\n如果你连挣钱都需要别人开导你，都要有人看着，盯着，哄着，鼓励着，劝你还是别干了，你他妈就该穷"
+  },
+  {
+    "user": {
+      "screenName": "chtomch",
+      "name": "社畜小迟🎒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784262907796299776/1IfAbYmx_normal.jpg",
+      "description": "小迟社区创始人， Wlfi 早期支持者，铭文OG，比特币生态狂热爱好者，#Binance 币安一键注册👉 注册 #Binance👉https://t.co/UcsmfxVmy4，邀请码：355575013",
+      "followersCount": 17088,
+      "friendsCount": 3673,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2TC9mlacAEy2NF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/chtomch/status/1973916906316059034",
+    "fullText": "家人群供大家聊天吹水，本人没有也不会有付费群～ https://t.co/EuL253lATD"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 125529,
+      "friendsCount": 520,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/1973851591100023138",
+    "fullText": "想来，还是提醒一下大家，不要对任何现在上线的比较火爆的，容易让你畅想未来的高市值VC币抱有幻想，整个板块的结果显而易见，一定会重复之前的走势。\n我个人不会在今年布局或大资金参与VC币，短期不清楚，本月不清楚，个例不清楚，但越往后，整个板块的结局越清晰。"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 102628,
+      "friendsCount": 7236,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1973806042665672984",
+    "fullText": "4 means 发 in Cantonese\n\n$4 就是发财"
   },
   {
     "user": {
