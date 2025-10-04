@@ -30,6 +30,7 @@ bun install
 ```bash
 AUTH_TOKEN=你的X认证Token
 GET_ID_X_TOKEN=用于获取用户ID的Token
+LIST_ID=你的列表ID(可选，如果不设置则从主页获取推文)
 ```
 
 ### 2. 添加需要追踪的用户
@@ -48,22 +49,38 @@ GET_ID_X_TOKEN=用于获取用户ID的Token
 ### 3. 运行脚本
 
 ```bash
-# 获取用户信息
-bun run scripts/index.ts
+# 查看如何获取列表 ID
+bun run get-lists
 
-# 获取最新推文
-bun run scripts/fetch-tweets.ts
+# 获取用户信息
+bun run fetch-user
+
+# 获取最新推文（从主页或列表）
+bun run fetch-tweets
 
 # 批量关注用户
-bun run scripts/batch-follow.ts
+bun run batch-follow
+
+# 发布推文
+bun run post-tweet
 ```
 
 ## 自动化部署
 
 项目使用 GitHub Actions 实现自动化:
 
-- `get-home-latest-timeline.yml`: 每30分钟获取一次最新推文
+- `get-home-latest-timeline.yml`: 每4小时获取一次最新推文（支持从列表或主页获取）
 - `daily-get-tweet-id.yml`: 每天获取一次用户信息
+- `post-twitter-daily.yml`: 每月1号自动发布推文
+
+### GitHub Secrets 配置
+
+在 GitHub 仓库的 Settings > Secrets and variables > Actions 中添加：
+
+- `AUTH_TOKEN`: 你的 Twitter auth_token
+- `GET_ID_X_TOKEN`: 用于获取用户 ID 的 token
+- `LIST_ID`: (可选) 列表 ID，如果设置则从指定列表获取推文
+- `GH_TOKEN`: GitHub Personal Access Token (用于自动提交)
 
 ## 数据存储
 

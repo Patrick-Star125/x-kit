@@ -6,9 +6,18 @@ import type { TweetApiUtilsData } from "twitter-openapi-typescript";
 
 const client = await XAuthClient();
 
-const resp = await client.getTweetApi().getHomeLatestTimeline({
-  count: 100,
-});
+// 支持从列表或主页获取推文
+// 如果设置了 LIST_ID 环境变量，则从列表获取；否则从主页获取
+const listId = process.env.LIST_ID || '1924618791331524842';
+
+const resp = listId
+  ? await client.getTweetApi().getListLatestTweetsTimeline({
+      listId: listId,
+      count: 100,
+    })
+  : await client.getTweetApi().getHomeLatestTimeline({
+      count: 100,
+    });
 
 // 过滤出原创推文
 const originalTweets = resp.data.data.filter((tweet) => {

@@ -2,6 +2,12 @@
   "name": "x-kit",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "fetch-tweets": "bun run scripts/fetch-tweets.ts",
+    "fetch-user": "bun run scripts/index.ts",
+    "batch-follow": "bun run scripts/batch-follow.ts",
+    "post-tweet": "bun run scripts/post-tweet.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest",
     "@types/fs-extra": "^11.0.4"

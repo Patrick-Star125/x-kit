@@ -29,6 +29,7 @@ jobs:
       - name: Run fetch script
         env:
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+          LIST_ID: ${{ secrets.LIST_ID }}  # 可选：如果设置则从列表获取推文
         run: bun run scripts/fetch-tweets.ts
         
       - name: Commit and push changes
