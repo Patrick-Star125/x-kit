@@ -1,11 +1,91 @@
 [
   {
     "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 102632,
+      "friendsCount": 7265,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1976555487001989547",
+    "fullText": "复盘了下 Plasma 的最大成功因素，还是在于给币安以及 $BNB holder 大量空投，从而获得了一大部分来自 CEX 的买盘，TVL 借假修真。这也证明了这轮币安在带领叙事上无可指摘的话语权，佩服\n\n不过长期来看他是否能抢占一大部分 Tron 的市场份额，并且经受住 Stable"
+  },
+  {
+    "user": {
+      "screenName": "Vey200209",
+      "name": "薯条大王🔸BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
+      "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
+      "followersCount": 943,
+      "friendsCount": 156,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G24fAN1bYAAf5DM.jpg",
+      "https://pbs.twimg.com/media/G24fDweaAAAYTd3.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Vey200209/status/1976551449955008925",
+    "fullText": "以下两个信息需要特别关注一下！\n\n1， Pancake 第一个 CakePad 项目即将上线\n\nPancake 宣布推出首个 CakePad 打新项目，其核心模式是通过消耗平台代币 CAKE 来获得新代币的认购额度。该模式类似于币安的 TGE（代币生成活动），但重点在于参与者需要使用 CAKE 进行打新。\n\n活动的具体信息如下：\n-- https://t.co/IZKUUld6hX"
+  },
+  {
+    "user": {
+      "screenName": "timotimo007",
+      "name": "Timo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
+      "description": "Investor&trader | https://t.co/cfoT9NJywM | https://t.co/SMq9oer4Xq | tg 群 https://t.co/YQHDSbf66C | 币安钱包链接 https://t.co/ZJlloUYw9W",
+      "followersCount": 61700,
+      "friendsCount": 1041,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/timotimo007/status/1976540655863435329",
+    "fullText": "我交朋友，或者找一起做事的人，首先不看聪明，看人品。这永远是第一原则，不会改变。聪明和韧性都是排第二位的。\n别人赚再多钱，有再多资源，如果人品有问题，越聪明，对我来说越危险。是来抄我家的，不是来带我赚钱的。"
+  },
+  {
+    "user": {
+      "screenName": "leslieloser_",
+      "name": "Leslie🔶大心脏",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968229067804774402/E8Raayi1_normal.jpg",
+      "description": "On chain and sigma boy larping @genz_CT_army aster 4 ex @berachain @aave",
+      "followersCount": 13825,
+      "friendsCount": 2770,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1976531670057828352/vid/avc1/1280x720/z6IuySYfCJ-cRZi4.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/leslieloser_/status/1976531782343471229",
+    "fullText": "我说乌萨奇，你们回复___ https://t.co/iJo8FyqQEi"
+  },
+  {
+    "user": {
+      "screenName": "leslieloser_",
+      "name": "Leslie🔶大心脏",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968229067804774402/E8Raayi1_normal.jpg",
+      "description": "On chain and sigma boy larping @genz_CT_army aster 4 ex @berachain @aave",
+      "followersCount": 13825,
+      "friendsCount": 2770,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/leslieloser_/status/1976511418808795567",
+    "fullText": "thank you sci6900, bsc和cz伟大无需多言"
+  },
+  {
+    "user": {
       "screenName": "sanyi_eth_",
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99qSG",
-      "followersCount": 252959,
+      "followersCount": 253066,
       "friendsCount": 6255,
       "location": "New York, USA"
     },
@@ -20,7 +100,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 124207,
+      "followersCount": 124268,
       "friendsCount": 1566,
       "location": "moon"
     },
@@ -54,7 +134,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99qSG",
-      "followersCount": 252959,
+      "followersCount": 253066,
       "friendsCount": 6255,
       "location": "New York, USA"
     },
@@ -72,7 +152,7 @@
       "name": "王小二",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_normal.jpg",
       "description": "我就是全宇宙最厉害的区块链天才，我一定一定一定行！\n\n00后，从前的目标是赚很多很多钱，现在的目标是去很多很多地方做很多很多没做过的事\n\ngmgn交易bot:  https://t.co/7m8Q1hiwir",
-      "followersCount": 80399,
+      "followersCount": 80590,
       "friendsCount": 1623,
       "location": ""
     },
@@ -87,7 +167,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 102611,
+      "followersCount": 102632,
       "friendsCount": 7265,
       "location": "Crypto"
     },
@@ -102,7 +182,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 127223,
+      "followersCount": 127303,
       "friendsCount": 527,
       "location": "China"
     },
@@ -117,7 +197,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 127223,
+      "followersCount": 127303,
       "friendsCount": 527,
       "location": "China"
     },
@@ -132,7 +212,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 127223,
+      "followersCount": 127303,
       "friendsCount": 527,
       "location": "China"
     },
@@ -147,7 +227,7 @@
       "name": "憨巴龙王",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1944702932022104064/pvb8yhxb_normal.jpg",
       "description": "瞎几把喊单的，找你接盘的，别买，骂我看不见。",
-      "followersCount": 74532,
+      "followersCount": 74576,
       "friendsCount": 403,
       "location": ""
     },
@@ -164,7 +244,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99qSG",
-      "followersCount": 252959,
+      "followersCount": 253066,
       "friendsCount": 6255,
       "location": "New York, USA"
     },
@@ -179,8 +259,8 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "Investor&trader | https://t.co/cfoT9NJywM | https://t.co/SMq9oer4Xq | tg 群 https://t.co/YQHDSbf66C | 币安钱包链接 https://t.co/ZJlloUYw9W",
-      "followersCount": 61987,
-      "friendsCount": 1040,
+      "followersCount": 61700,
+      "friendsCount": 1041,
       "location": ""
     },
     "images": [],
@@ -194,7 +274,7 @@
       "name": "憨巴龙王",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1944702932022104064/pvb8yhxb_normal.jpg",
       "description": "瞎几把喊单的，找你接盘的，别买，骂我看不见。",
-      "followersCount": 74532,
+      "followersCount": 74576,
       "friendsCount": 403,
       "location": ""
     },
@@ -209,7 +289,7 @@
       "name": "王小二",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_normal.jpg",
       "description": "我就是全宇宙最厉害的区块链天才，我一定一定一定行！\n\n00后，从前的目标是赚很多很多钱，现在的目标是去很多很多地方做很多很多没做过的事\n\ngmgn交易bot:  https://t.co/7m8Q1hiwir",
-      "followersCount": 80399,
+      "followersCount": 80590,
       "friendsCount": 1623,
       "location": ""
     },
@@ -243,7 +323,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 124207,
+      "followersCount": 124268,
       "friendsCount": 1566,
       "location": "moon"
     },
@@ -258,7 +338,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 102611,
+      "followersCount": 102632,
       "friendsCount": 7265,
       "location": "Crypto"
     },
@@ -273,7 +353,7 @@
       "name": "风吹我已散",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936776997897953280/AQnBCynt_normal.jpg",
       "description": "RWA早期布道者｜ICM 10U VC｜链上韭菜｜只会做空｜\n此推记录个人币圈历程，重分享。\n祝你早安，午安，晚安",
-      "followersCount": 4976,
+      "followersCount": 4978,
       "friendsCount": 1010,
       "location": ""
     },
@@ -291,8 +371,8 @@
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909695525655359488/m8kyvLag_normal.jpg",
       "description": "ido打新/空投/铭文/NFT早期项目研究， 不构成任何投资建议。只有币安的广子会发。合作DM 印钞机付费群申请  https://t.co/EyAvW9Xshm",
-      "followersCount": 33576,
-      "friendsCount": 339,
+      "followersCount": 33583,
+      "friendsCount": 337,
       "location": ""
     },
     "images": [],
@@ -306,7 +386,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 124207,
+      "followersCount": 124268,
       "friendsCount": 1566,
       "location": "moon"
     },
@@ -321,8 +401,8 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "Investor&trader | https://t.co/cfoT9NJywM | https://t.co/SMq9oer4Xq | tg 群 https://t.co/YQHDSbf66C | 币安钱包链接 https://t.co/ZJlloUYw9W",
-      "followersCount": 61987,
-      "friendsCount": 1040,
+      "followersCount": 61700,
+      "friendsCount": 1041,
       "location": ""
     },
     "images": [],
@@ -336,7 +416,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 124207,
+      "followersCount": 124268,
       "friendsCount": 1566,
       "location": "moon"
     },
@@ -353,7 +433,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 127223,
+      "followersCount": 127303,
       "friendsCount": 527,
       "location": "China"
     },
@@ -368,7 +448,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 127223,
+      "followersCount": 127303,
       "friendsCount": 527,
       "location": "China"
     },
@@ -383,8 +463,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968229067804774402/E8Raayi1_normal.jpg",
       "description": "On chain and sigma boy larping @genz_CT_army aster 4 ex @berachain @aave",
-      "followersCount": 13819,
-      "friendsCount": 2768,
+      "followersCount": 13825,
+      "friendsCount": 2770,
       "location": ""
     },
     "images": [
@@ -401,8 +481,8 @@
       "name": "0xyuxi | 0x雨曦 Ⓜ️Ⓜ️T",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954097814990204928/OxYLMkE__normal.jpg",
       "description": "Stay hungry,stay IQ50\n死也要死在龙头上\n\n $mmt  #momentum  @MMTFinance",
-      "followersCount": 4971,
-      "friendsCount": 2088,
+      "followersCount": 4980,
+      "friendsCount": 2087,
       "location": ""
     },
     "images": [
@@ -418,7 +498,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 127223,
+      "followersCount": 127303,
       "friendsCount": 527,
       "location": "China"
     },
@@ -433,7 +513,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 127223,
+      "followersCount": 127303,
       "friendsCount": 527,
       "location": "China"
     },
@@ -448,7 +528,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 127223,
+      "followersCount": 127303,
       "friendsCount": 527,
       "location": "China"
     },
@@ -463,8 +543,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968229067804774402/E8Raayi1_normal.jpg",
       "description": "On chain and sigma boy larping @genz_CT_army aster 4 ex @berachain @aave",
-      "followersCount": 13819,
-      "friendsCount": 2768,
+      "followersCount": 13825,
+      "friendsCount": 2770,
       "location": ""
     },
     "images": [],
@@ -480,7 +560,7 @@
       "name": "潜水观察员 🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/f52uvW5oK5｜链上神器：https://t.co/vci2xnFL0L ｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 124207,
+      "followersCount": 124268,
       "friendsCount": 1566,
       "location": "moon"
     },
@@ -497,8 +577,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968229067804774402/E8Raayi1_normal.jpg",
       "description": "On chain and sigma boy larping @genz_CT_army aster 4 ex @berachain @aave",
-      "followersCount": 13819,
-      "friendsCount": 2768,
+      "followersCount": 13825,
+      "friendsCount": 2770,
       "location": ""
     },
     "images": [],
@@ -512,7 +592,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 102611,
+      "followersCount": 102632,
       "friendsCount": 7265,
       "location": "Crypto"
     },
@@ -545,7 +625,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 127223,
+      "followersCount": 127303,
       "friendsCount": 527,
       "location": "China"
     },
