@@ -1,12 +1,76 @@
 [
   {
     "user": {
+      "screenName": "Vey200209",
+      "name": "薯条大王🔸BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
+      "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
+      "followersCount": 1984,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3sIfDRW8AAVv6K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Vey200209/status/1980185864333644153",
+    "fullText": "揭秘：为什么有些人靠预测市场月入上千，而大多数人连怎么玩都没搞懂？\n\n预测市场其实并不神秘，它的核心就是「用钱投票」。\n你在一个事件上买「YES」或「NO」，市场价格就代表大家认为这件事发生的概率。\n比如「YES=0.7」，意味着市场普遍觉得这事有七成可能会发生。 https://t.co/OnyPDFN9ZV"
+  },
+  {
+    "user": {
       "screenName": "timotimo007",
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "Investor&trader | https://t.co/cfoT9NJ0He | https://t.co/SMq9oeqx7S | tg 群 https://t.co/YQHDSbeyh4",
-      "followersCount": 52206,
-      "friendsCount": 1063,
+      "followersCount": 52236,
+      "friendsCount": 1065,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/timotimo007/status/1980179035176194181",
+    "fullText": "bsc meme 除了拿着龙头，其他的我真不会玩，玩啥亏啥，本来我在思考是不是我自己落后了版本，后面我想明白了，不是我落后了版本，是我习惯于 pve 打法，而不是 pvp 打法。\n打法没有问题，只是用错了标的，这就是显然的策略用错了地方，如果我们用 pve 打法玩 pvp 标的，那只能挨打。"
+  },
+  {
+    "user": {
+      "screenName": "AliceBCeiona",
+      "name": "AliceBCeiona",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
+      "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
+      "followersCount": 6951,
+      "friendsCount": 279,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3rsvG2XgAAiIKB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AliceBCeiona/status/1980155293389775075",
+    "fullText": "BTC抄底成功，组里这波黑天鹅后还有钱的成员每人周五配置了一枚BTC，目前浮盈\n二级行情重新进入地狱模式因此我将继续转向一级，并写一些基建辅助自己交易\n最近写了一个自动扫链，拿1000U开始测试，目前已变成1500U，不知道多久归零或者赚到1WU https://t.co/digeb2BxY1"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 101771,
+      "friendsCount": 7290,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/1980138824270508354",
+    "fullText": "看链上这些 HL 大额 “内幕地址” 个人感觉参考价值不大\n\n难道内幕地址拥有者与世隔绝，不知道自己的地址在被监控吗？\n\n当这个地址还没人关注的时候或许还有 alpha，当这个地址被太多人关注的时候，假动作的概率太高了\n\n更大的可能是开一个假仓位对冲 wash"
+  },
+  {
+    "user": {
+      "screenName": "timotimo007",
+      "name": "Timo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
+      "description": "Investor&trader | https://t.co/cfoT9NJ0He | https://t.co/SMq9oeqx7S | tg 群 https://t.co/YQHDSbeyh4",
+      "followersCount": 52236,
+      "friendsCount": 1065,
       "location": ""
     },
     "images": [],
@@ -20,8 +84,8 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 101762,
-      "friendsCount": 7289,
+      "followersCount": 101771,
+      "friendsCount": 7290,
       "location": "Crypto"
     },
     "images": [],
@@ -32,10 +96,10 @@
   {
     "user": {
       "screenName": "Airdrop_Guard",
-      "name": "小熊饼干.eth⛵ Ⓜ️Ⓜ️T",
+      "name": "小熊饼干.eth⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师\nCFA Level III candidate\nCertified Financial Technician - IFTA\n现在是一名保安，爱吃小熊饼干\n#web3入口 OKX Web3钱包一个就够 https://t.co/GiZjrXzelp",
-      "followersCount": 49698,
+      "followersCount": 49704,
       "friendsCount": 808,
       "location": "推文均非投资建议"
     },
@@ -70,8 +134,8 @@
       "name": "薯条大王🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
       "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
-      "followersCount": 1980,
-      "friendsCount": 206,
+      "followersCount": 1984,
+      "friendsCount": 201,
       "location": ""
     },
     "images": [
@@ -87,8 +151,8 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963595713318981636/uvWKWG0v_normal.jpg",
       "description": "seeking asymmetric opportunities",
-      "followersCount": 27382,
-      "friendsCount": 3870,
+      "followersCount": 27386,
+      "friendsCount": 3871,
       "location": "Bitcoin"
     },
     "images": [],
@@ -102,8 +166,8 @@
       "name": "薯条大王🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
       "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
-      "followersCount": 1980,
-      "friendsCount": 206,
+      "followersCount": 1984,
+      "friendsCount": 201,
       "location": ""
     },
     "images": [
@@ -119,7 +183,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 131076,
+      "followersCount": 131094,
       "friendsCount": 536,
       "location": "China"
     },
@@ -136,8 +200,8 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99qSG",
-      "followersCount": 254536,
-      "friendsCount": 6304,
+      "followersCount": 254590,
+      "friendsCount": 6312,
       "location": "New York, USA"
     },
     "images": [
@@ -153,8 +217,8 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "Investor&trader | https://t.co/cfoT9NJ0He | https://t.co/SMq9oeqx7S | tg 群 https://t.co/YQHDSbeyh4",
-      "followersCount": 52206,
-      "friendsCount": 1063,
+      "followersCount": 52236,
+      "friendsCount": 1065,
       "location": ""
     },
     "images": [],
@@ -168,7 +232,7 @@
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909695525655359488/m8kyvLag_normal.jpg",
       "description": "ido打新/空投/铭文/NFT早期项目研究， 不构成任何投资建议。合作DM 印钞机付费群申请 https://t.co/EyAvW9WUrO",
-      "followersCount": 36386,
+      "followersCount": 36463,
       "friendsCount": 336,
       "location": ""
     },
@@ -183,8 +247,8 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963595713318981636/uvWKWG0v_normal.jpg",
       "description": "seeking asymmetric opportunities",
-      "followersCount": 27382,
-      "friendsCount": 3870,
+      "followersCount": 27386,
+      "friendsCount": 3871,
       "location": "Bitcoin"
     },
     "images": [
@@ -200,8 +264,8 @@
       "name": "薯条大王🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
       "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
-      "followersCount": 1980,
-      "friendsCount": 206,
+      "followersCount": 1984,
+      "friendsCount": 201,
       "location": ""
     },
     "images": [
@@ -217,7 +281,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 131076,
+      "followersCount": 131094,
       "friendsCount": 536,
       "location": "China"
     },
@@ -232,7 +296,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 131076,
+      "followersCount": 131094,
       "friendsCount": 536,
       "location": "China"
     },
@@ -249,8 +313,8 @@
       "name": "薯条大王🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
       "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
-      "followersCount": 1980,
-      "friendsCount": 206,
+      "followersCount": 1984,
+      "friendsCount": 201,
       "location": ""
     },
     "images": [
@@ -266,8 +330,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968229067804774402/E8Raayi1_normal.jpg",
       "description": "On chain alpha  抽象男孩 @genz_CT_army aster 去4刀，ex @berachain @aave",
-      "followersCount": 13985,
-      "friendsCount": 2908,
+      "followersCount": 14014,
+      "friendsCount": 2914,
       "location": ""
     },
     "images": [],
@@ -281,8 +345,8 @@
       "name": "薯条大王🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
       "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
-      "followersCount": 1980,
-      "friendsCount": 206,
+      "followersCount": 1984,
+      "friendsCount": 201,
       "location": ""
     },
     "images": [
@@ -298,8 +362,8 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963595713318981636/uvWKWG0v_normal.jpg",
       "description": "seeking asymmetric opportunities",
-      "followersCount": 27382,
-      "friendsCount": 3870,
+      "followersCount": 27386,
+      "friendsCount": 3871,
       "location": "Bitcoin"
     },
     "images": [],
@@ -313,7 +377,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 131076,
+      "followersCount": 131094,
       "friendsCount": 536,
       "location": "China"
     },
@@ -328,8 +392,8 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "Investor&trader | https://t.co/cfoT9NJ0He | https://t.co/SMq9oeqx7S | tg 群 https://t.co/YQHDSbeyh4",
-      "followersCount": 52206,
-      "friendsCount": 1063,
+      "followersCount": 52236,
+      "friendsCount": 1065,
       "location": ""
     },
     "images": [],
@@ -343,7 +407,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 131076,
+      "followersCount": 131094,
       "friendsCount": 536,
       "location": "China"
     },
@@ -358,8 +422,8 @@
       "name": "Laolu🧙‍♂️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896641724249993216/DBEZZmny_normal.jpg",
       "description": "No investment advice\nOG Moni Wizard @getmoni_io\n想想笨蛋王会怎么做？$PALU",
-      "followersCount": 48683,
-      "friendsCount": 4811,
+      "followersCount": 48699,
+      "friendsCount": 4812,
       "location": "Crypto"
     },
     "images": [],
@@ -373,7 +437,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937380481231912961/S-5Baa5H_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 131076,
+      "followersCount": 131094,
       "friendsCount": 536,
       "location": "China"
     },
@@ -388,8 +452,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968229067804774402/E8Raayi1_normal.jpg",
       "description": "On chain alpha  抽象男孩 @genz_CT_army aster 去4刀，ex @berachain @aave",
-      "followersCount": 13985,
-      "friendsCount": 2908,
+      "followersCount": 14014,
+      "friendsCount": 2914,
       "location": ""
     },
     "images": [],
@@ -403,8 +467,8 @@
       "name": "薯条大王🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
       "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
-      "followersCount": 1980,
-      "friendsCount": 206,
+      "followersCount": 1984,
+      "friendsCount": 201,
       "location": ""
     },
     "images": [
@@ -421,8 +485,8 @@
       "name": "薯条大王🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971465219533864960/95b4UDg6_normal.jpg",
       "description": "Web3 撸毛分享| 安安静静/碎碎念念  \n\nbuild #BNB｜Binance 近3亿选择https://t.co/6TNIKXS6HE｜",
-      "followersCount": 1980,
-      "friendsCount": 206,
+      "followersCount": 1984,
+      "friendsCount": 201,
       "location": ""
     },
     "images": [
@@ -438,7 +502,7 @@
       "name": "憨巴龙王",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1944702932022104064/pvb8yhxb_normal.jpg",
       "description": "瞎几把喊单的，找你接盘的，别买，骂我看不见。",
-      "followersCount": 83509,
+      "followersCount": 83602,
       "friendsCount": 407,
       "location": ""
     },
@@ -453,8 +517,8 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaEEfW\n\n合约PVP指路\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 101762,
-      "friendsCount": 7289,
+      "followersCount": 101771,
+      "friendsCount": 7290,
       "location": "Crypto"
     },
     "images": [
@@ -501,7 +565,7 @@
       "name": "R",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1821821815339311104/dtQeVTOr_normal.jpg",
       "description": "Dopamine detox｜Reverse Thinking｜Stoicism｜Asymmetry｜Compound",
-      "followersCount": 17485,
+      "followersCount": 17538,
       "friendsCount": 2686,
       "location": "In-N-Out"
     },
