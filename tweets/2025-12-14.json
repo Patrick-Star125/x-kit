@@ -1,11 +1,78 @@
 [
   {
     "user": {
+      "screenName": "AliceBCeiona",
+      "name": "AliceBCeiona",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
+      "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader ☞复旦大学证券投资协会特邀嘉宾☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
+      "followersCount": 6878,
+      "friendsCount": 292,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ID_owb0AAwwaW.jpg",
+      "https://pbs.twimg.com/media/G8ID_qraAAAdYU3.jpg",
+      "https://pbs.twimg.com/media/G8ID_r6bgAArZWW.jpg",
+      "https://pbs.twimg.com/media/G8ID_rwbUAADwLg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AliceBCeiona/status/2000165580540912001",
+    "fullText": "一些交易meme图，明年打算参加一下股票的实盘交易赛，以及每周写一个股票复盘总结 https://t.co/T0w6NETNDI"
+  },
+  {
+    "user": {
+      "screenName": "brc20niubi",
+      "name": "王小二",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_normal.jpg",
+      "description": "我就是全宇宙最厉害的区块链天才，我一定一定一定行！\n\n00后，从前的目标是赚很多很多钱，现在的目标是去很多很多地方做很多很多没做过的事\n\n悲观者正确，乐观者成功\n\ngmgn交易bot:  https://t.co/7m8Q1hhYsT",
+      "followersCount": 88080,
+      "friendsCount": 1613,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/brc20niubi/status/2000142546413256921",
+    "fullText": "https://t.co/10hDQU0KMF"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 135442,
+      "friendsCount": 573,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/2000129000216432876",
+    "fullText": "总是困在各种牢笼中，但又很想要牢笼之外的世界，这种不自洽是很多人痛苦的重大原因之一。"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
+      "followersCount": 258890,
+      "friendsCount": 6573,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Ha_yxbgAAeZDz.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/2000121886823317583",
+    "fullText": "不是很想参与所谓的“KOL”的这个话题，但是仍然有一些建议想给大家分享\n\n你要先确保你是一个“人”，其次“分享欲”和“学习/执行力”才是你扩大影响力最重要的因素\n\n粉丝们喜欢的是你作为一个“人”的思考，无论这个思考是赚钱了还是亏钱了。而不是Kaito式的嘴撸，通篇AI风，泯然在众多账号里。 https://t.co/v54a9JMnv0"
+  },
+  {
+    "user": {
       "screenName": "nanbeiblock",
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Former Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher\nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 8360,
+      "followersCount": 8361,
       "friendsCount": 798,
       "location": ""
     },
@@ -24,7 +91,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 135434,
+      "followersCount": 135442,
       "friendsCount": 573,
       "location": "China"
     },
@@ -39,7 +106,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 135434,
+      "followersCount": 135442,
       "friendsCount": 573,
       "location": "China"
     },
@@ -55,7 +122,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936776997897953280/AQnBCynt_normal.jpg",
       "description": "链上韭菜｜只会做空｜\n此推记录个人币圈历程，重分享。\n祝你早安，午安，晚安",
       "followersCount": 5084,
-      "friendsCount": 912,
+      "friendsCount": 914,
       "location": ""
     },
     "images": [],
@@ -84,7 +151,7 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Former Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher\nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 8360,
+      "followersCount": 8361,
       "friendsCount": 798,
       "location": ""
     },
@@ -101,8 +168,8 @@
       "name": "spark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "contributor  @monad_zw  & @Lombard_Finance\n\n任何推文都不是投资建议",
-      "followersCount": 26402,
-      "friendsCount": 5006,
+      "followersCount": 26407,
+      "friendsCount": 5008,
       "location": "推文均非投资建议"
     },
     "images": [],
@@ -116,7 +183,7 @@
       "name": "AliceBCeiona",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
       "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader ☞复旦大学证券投资协会特邀嘉宾☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
-      "followersCount": 6881,
+      "followersCount": 6878,
       "friendsCount": 292,
       "location": ""
     },
@@ -133,7 +200,7 @@
       "name": "AliceBCeiona",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
       "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader ☞复旦大学证券投资协会特邀嘉宾☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
-      "followersCount": 6881,
+      "followersCount": 6878,
       "friendsCount": 292,
       "location": ""
     },
@@ -150,7 +217,7 @@
       "name": "AliceBCeiona",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
       "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader ☞复旦大学证券投资协会特邀嘉宾☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
-      "followersCount": 6881,
+      "followersCount": 6878,
       "friendsCount": 292,
       "location": ""
     },
@@ -167,8 +234,8 @@
       "name": "0xyuxi | 0x雨曦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954097814990204928/OxYLMkE__normal.jpg",
       "description": "Stay hungry,stay IQ50\n死也要死在龙头上",
-      "followersCount": 5107,
-      "friendsCount": 2311,
+      "followersCount": 5112,
+      "friendsCount": 2312,
       "location": ""
     },
     "images": [
@@ -185,7 +252,7 @@
       "name": "Kairos Research",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777421831974051840/OXAmn4DF_normal.jpg",
       "description": "Crypto Research Firm | Staking with @Firstset_",
-      "followersCount": 8435,
+      "followersCount": 8436,
       "friendsCount": 3,
       "location": "New York / Chicago"
     },
@@ -203,8 +270,8 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaE6qo\n\n合约PVP指路\n#OKX https://t.co/NXhCSu43si",
-      "followersCount": 102580,
-      "friendsCount": 7323,
+      "followersCount": 102566,
+      "friendsCount": 7324,
       "location": "Crypto"
     },
     "images": [
@@ -221,7 +288,7 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
       "description": "Until death, all defeat is psychological.",
-      "followersCount": 28141,
+      "followersCount": 28148,
       "friendsCount": 3834,
       "location": "Bitcoin"
     },
@@ -236,7 +303,7 @@
       "name": "0xMoon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1946537446034071553/tNkWpnyE_normal.jpg",
       "description": "币安广场创作者\nHTX广场创作者\nGate民间发言人\n币安钱包7折邀请码：MOON6626\nOKX钱包7折邀请码：0XMOON\n3亿用户买币在币安https://t.co/yONbHFnppQ",
-      "followersCount": 40161,
+      "followersCount": 40162,
       "friendsCount": 888,
       "location": "Telegram"
     },
@@ -251,7 +318,7 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
       "description": "Until death, all defeat is psychological.",
-      "followersCount": 28141,
+      "followersCount": 28148,
       "friendsCount": 3834,
       "location": "Bitcoin"
     },
@@ -268,7 +335,7 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
       "description": "Until death, all defeat is psychological.",
-      "followersCount": 28141,
+      "followersCount": 28148,
       "friendsCount": 3834,
       "location": "Bitcoin"
     },
@@ -282,8 +349,8 @@
       "screenName": "timotimo007",
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
-      "description": "Investor&trader | https://t.co/cfoT9NJ0He | https://t.co/SMq9oeqx7S | tg channel https://t.co/hNKkRMH73O",
-      "followersCount": 51604,
+      "description": "Investor&trader | https://t.co/SMq9oer4Xq | tg channel https://t.co/hNKkRMHETm",
+      "followersCount": 51613,
       "friendsCount": 942,
       "location": ""
     },
@@ -298,7 +365,7 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Former Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher\nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 8360,
+      "followersCount": 8361,
       "friendsCount": 798,
       "location": ""
     },
@@ -317,7 +384,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936776997897953280/AQnBCynt_normal.jpg",
       "description": "链上韭菜｜只会做空｜\n此推记录个人币圈历程，重分享。\n祝你早安，午安，晚安",
       "followersCount": 5084,
-      "friendsCount": 912,
+      "friendsCount": 914,
       "location": ""
     },
     "images": [],
@@ -331,8 +398,8 @@
       "name": "spark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "contributor  @monad_zw  & @Lombard_Finance\n\n任何推文都不是投资建议",
-      "followersCount": 26402,
-      "friendsCount": 5006,
+      "followersCount": 26407,
+      "friendsCount": 5008,
       "location": "推文均非投资建议"
     },
     "images": [],
@@ -346,7 +413,7 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate Certified Financial Technician - IFTA 现在是一名保安，爱吃小熊饼干 #web3入口 OKX Web3钱包一个就够 https://t.co/GiZjrXzMaX",
-      "followersCount": 51233,
+      "followersCount": 51226,
       "friendsCount": 756,
       "location": ""
     },
@@ -376,7 +443,7 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Former Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher\nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 8360,
+      "followersCount": 8361,
       "friendsCount": 798,
       "location": ""
     },
@@ -393,7 +460,7 @@
       "name": "Laolu🧙‍♂️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896641724249993216/DBEZZmny_normal.jpg",
       "description": "无投资建议\n想想笨蛋王会怎么做？\n\nBullish @Virtuals_io  @Plasma @megaeth",
-      "followersCount": 51681,
+      "followersCount": 51672,
       "friendsCount": 4875,
       "location": "Crypto"
     },
@@ -408,7 +475,7 @@
       "name": "憨厚的麦总",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1981574059759378432/Fgvjn2l0_normal.jpg",
       "description": "Ex-VC & Banker Turned Degen, See You In The Trenches.\n入群TG联系小助理：@yukiuuu000",
-      "followersCount": 76040,
+      "followersCount": 76047,
       "friendsCount": 2634,
       "location": ""
     },
@@ -425,8 +492,8 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaE6qo\n\n合约PVP指路\n#OKX https://t.co/NXhCSu43si",
-      "followersCount": 102580,
-      "friendsCount": 7323,
+      "followersCount": 102566,
+      "friendsCount": 7324,
       "location": "Crypto"
     },
     "images": [],
