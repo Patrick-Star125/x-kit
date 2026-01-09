@@ -1,12 +1,130 @@
 [
   {
     "user": {
+      "screenName": "0x_xifeng",
+      "name": "spark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
+      "description": "任何推文都不是投资建议",
+      "followersCount": 26841,
+      "friendsCount": 4948,
+      "location": "推文均非投资建议"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-OFTcHaQAEvJr8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0x_xifeng/status/2009596762982617350",
+    "fullText": "该升级了，耽误我们消费了 @renaissxyz  @leslie_bit https://t.co/3DAly8lYr5"
+  },
+  {
+    "user": {
+      "screenName": "0x_xifeng",
+      "name": "spark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
+      "description": "任何推文都不是投资建议",
+      "followersCount": 26841,
+      "friendsCount": 4948,
+      "location": "推文均非投资建议"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-ODra6bgAAPMVa.jpg",
+      "https://pbs.twimg.com/media/G-ODwR-bYAAunvG.jpg",
+      "https://pbs.twimg.com/media/G-OD1LTaMAAK8Sh.jpg",
+      "https://pbs.twimg.com/media/G-OD23iawAIiDEv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0x_xifeng/status/2009595183118385439",
+    "fullText": "infinex真6啊，还没满呢\n\n和那些小项目对比一下，都没小项目募集的资金多\n\n我猜个结局，项目方为了要脸，自己出钱把5M给打满了😂 https://t.co/2B9R2gxzs4"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent12",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
+      "followersCount": 61014,
+      "friendsCount": 1049,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent12/status/2009564435518783566",
+    "fullText": "大家现在都是从哪买 claude api 的？"
+  },
+  {
+    "user": {
+      "screenName": "Airdrop_Guard",
+      "name": "小熊饼干 . SOL⛵",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
+      "description": "前债券评级分析师 CFA Level III candidate Certified Financial Technician - IFTA 现在是一名保安，爱吃小熊饼干 #web3入口 OKX Web3钱包一个就够 https://t.co/GiZjrXzMaX",
+      "followersCount": 51692,
+      "friendsCount": 801,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-NmonybsAAhGJ6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Airdrop_Guard/status/2009563122408075728",
+    "fullText": "⌞ 秘籍分享 ⌝\n\n本周，我无风险赚了 2100 美金，还白嫖了价值 5000U 的 @variational_io 积分，今天把秘籍给大家无私讲出来\n\n上周，我兵分三路，子午谷奇谋都用上了：大币种刷交易量，小币种套资金费率，小 IO 币种手续费猛干，总交易量 22M，小币种占 3M，预期拿 600 分，结果今早显示 169 https://t.co/IsLX1i0BuZ"
+  },
+  {
+    "user": {
+      "screenName": "nbblock",
+      "name": "CJ_Blockchain, CFA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
+      "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
+      "followersCount": 9130,
+      "friendsCount": 793,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-NeWgKb0AAKlDv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nbblock/status/2009553606622814714",
+    "fullText": "山东学\n\n得学\n\n学无止境 https://t.co/h52Ph8b7Wq"
+  },
+  {
+    "user": {
+      "screenName": "hunterweb303",
+      "name": "0x 哆啦A梦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
+      "description": "🛠 Web3开发\n👀 用bug赚铜锣烧\n做一只web3量产工具的🐱\nhttps://t.co/v6GwImN9a9\nbsc赞助:0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\n所有自己做的免费开源产品都在链接里♥️所有产品不构成投资建议，别太相信工具～～",
+      "followersCount": 9493,
+      "friendsCount": 308,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hunterweb303/status/2009550274780942664",
+    "fullText": "好久没做抽象产品了\n昨天在研究佛教的命理预测\n反正都是预测产品\n大家应该也会喜欢的吧\n\n研究了一晚上发现\n佛教没有道教的术数命理体系\n但是佛教内部确实有成熟的\n生命规律理论和因果推理逻辑\n道教讲究五行四柱天干地支\n佛教讲究因缘业力果报心识\n同样也可以推演人生k线\n\n根据一系列推导\n得出阿赖耶识"
+  },
+  {
+    "user": {
+      "screenName": "AliceBCeiona",
+      "name": "AliceBCeiona",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
+      "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader ☞复旦大学证券投资协会特邀嘉宾☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
+      "followersCount": 6848,
+      "friendsCount": 297,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-NWeNvaYAAiBf3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AliceBCeiona/status/2009544938569220296",
+    "fullText": "时代在变化，以前这个图上面是显卡来着。。。 https://t.co/N1rn8PW7c5"
+  },
+  {
+    "user": {
       "screenName": "Ox011111",
       "name": "零一",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932032080873238528/osS3v_Xn_normal.jpg",
       "description": "记录01年刚毕业的大学生从0到1 的打狗日记 🗒 \n\n1个月已实现2800-A8（已回撤至A7.5）下一步目标再次突破A8💴 \n\n进群注册下方打狗bot并交易免费进群，注册好私发我截图跟邮箱 \n\n好用的bot（注册免费送会员体验）：https://t.co/RGDBR4fMbk",
-      "followersCount": 3837,
-      "friendsCount": 336,
+      "followersCount": 3857,
+      "friendsCount": 337,
       "location": "Hong Kong"
     },
     "images": [
@@ -22,8 +140,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 60995,
-      "friendsCount": 1048,
+      "followersCount": 61014,
+      "friendsCount": 1049,
       "location": ""
     },
     "images": [
@@ -39,7 +157,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 126914,
+      "followersCount": 126919,
       "friendsCount": 1631,
       "location": "moon"
     },
@@ -56,8 +174,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968229067804774402/E8Raayi1_normal.jpg",
       "description": "On chain alpha  抽象男孩 @genz_CT_army aster 去4刀，ex @aave @berachain",
-      "followersCount": 14282,
-      "friendsCount": 3402,
+      "followersCount": 14280,
+      "friendsCount": 3403,
       "location": ""
     },
     "images": [],
@@ -86,8 +204,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 60995,
-      "friendsCount": 1048,
+      "followersCount": 61014,
+      "friendsCount": 1049,
       "location": ""
     },
     "images": [],
@@ -101,7 +219,7 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
       "description": "Until death, all defeat is psychological.",
-      "followersCount": 28391,
+      "followersCount": 28395,
       "friendsCount": 3812,
       "location": "Bitcoin"
     },
@@ -116,7 +234,7 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 9143,
+      "followersCount": 9130,
       "friendsCount": 793,
       "location": ""
     },
@@ -131,8 +249,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 60995,
-      "friendsCount": 1048,
+      "followersCount": 61014,
+      "friendsCount": 1049,
       "location": ""
     },
     "images": [],
@@ -146,7 +264,7 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 9143,
+      "followersCount": 9130,
       "friendsCount": 793,
       "location": ""
     },
@@ -161,8 +279,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968229067804774402/E8Raayi1_normal.jpg",
       "description": "On chain alpha  抽象男孩 @genz_CT_army aster 去4刀，ex @aave @berachain",
-      "followersCount": 14282,
-      "friendsCount": 3402,
+      "followersCount": 14280,
+      "friendsCount": 3403,
       "location": ""
     },
     "images": [],
@@ -176,7 +294,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 126914,
+      "followersCount": 126919,
       "friendsCount": 1631,
       "location": "moon"
     },
@@ -193,7 +311,7 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 9143,
+      "followersCount": 9130,
       "friendsCount": 793,
       "location": ""
     },
@@ -208,7 +326,7 @@
       "name": "撸毛养家",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875391284577452032/cbVLvdwl_normal.jpg",
       "description": "资深撸毛专业户，近四年市面上空投80%以上，拿过Op,Arb,Zz,Zk,Lo,Strk,Zeta,W,Mantle,Spec,Jup,Zetamarket,Drift,Huma，Met,Lit等链上空投，打新SUI 中签1万个SUI，抓住铭文2023年10.1-12中旬铭文牛市，长期持有BTC ETH BNB",
-      "followersCount": 1993,
+      "followersCount": 1996,
       "friendsCount": 1728,
       "location": ""
     },
@@ -225,8 +343,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 60995,
-      "friendsCount": 1048,
+      "followersCount": 61014,
+      "friendsCount": 1049,
       "location": ""
     },
     "images": [
@@ -242,8 +360,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 60995,
-      "friendsCount": 1048,
+      "followersCount": 61014,
+      "friendsCount": 1049,
       "location": ""
     },
     "images": [],
@@ -276,7 +394,7 @@
       "name": "Oxye漆华",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1991337791767343106/oafWCOcu_normal.jpg",
       "description": "💻撸毛节点 合作DM 📧 @nodex_xyz ambassador 丨节点教程：https://t.co/aUUTv9Fca6 丨 自建功能网站：https://t.co/o7QpKC4kwq",
-      "followersCount": 17682,
+      "followersCount": 17676,
       "friendsCount": 2036,
       "location": "Youtube➡️"
     },
@@ -293,8 +411,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 60995,
-      "friendsCount": 1048,
+      "followersCount": 61014,
+      "friendsCount": 1049,
       "location": ""
     },
     "images": [],
@@ -308,8 +426,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 60995,
-      "friendsCount": 1048,
+      "followersCount": 61014,
+      "friendsCount": 1049,
       "location": ""
     },
     "images": [],
@@ -323,7 +441,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n合约PVP指路\n#OKX https://t.co/NXhCSu43si",
-      "followersCount": 103373,
+      "followersCount": 103350,
       "friendsCount": 7330,
       "location": "Crypto"
     },
@@ -340,8 +458,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968229067804774402/E8Raayi1_normal.jpg",
       "description": "On chain alpha  抽象男孩 @genz_CT_army aster 去4刀，ex @aave @berachain",
-      "followersCount": 14282,
-      "friendsCount": 3402,
+      "followersCount": 14280,
+      "friendsCount": 3403,
       "location": ""
     },
     "images": [
@@ -358,7 +476,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 126914,
+      "followersCount": 126919,
       "friendsCount": 1631,
       "location": "moon"
     },
@@ -375,8 +493,8 @@
       "name": "零一",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932032080873238528/osS3v_Xn_normal.jpg",
       "description": "记录01年刚毕业的大学生从0到1 的打狗日记 🗒 \n\n1个月已实现2800-A8（已回撤至A7.5）下一步目标再次突破A8💴 \n\n进群注册下方打狗bot并交易免费进群，注册好私发我截图跟邮箱 \n\n好用的bot（注册免费送会员体验）：https://t.co/RGDBR4fMbk",
-      "followersCount": 3837,
-      "friendsCount": 336,
+      "followersCount": 3857,
+      "friendsCount": 337,
       "location": "Hong Kong"
     },
     "images": [
@@ -393,7 +511,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 126914,
+      "followersCount": 126919,
       "friendsCount": 1631,
       "location": "moon"
     },
@@ -410,7 +528,7 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 9143,
+      "followersCount": 9130,
       "friendsCount": 793,
       "location": ""
     },
@@ -427,7 +545,7 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
       "description": "Until death, all defeat is psychological.",
-      "followersCount": 28391,
+      "followersCount": 28395,
       "friendsCount": 3812,
       "location": "Bitcoin"
     },
@@ -442,7 +560,7 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
       "description": "Until death, all defeat is psychological.",
-      "followersCount": 28391,
+      "followersCount": 28395,
       "friendsCount": 3812,
       "location": "Bitcoin"
     },
@@ -457,8 +575,8 @@
       "name": "0x 哆啦A梦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
       "description": "🛠 Web3开发\n👀 用bug赚铜锣烧\n做一只web3量产工具的🐱\nhttps://t.co/v6GwImN9a9\nbsc赞助:0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\n所有自己做的免费开源产品都在链接里♥️所有产品不构成投资建议，别太相信工具～～",
-      "followersCount": 9480,
-      "friendsCount": 307,
+      "followersCount": 9493,
+      "friendsCount": 308,
       "location": ""
     },
     "images": [
@@ -477,7 +595,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 126914,
+      "followersCount": 126919,
       "friendsCount": 1631,
       "location": "moon"
     },
@@ -494,8 +612,8 @@
       "name": "0xfh",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1978097702278680576/5S85Klmu_normal.jpg",
       "description": "A post - graduate student majoring in artificial intelligence .A llm and software engineer .",
-      "followersCount": 2608,
-      "friendsCount": 829,
+      "followersCount": 2607,
+      "friendsCount": 830,
       "location": "Hangzhou "
     },
     "images": [],
@@ -509,7 +627,7 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "| Investor&trader | 靠谱交易所请用 https://t.co/SMq9oeqx7S | Tg channel https://t.co/hNKkRMH73O",
-      "followersCount": 53829,
+      "followersCount": 53802,
       "friendsCount": 944,
       "location": ""
     },
@@ -524,7 +642,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 261256,
+      "followersCount": 261280,
       "friendsCount": 6657,
       "location": "New York, USA"
     },
@@ -541,7 +659,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 126914,
+      "followersCount": 126919,
       "friendsCount": 1631,
       "location": "moon"
     },
@@ -610,7 +728,7 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate Certified Financial Technician - IFTA 现在是一名保安，爱吃小熊饼干 #web3入口 OKX Web3钱包一个就够 https://t.co/GiZjrXzMaX",
-      "followersCount": 51699,
+      "followersCount": 51692,
       "friendsCount": 801,
       "location": ""
     },
@@ -869,7 +987,7 @@
       "name": "撸毛养家",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875391284577452032/cbVLvdwl_normal.jpg",
       "description": "资深撸毛专业户，近四年市面上空投80%以上，拿过Op,Arb,Zz,Zk,Lo,Strk,Zeta,W,Mantle,Spec,Jup,Zetamarket,Drift,Huma，Met,Lit等链上空投，打新SUI 中签1万个SUI，抓住铭文2023年10.1-12中旬铭文牛市，长期持有BTC ETH BNB",
-      "followersCount": 1993,
+      "followersCount": 1996,
       "friendsCount": 1728,
       "location": ""
     },
