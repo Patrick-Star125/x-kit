@@ -1,11 +1,123 @@
 [
   {
     "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
+      "followersCount": 127457,
+      "friendsCount": 1646,
+      "location": "moon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/2014244101236130233",
+    "fullText": "2026年币圈最大的看点，X开通数字货币交易，真正的增量"
+  },
+  {
+    "user": {
+      "screenName": "0xleng1",
+      "name": "Leng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
+      "description": "任何推文不构成任何投资建议，对自己的钱负责。 合作DM",
+      "followersCount": 37944,
+      "friendsCount": 354,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xleng1/status/2014228697574969742",
+    "fullText": "感觉现在这个行情比较极端了，打新差不多也到末路了，后面再看看情况吧。几乎所有项目的估值都被砍到脚底了，600m的zama 早个半年都想不到能拿到这个价格的筹码，毕竟融资额在这。seeker 50m开盘 手机卖出去都不止50m了。"
+  },
+  {
+    "user": {
+      "screenName": "0xSleepinRain",
+      "name": "雨中狂睡SleepintheRain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
+      "description": "Until death, all defeat is psychological.",
+      "followersCount": 28466,
+      "friendsCount": 3837,
+      "location": "Bitcoin"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_P4g7DagAIaJlO.jpg",
+      "https://pbs.twimg.com/media/G_P4iBzaQAA3KaZ.jpg",
+      "https://pbs.twimg.com/media/G_P4jxuWQAEcXyk.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xSleepinRain/status/2014226776365695130",
+    "fullText": "除了 @openmind_agi 外，另一个要去刷的「机器人概念项目」是 @PerleLabs 。相较 $SAPIEN 专门做机器人的数据标注，Perle的业务则面向所有数据。只是，今年显学是机器人叙事，所以Perle才会在推文中提及Embodied intelligence（具身智能）。基于此，我会把它归入到「机器人概念项目」。 https://t.co/gIQb3FkFV4"
+  },
+  {
+    "user": {
+      "screenName": "hunterweb303",
+      "name": "0x 哆啦A梦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
+      "description": "🛠 Web3开发\n👀 用bug赚铜锣烧\n做一只web3量产工具的🐱\nhttps://t.co/v6GwImN9a9\nbsc赞助:0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\n所有自己做的免费开源产品都在链接里♥️所有产品不构成投资建议，别太相信工具～～",
+      "followersCount": 10296,
+      "friendsCount": 376,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_PuCT7bIAAT0m2.jpg",
+      "https://pbs.twimg.com/media/G_PuCV8W8AAZw1z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hunterweb303/status/2014215197528146013",
+    "fullText": "2u 咖啡➕3u 的沙滩椅\n躺平了 https://t.co/USYzOsW2TB"
+  },
+  {
+    "user": {
+      "screenName": "0x_xifeng",
+      "name": "spark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
+      "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
+      "followersCount": 26959,
+      "friendsCount": 5011,
+      "location": "推文均非投资建议"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0x_xifeng/status/2014215182608973924",
+    "fullText": "怎么办，最近一直亏钱，扛不住了 🥲"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\n合约PVP指路\n#OKX https://t.co/NXhCSu43si",
+      "followersCount": 103285,
+      "friendsCount": 7335,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/2014206879216640343",
+    "fullText": "本来预测市场的项目，除了目前已有的几家做起来的之外，大部分就是炒作概念，有没有产品打钱的人并不在乎。因为但凡能正常发币上一点正常的所，大概率是能赚的，Limitless 甚至没上任何所开盘都好多倍了\n\n没想到这次先信资本也可能要出事了。Into 那个预测市场今天看了很多"
+  },
+  {
+    "user": {
+      "screenName": "Ox011111",
+      "name": "零一",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932032080873238528/osS3v_Xn_normal.jpg",
+      "description": "记录01年刚毕业的大学生从0到1 的打狗日记 🗒 \n\n1个月已实现2800-A8（已回撤至A7.5）下一步目标再次突破A8💴 \n\n注册下方打狗bot免费进群，可手动返40-50%返佣\n私发我截图跟邮箱 \n\n好用的bot（免费送会员体验永久）：https://t.co/RGDBR4felM",
+      "followersCount": 4155,
+      "friendsCount": 344,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Ox011111/status/2014203863042044077",
+    "fullText": "这两天有事情休息了一周都是手机随便玩一玩\n\n今天一开机发现有点不会玩了 不知道缺少了什么..."
+  },
+  {
+    "user": {
       "screenName": "dontbesilent12",
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 61863,
+      "followersCount": 61881,
       "friendsCount": 1075,
       "location": ""
     },
@@ -22,8 +134,8 @@
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
       "description": "任何推文不构成任何投资建议，对自己的钱负责。 合作DM",
-      "followersCount": 37928,
-      "friendsCount": 356,
+      "followersCount": 37944,
+      "friendsCount": 354,
       "location": ""
     },
     "images": [],
@@ -37,7 +149,7 @@
       "name": "王小二",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_normal.jpg",
       "description": "我就是全宇宙最厉害的区块链天才，我一定一定一定行！\n\n00后，从前的目标是赚很多很多钱，现在的目标是去很多很多地方做很多很多没做过的事\n\n悲观者正确，乐观者成功\n\ngmgn交易bot:  https://t.co/7m8Q1hhYsT",
-      "followersCount": 89182,
+      "followersCount": 89217,
       "friendsCount": 1614,
       "location": ""
     },
@@ -52,7 +164,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 61863,
+      "followersCount": 61881,
       "friendsCount": 1075,
       "location": ""
     },
@@ -67,8 +179,8 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate Certified Financial Technician - IFTA 现在是一名保安，爱吃小熊饼干 #web3入口 OKX Web3钱包一个就够 https://t.co/GiZjrXzelp",
-      "followersCount": 51936,
-      "friendsCount": 819,
+      "followersCount": 51946,
+      "friendsCount": 820,
       "location": ""
     },
     "images": [
@@ -84,7 +196,7 @@
       "name": "spark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 26939,
+      "followersCount": 26959,
       "friendsCount": 5011,
       "location": "推文均非投资建议"
     },
@@ -99,7 +211,7 @@
       "name": "spark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 26939,
+      "followersCount": 26959,
       "friendsCount": 5011,
       "location": "推文均非投资建议"
     },
@@ -116,7 +228,7 @@
       "name": "风吹我已散",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936776997897953280/AQnBCynt_normal.jpg",
       "description": "链上韭菜｜只会做空｜\n此推记录个人币圈历程，重分享。\n祝你早安，午安，晚安",
-      "followersCount": 5055,
+      "followersCount": 5054,
       "friendsCount": 947,
       "location": ""
     },
@@ -136,7 +248,7 @@
       "name": "spark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 26939,
+      "followersCount": 26959,
       "friendsCount": 5011,
       "location": "推文均非投资建议"
     },
@@ -153,8 +265,8 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 261729,
-      "friendsCount": 6687,
+      "followersCount": 261774,
+      "friendsCount": 6690,
       "location": "New York, USA"
     },
     "images": [],
@@ -168,7 +280,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 61863,
+      "followersCount": 61881,
       "friendsCount": 1075,
       "location": ""
     },
@@ -183,8 +295,8 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
       "description": "Until death, all defeat is psychological.",
-      "followersCount": 28462,
-      "friendsCount": 3834,
+      "followersCount": 28466,
+      "friendsCount": 3837,
       "location": "Bitcoin"
     },
     "images": [],
@@ -198,7 +310,7 @@
       "name": "AliceBCeiona",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
       "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader ☞复旦大学证券投资协会特邀嘉宾☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
-      "followersCount": 6842,
+      "followersCount": 6843,
       "friendsCount": 298,
       "location": ""
     },
@@ -217,7 +329,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 61863,
+      "followersCount": 61881,
       "friendsCount": 1075,
       "location": ""
     },
@@ -232,7 +344,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 61863,
+      "followersCount": 61881,
       "friendsCount": 1075,
       "location": ""
     },
@@ -247,7 +359,7 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 9118,
+      "followersCount": 9117,
       "friendsCount": 797,
       "location": ""
     },
@@ -262,7 +374,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 127443,
+      "followersCount": 127457,
       "friendsCount": 1646,
       "location": "moon"
     },
@@ -282,8 +394,8 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "| Investor&trader | 靠谱交易所请用 https://t.co/SMq9oeqx7S | Tg channel https://t.co/hNKkRMH73O",
-      "followersCount": 58323,
-      "friendsCount": 952,
+      "followersCount": 58481,
+      "friendsCount": 953,
       "location": ""
     },
     "images": [
@@ -299,7 +411,7 @@
       "name": "spark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 26939,
+      "followersCount": 26959,
       "friendsCount": 5011,
       "location": "推文均非投资建议"
     },
@@ -317,8 +429,8 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 261729,
-      "friendsCount": 6687,
+      "followersCount": 261774,
+      "friendsCount": 6690,
       "location": "New York, USA"
     },
     "images": [
@@ -334,8 +446,8 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "| Investor&trader | 靠谱交易所请用 https://t.co/SMq9oeqx7S | Tg channel https://t.co/hNKkRMH73O",
-      "followersCount": 58323,
-      "friendsCount": 952,
+      "followersCount": 58481,
+      "friendsCount": 953,
       "location": ""
     },
     "images": [],
@@ -349,8 +461,8 @@
       "name": "Oxye漆华",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013986009617154048/Pnir_PHN_normal.jpg",
       "description": "💻撸毛节点 合作DM 📧 @nodex_xyz ambassador 丨节点教程：https://t.co/aUUTv9FJZE 丨 自建功能网站：https://t.co/o7QpKC4SlY",
-      "followersCount": 17705,
-      "friendsCount": 2057,
+      "followersCount": 17709,
+      "friendsCount": 2060,
       "location": "Youtube➡️"
     },
     "images": [
@@ -366,7 +478,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 61863,
+      "followersCount": 61881,
       "friendsCount": 1075,
       "location": ""
     },
@@ -384,7 +496,7 @@
       "name": "spark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 26939,
+      "followersCount": 26959,
       "friendsCount": 5011,
       "location": "推文均非投资建议"
     },
@@ -402,7 +514,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 61863,
+      "followersCount": 61881,
       "friendsCount": 1075,
       "location": ""
     },
@@ -417,7 +529,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 61863,
+      "followersCount": 61881,
       "friendsCount": 1075,
       "location": ""
     },
@@ -434,8 +546,8 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
       "description": "Until death, all defeat is psychological.",
-      "followersCount": 28462,
-      "friendsCount": 3834,
+      "followersCount": 28466,
+      "friendsCount": 3837,
       "location": "Bitcoin"
     },
     "images": [],
@@ -449,7 +561,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 61863,
+      "followersCount": 61881,
       "friendsCount": 1075,
       "location": ""
     },
@@ -464,7 +576,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 127443,
+      "followersCount": 127457,
       "friendsCount": 1646,
       "location": "moon"
     },
@@ -544,7 +656,7 @@
       "name": "王小二",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_normal.jpg",
       "description": "我就是全宇宙最厉害的区块链天才，我一定一定一定行！\n\n00后，从前的目标是赚很多很多钱，现在的目标是去很多很多地方做很多很多没做过的事\n\n悲观者正确，乐观者成功\n\ngmgn交易bot:  https://t.co/7m8Q1hhYsT",
-      "followersCount": 89182,
+      "followersCount": 89217,
       "friendsCount": 1614,
       "location": ""
     },
@@ -559,8 +671,8 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate Certified Financial Technician - IFTA 现在是一名保安，爱吃小熊饼干 #web3入口 OKX Web3钱包一个就够 https://t.co/GiZjrXzelp",
-      "followersCount": 51936,
-      "friendsCount": 819,
+      "followersCount": 51946,
+      "friendsCount": 820,
       "location": ""
     },
     "images": [
@@ -761,8 +873,8 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
       "description": "Until death, all defeat is psychological.",
-      "followersCount": 28462,
-      "friendsCount": 3834,
+      "followersCount": 28466,
+      "friendsCount": 3837,
       "location": "Bitcoin"
     },
     "images": [],
