@@ -1,11 +1,168 @@
 [
   {
     "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
+      "followersCount": 263310,
+      "friendsCount": 6845,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/2019384014596108390",
+    "fullText": "都被套了，你现在给我说牛转熊了😭😭"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent12",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
+      "followersCount": 65039,
+      "friendsCount": 1090,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAZBMCbacAATw7c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent12/status/2019373167651979288",
+    "fullText": "用三星 Dex 模式，成功在海信闺蜜机上打开了 claude 😂 https://t.co/L6rLwuthGG"
+  },
+  {
+    "user": {
+      "screenName": "0x_xifeng",
+      "name": "spark 🦅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
+      "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
+      "followersCount": 26960,
+      "friendsCount": 5049,
+      "location": "推文均非投资建议"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0x_xifeng/status/2019372919470846376",
+    "fullText": "BTC 终于要6开头了吗"
+  },
+  {
+    "user": {
+      "screenName": "hunterweb303",
+      "name": "0x 哆啦A梦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
+      "description": "🛠 Web3工具开发车间主任\nAI 最严厉的父亲\nhttps://t.co/v6GwImN9a9\nbsc赞助：0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\nsol赞助：Dgh2nFXXzknmTL4vkVYU2VC7cC5hBwvuvR13Dogwyst8\n不构成投资建议～～",
+      "followersCount": 11682,
+      "friendsCount": 441,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAY-wC-bMAARhOW.jpg",
+      "https://pbs.twimg.com/media/HAY_BTaacAM5cRj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hunterweb303/status/2019371577754931682",
+    "fullText": "Flapmeme 税币监控工具\n🦋蝴蝶税务局\n上线啦\n已上架百宝箱，等会儿开源\n\n📊 产品功能\n\n🔸 实时代币监控\n监听 BNB Chain 上 Flap 协议的所有代币创建事件，新币上线秒级推送，包含代币名称、符号、创建者地址、税率、税费接收地址等完整信息\n\n🔸 税费流向追踪\n自动识别每个代币的 beneficiary https://t.co/LyWKOZpp8f"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent12",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
+      "followersCount": 65039,
+      "friendsCount": 1090,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent12/status/2019365089355403395",
+    "fullText": "如果某个博主没有抖音账号，只有小红书账号\n\n最快的获取这个人全部视频文字稿的方法是什么？\n\n（get 笔记的订阅博主功能，现在只能爬取抖音了，视频号和小红书功能都下了）"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 138305,
+      "friendsCount": 551,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/2019364284757872756",
+    "fullText": "记录：1011后，反弹最高到116400，没过120000；随后继续下到80000档，反弹最高摸到98000下沿，没过100000；随后继续下就没稳住了，中间破80000档后，反弹没摸80000，又下去接近10000…"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 138305,
+      "friendsCount": 551,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/2019347287076663461",
+    "fullText": "刚刚健身去了，连以前5×12的引体热身都没完成，除了第一组12，剩下全是8…好久不练真的会退化…"
+  },
+  {
+    "user": {
+      "screenName": "0xSleepinRain",
+      "name": "雨中狂睡SleepintheRain🦞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2019065386759794688/jX9769pB_normal.jpg",
+      "description": "Until death, all defeat is psychological.",
+      "followersCount": 28684,
+      "friendsCount": 3892,
+      "location": "Bitcoin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xSleepinRain/status/2019340921649917967",
+    "fullText": "事后来看， @worldlibertyfi USD1 的理财活动选择的时间节点是真的好。"
+  },
+  {
+    "user": {
+      "screenName": "Michael_Liu93",
+      "name": "憨厚的麦总",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1981574059759378432/Fgvjn2l0_normal.jpg",
+      "description": "Ex-VC & Banker Turned Degen, See You In The Trenches. \n入群联系小助理: https://t.co/u3K10p1dZq",
+      "followersCount": 79378,
+      "friendsCount": 2696,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Michael_Liu93/status/2019332778798772664",
+    "fullText": "昨晚第一次做贵金属，开了个白银空单，没敢多开，今天一看跌了快20%，这个5万亿市值的市场怎么波动起来跟meme似的，是控筹和流动性问题吗？还是这个市场全都是杠杆资金啊，有懂这个市场的小伙伴有理有据的解答下不。"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent12",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
+      "followersCount": 65039,
+      "friendsCount": 1090,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAYbJhJacAYzZdL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent12/status/2019331339930202450",
+    "fullText": "挂个链接，还要求你必须挂两个商品，不能挂一个😂😂😂😂😂😂😂😂\n\n小红书是我见过最傻缺的公司\n\n制定这个规则的人应该把这条规则刻在自己的墓碑上，太光荣了 https://t.co/KGJ2Gd0szV"
+  },
+  {
+    "user": {
       "screenName": "yuyue_chris",
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n合约PVP指路\n#OKX https://t.co/NXhCSu43si",
-      "followersCount": 103677,
+      "followersCount": 103672,
       "friendsCount": 7352,
       "location": "Crypto"
     },
@@ -20,7 +177,7 @@
       "name": "撸毛养家🐬",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875391284577452032/cbVLvdwl_normal.jpg",
       "description": "资深撸毛专业户，近四年市面上空投80%以上，拿过Op,Arb,Zz,Zk,Lo,Tia,Strk,Zeta,W,Mantle,Spec,Jup,solayer,Drift,Huma，Met,Lit等链上空投，打新SUI 中签1万个SUI，抓住铭文2023年10.1-12中旬铭文牛市，长期持有BTC ETH BNB🐬",
-      "followersCount": 2192,
+      "followersCount": 2194,
       "friendsCount": 2024,
       "location": ""
     },
@@ -40,7 +197,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -55,8 +212,8 @@
       "name": "憨厚的麦总",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1981574059759378432/Fgvjn2l0_normal.jpg",
       "description": "Ex-VC & Banker Turned Degen, See You In The Trenches. \n入群联系小助理: https://t.co/u3K10p1dZq",
-      "followersCount": 79354,
-      "friendsCount": 2697,
+      "followersCount": 79378,
+      "friendsCount": 2696,
       "location": ""
     },
     "images": [
@@ -72,7 +229,7 @@
       "name": "Laolu🧙‍♂️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896641724249993216/DBEZZmny_normal.jpg",
       "description": "想想笨蛋王会怎么做？活下去!",
-      "followersCount": 51836,
+      "followersCount": 51848,
       "friendsCount": 4882,
       "location": "Crypto"
     },
@@ -89,7 +246,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -104,7 +261,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 65033,
+      "followersCount": 65039,
       "friendsCount": 1090,
       "location": ""
     },
@@ -121,7 +278,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -136,7 +293,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -151,7 +308,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -168,7 +325,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -183,8 +340,8 @@
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
       "description": "早期项目研究，任何推文不构成任何投资建议，对自己的钱负责。 合作DM",
-      "followersCount": 38197,
-      "friendsCount": 345,
+      "followersCount": 38196,
+      "friendsCount": 344,
       "location": ""
     },
     "images": [],
@@ -215,7 +372,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -230,7 +387,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 65033,
+      "followersCount": 65039,
       "friendsCount": 1090,
       "location": ""
     },
@@ -260,7 +417,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -290,7 +447,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -307,8 +464,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016179196591276041/9NklHIHA_normal.jpg",
       "description": "想搞抽象没搞起来的 ex @aave @berachain",
-      "followersCount": 14279,
-      "friendsCount": 3346,
+      "followersCount": 14277,
+      "friendsCount": 3347,
       "location": ""
     },
     "images": [],
@@ -322,8 +479,8 @@
       "name": "Oxye漆华 🐬TermMax",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2019223590391148549/k9UbgiiF_normal.jpg",
       "description": "💻撸毛节点 合作DM 📧 @nodex_xyz ambassador 丨节点教程：https://t.co/aUUTv9FJZE 丨 自建功能网站：https://t.co/a88DnjXr2c",
-      "followersCount": 17805,
-      "friendsCount": 2117,
+      "followersCount": 17802,
+      "friendsCount": 2119,
       "location": "Youtube➡️"
     },
     "images": [
@@ -339,8 +496,8 @@
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
       "description": "早期项目研究，任何推文不构成任何投资建议，对自己的钱负责。 合作DM",
-      "followersCount": 38197,
-      "friendsCount": 345,
+      "followersCount": 38196,
+      "friendsCount": 344,
       "location": ""
     },
     "images": [],
@@ -354,8 +511,8 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
-      "followersCount": 52127,
-      "friendsCount": 835,
+      "followersCount": 52128,
+      "friendsCount": 836,
       "location": ""
     },
     "images": [
@@ -371,7 +528,7 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "| Investor&trader | 靠谱交易所请用 https://t.co/SMq9oeqx7S | Tg channel https://t.co/hNKkRMH73O",
-      "followersCount": 59959,
+      "followersCount": 59604,
       "friendsCount": 981,
       "location": ""
     },
@@ -386,7 +543,7 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 26957,
+      "followersCount": 26960,
       "friendsCount": 5049,
       "location": "推文均非投资建议"
     },
@@ -403,7 +560,7 @@
       "name": "憨巴龙王",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1944702932022104064/pvb8yhxb_normal.jpg",
       "description": "瞎几把喊单的，找你接盘的，别买，骂我看不见。",
-      "followersCount": 92575,
+      "followersCount": 92567,
       "friendsCount": 425,
       "location": ""
     },
@@ -418,8 +575,8 @@
       "name": "憨厚的麦总",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1981574059759378432/Fgvjn2l0_normal.jpg",
       "description": "Ex-VC & Banker Turned Degen, See You In The Trenches. \n入群联系小助理: https://t.co/u3K10p1dZq",
-      "followersCount": 79354,
-      "friendsCount": 2697,
+      "followersCount": 79378,
+      "friendsCount": 2696,
       "location": ""
     },
     "images": [
@@ -435,7 +592,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -452,7 +609,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -469,7 +626,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
@@ -487,7 +644,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 65033,
+      "followersCount": 65039,
       "friendsCount": 1090,
       "location": ""
     },
@@ -502,7 +659,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 65033,
+      "followersCount": 65039,
       "friendsCount": 1090,
       "location": ""
     },
@@ -517,7 +674,7 @@
       "name": "零一",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932032080873238528/osS3v_Xn_normal.jpg",
       "description": "记录01年毕业的大学生从0到1 的打狗日记 🗒 \n\n1个月实现2800-A8（已回撤A7.5）下一步目标再次突破A8💴 \n\n注册免费进群\ndebot：https://t.co/RGDBR4fMbk 手动返70%\ngmgn: https://t.co/YRbk88ZYN3 返30",
-      "followersCount": 4218,
+      "followersCount": 4222,
       "friendsCount": 364,
       "location": "Hong Kong"
     },
@@ -535,7 +692,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 138261,
+      "followersCount": 138305,
       "friendsCount": 551,
       "location": "China"
     },
