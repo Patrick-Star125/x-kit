@@ -1,0 +1,620 @@
+[
+  {
+    "user": {
+      "screenName": "0x_xifeng",
+      "name": "spark 🦅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
+      "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
+      "followersCount": 26870,
+      "friendsCount": 3810,
+      "location": "推文均非投资建议"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD-hWj3agAA78eM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0x_xifeng/status/2035523058669326669",
+    "fullText": "好搞笑啊，看到happy哥的群友在吐槽，手里都是USDT的时候，USDC贵点，换过去后就跌了，然后又换到USD1，不满意又换到USDT，结果USD1涨了，USDT跌了 😂\n\n说实话，真的，老老实实拿着USD1得了，这次又有 1.35 亿枚 WLFI 代币激励，持续到4 月 17，年华大概不到5%，很舒服了 https://t.co/VDq8rjiXhe"
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
+      "followersCount": 1498580,
+      "friendsCount": 227,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2035436029344141818",
+    "fullText": "If you invested in the S&amp;P 500 in 2000 and held it until 2013, you broke even.\n\n13 years, no profit, and you lost 50% to inflation.\n\nThink about it for a second."
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+      "followersCount": 72783,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2035426548225052819",
+    "fullText": "想把多个 skill 做成 system prompt，尽量还原 skills 的体验，没有看起来简单\n\nclaude code 折腾了 8 个版本都不行\n\nmanus 一次搞定……又立奇功"
+  },
+  {
+    "user": {
+      "screenName": "xiaoyon52351223",
+      "name": "撸毛养家🐬",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875391284577452032/cbVLvdwl_normal.jpg",
+      "description": "资深撸毛专业户，近四年市面上空投80%以上，拿过Op,Arb,Zz,Zk,Lo,Tia,Strk,Zeta,W,Mantle,Spec,Jup,solayer,Drift,Huma，Met,Lit等链上空投，打新SUI 中签1万个SUI，抓住铭文2023年10.1-12中旬铭文牛市，长期持有BTC ETH BNB🐬",
+      "followersCount": 2515,
+      "friendsCount": 1985,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD83CfhakAAY4ij.jpg",
+      "https://pbs.twimg.com/media/HD83ll_bEAAxNaZ.jpg",
+      "https://pbs.twimg.com/media/HD83r2rakAAkzfD.jpg",
+      "https://pbs.twimg.com/media/HD84QIRawAALKM_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiaoyon52351223/status/2035407414888210476",
+    "fullText": "准备休息了   今天15连胜 今天交易量29.6万 白天横盘很久 有一单就等了3个小时，周交易量来到180万刀  除去FEE 盈利186刀 积分零撸  全网少有能公布交易明细的撸毛人 https://t.co/ZMUmX1PDjS"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+      "followersCount": 72783,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD8jdalbYAAkm0a.jpg",
+      "https://pbs.twimg.com/media/HD8jz5IbEAA46y6.jpg",
+      "https://pbs.twimg.com/media/HD8kc8GbAAEi1Wt.jpg",
+      "https://pbs.twimg.com/media/HD8keopawAAY1Te.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2035385816013480042",
+    "fullText": "通过我的一万多条推文做的 dbskill，更新到 v2 版本了，践行开源精神\n\n1️⃣ 你可以在 claude code 里面通过 /dbs 来进行对话，这个入口会自动路由到其他的各个 skill\n\n比如 diagnosis 发现心理问题信号，会建议你去 unblock，你不需要特别关心你正在用哪个具体的 skill\n\n2️⃣ 如果你不愿意用我的 https://t.co/HWXdWGZtRc"
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
+      "followersCount": 1498580,
+      "friendsCount": 227,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2035384978712801453",
+    "fullText": "**IMPORTANT**\n\nThe S&amp;P didn’t drop because of the war.\n\nIt was going to happen regardless, and the war just accelerated it.\n\nThe debt, the overvalued markets, consumers living off credit cards, and private credit defaults hitting levels we haven’t seen since 2008.\n\nThe Fed can’t"
+  },
+  {
+    "user": {
+      "screenName": "hunterweb303",
+      "name": "0x 哆啦A梦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
+      "description": "🛠 Web3工具开发车间主任\nAI 最严厉的父亲\nhttps://t.co/v6GwImN9a9\nbsc赞助：0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\nsol赞助：Dgh2nFXXzknmTL4vkVYU2VC7cC5hBwvuvR13Dogwyst8\n不构成投资建议～～",
+      "followersCount": 12188,
+      "friendsCount": 531,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD8C4QGbwAAeXJ1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hunterweb303/status/2035348724633985097",
+    "fullText": "这就是杭州线下小龙虾在推的业务\n大哥今天去了，给我发了过来\n不得罪人，但是很难评\n\n你特么智能体滞销了吗 https://t.co/9iqBccVLLO"
+  },
+  {
+    "user": {
+      "screenName": "hunterweb303",
+      "name": "0x 哆啦A梦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
+      "description": "🛠 Web3工具开发车间主任\nAI 最严厉的父亲\nhttps://t.co/v6GwImN9a9\nbsc赞助：0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\nsol赞助：Dgh2nFXXzknmTL4vkVYU2VC7cC5hBwvuvR13Dogwyst8\n不构成投资建议～～",
+      "followersCount": 12188,
+      "friendsCount": 531,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hunterweb303/status/2035345986680447185",
+    "fullText": "其实我还算一个比较偏稳妥的人\n不太轻易的尝试，不太轻易换方案\n而是选择尽量的适应\n但是最近真的有点忍不了 Claude Code了\n一个 bug 给我绕来绕去，Codex 一次对话直接解决\n一个架构问题磨了一小时不愿意改\n最后我强制他删除才理解我意思\n\n经常说今天就干到这里了，让我去休息"
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
+      "followersCount": 1498580,
+      "friendsCount": 227,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD7X7PAWwAAIKgD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2035301505121579507",
+    "fullText": "This is not good.\n\nGuess what happens next? https://t.co/hIUxmSVBLA"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
+      "followersCount": 264172,
+      "friendsCount": 6964,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD7VbXobkAAkJh4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/2035298851570188708",
+    "fullText": "感觉撸毛跟投资的逻辑差不多\n\n看创始人，看团队格局，看产品的差异化和竞争力\n\n这里面的几尊大神还有两尊...祝好 https://t.co/74Siw4GYMy"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 101349,
+      "friendsCount": 7197,
+      "location": "Crypto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD7Rz5ubEAAT_KJ.jpg",
+      "https://pbs.twimg.com/media/HD7Rz5wawAARNnW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/2035295079712342181",
+    "fullText": "世界逐渐阿诺化\n\n川普：（谈及哈尔克岛）“我可能有个计划，也可能没有。”\n\n“我们可以与伊朗对话，但我不想要停火。”\n\n合着他可能也只是想让家里的电脑高手赚点小米 https://t.co/yhWVZF1EFB"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+      "followersCount": 72783,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD7KgTAawAEWEnd.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2035286776294818071",
+    "fullText": "深得我的真传👍 https://t.co/7LXKaeYPP4"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+      "followersCount": 72783,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD7HjwTaMAAVio2.jpg",
+      "https://pbs.twimg.com/media/HD7HoWma0AAOXzg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2035283977498722551",
+    "fullText": "cmux 用起来体验不错，一个应用可以管理所有的 claude code 窗口\n\n我觉得还不错的两个功能：\n\n1、有一个侧边栏，可以用来管理新开的窗口，而不需要新加一个 Window\n\n2、需要我去授权的窗口，会有一个蓝色的提示框，很明显\n\n我在尝试深度体验，考虑换掉 ghostty https://t.co/oVAhLIKiz3"
+  },
+  {
+    "user": {
+      "screenName": "Ox011111",
+      "name": "零一",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932032080873238528/osS3v_Xn_normal.jpg",
+      "description": "记录01年毕业的大学生从0到1 的打狗日记 🗒 \n\n1个月实现2800-A8（已回撤A7.5）下一步目标再次突破A8💴 \n\n免费频道https://t.co/OgzhWDpPuC\n\n注册私聊进聊天群（手动高返）https://t.co/RGDBR4fMbk",
+      "followersCount": 5441,
+      "friendsCount": 390,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD6-T5AboAIPdEy.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Ox011111/status/2035274188739813708",
+    "fullText": "这两个月市场都在围着CZ的书转\n\n他自己说这是本“stupid book”\n缩写直接变成SB 😂\n头像也是纯meme味拉满\n\n最重要的一点cz的书名跟这个没有关系 并不冲突\n\n但你看走势就知道——\n叙事从来不讲逻辑\n\n昨天PA都能拉这么高\n现在这个位置，1M不过分吧\nCA:\n0xc7b118ab2905693a9aebfd7c21e9a97f508b4444 https://t.co/czpKk20XiO"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 101349,
+      "friendsCount": 7197,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/2035274010301538530",
+    "fullText": "反焦虑的内容，本质上都是心灵鸡汤，除了按摩之外不起太大作用\n\n解决焦虑有两种可以并行的办法：\n1. 想开，意识到只需要获得 2000+ 大卡的食物和保持体温的安全庇护所就能生存\n包括冥想、写作（写下情绪）、和朋友交流等等\n\n2. 拆解自己面临的问题，做能解决问题的事"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
+      "followersCount": 129220,
+      "friendsCount": 1717,
+      "location": "moon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD65mpdboAA4C2O.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/2035268163525648774",
+    "fullText": "忙里偷闲\n\n最拉的鸭子——超能力素材局\n\n开局刺客狙错人直接下线\n\n最后4人除了我的超能力还有模仿、加拿大、工程，外加两铃\n\n最后一轮靠嘴遁票走了加拿大\n\n回来开紧急任务贴了模仿者带走比赛\n\n但是超能力还是很拉\n\n刀一个人30秒… https://t.co/pcyV0SMfVU"
+  },
+  {
+    "user": {
+      "screenName": "timotimo007",
+      "name": "Timo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
+      "description": "| Investor&trader | 交易用 https://t.co/SMq9oer4Xq | Tg channel https://t.co/hNKkRMHETm",
+      "followersCount": 53331,
+      "friendsCount": 959,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD62MzVboAEQwWp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/timotimo007/status/2035264421006909753",
+    "fullText": "一生痴绝处，无梦到徽州 https://t.co/KzYTiyOFom"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
+      "followersCount": 129220,
+      "friendsCount": 1717,
+      "location": "moon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD6nuQyakAAzswR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/2035248501945508314",
+    "fullText": "如果我农\n\n那大概率是因为下一个上台讲话的就是我\n\n先出个本先\n\nWeb4.0珠海站人来的比想象得多\n\n这个场让我最惊讶的是厕所\n\n马桶都是五星级酒店的那种有温度而且能喷水的那种 https://t.co/CbJs4SYGxK"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 141925,
+      "friendsCount": 572,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2035235871486877699/pu/vid/avc1/720x1280/Tts4X0fgk_MKKoxd.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/TingHu888/status/2035236776198250909",
+    "fullText": "一开始我以为是分析讲解伊朗是如何击落美军F35的，结果发现是击落前几天的拆解教学...博主是西工大的。 https://t.co/TPFXincQcR"
+  },
+  {
+    "user": {
+      "screenName": "nbblock",
+      "name": "CJ_Blockchain, CFA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
+      "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
+      "followersCount": 10957,
+      "friendsCount": 829,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nbblock/status/2035170090279477387",
+    "fullText": "「.如果你以前太聪明、太顺了、就会养成一种恶劣的、轻举妄动的“靠突击就可成功”的习惯，让你的人格中少一分愚蠢的减持」\n\n观Trump袭击伊朗有感，如果没有委内瑞拉那种“赢”，也许这次对伊朗问题上Trump不会那么草率。"
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
+      "followersCount": 1498580,
+      "friendsCount": 227,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD4ZUDxWUAElb2f.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2035091923896017398",
+    "fullText": "Once upon a time. https://t.co/HpS515NIMB"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+      "followersCount": 72783,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD4MGIAbQAAn7wD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2035077391266324525",
+    "fullText": "我的推文做成了 skill\nhttps://t.co/E9MeMerSYx\n\n一行安装\nnpx skills add dontbesilent2025/dbskill\n\n这些框架从 12307 条推文中提炼而来，覆盖商业本体论、IP 与内容、思维与哲学、实操运营、AI 与工具、心理与执行等方向 https://t.co/ZtEbYenkiw"
+  },
+  {
+    "user": {
+      "screenName": "xiaoyon52351223",
+      "name": "撸毛养家🐬",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875391284577452032/cbVLvdwl_normal.jpg",
+      "description": "资深撸毛专业户，近四年市面上空投80%以上，拿过Op,Arb,Zz,Zk,Lo,Tia,Strk,Zeta,W,Mantle,Spec,Jup,solayer,Drift,Huma，Met,Lit等链上空投，打新SUI 中签1万个SUI，抓住铭文2023年10.1-12中旬铭文牛市，长期持有BTC ETH BNB🐬",
+      "followersCount": 2515,
+      "friendsCount": 1985,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD3zDInakAAB1vr.jpg",
+      "https://pbs.twimg.com/media/HD3zgrTbEAAxuP-.jpg",
+      "https://pbs.twimg.com/media/HD3znH6boAEu6ny.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiaoyon52351223/status/2035051689930367377",
+    "fullText": "来不起了  来了兴致 交易量凑够150万刀，等下周二发分  如果交易150万刀市价单，FEE成本375刀，等于节约了FEE  另外侥幸除去FEE 375刀 盈利142刀  胜率67.06% ，低头弯腰只为爬得更高，万般努力只为出人头地，积分零撸  积分就是额外惊喜 奖励  领空投时候得惊喜 https://t.co/eFBVjy4Ndj"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+      "followersCount": 72783,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD3ygJSboAIiGSt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2035049340725797065",
+    "fullText": "当我意识到 skill 其实是以文本形式存在的软件\n\n我发现我积累的一万多条推文，已经完全具备了做出这个软件的基础条件\n\n接下来做一组 skill 发布到 GitHub —— dbskill https://t.co/jsEaZjD9Sa"
+  },
+  {
+    "user": {
+      "screenName": "AliceBCeiona",
+      "name": "AliceBCeiona",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
+      "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader ☞复旦大学证券投资协会特邀嘉宾☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
+      "followersCount": 7451,
+      "friendsCount": 305,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD3ZsRxaYAApuc_.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AliceBCeiona/status/2035023162048425990",
+    "fullText": "周四周五的A股可以用惨烈形容，好在接下来两天是周末，账户不再会自动扣钱。那么周末应该做什么呢，我决定进行一些复盘。刨除高权重股和避险标的比如银行保险后，剩下在周四周五还能维持上涨的标的大多有自己的独特之处。可能反映了市场趋势，控筹强度等信息，能带来一些对于市场更深刻的见解。而且这 https://t.co/Vs8wHAqTBB"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 141925,
+      "friendsCount": 572,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/2035021165962699098",
+    "fullText": "最近看到很多人又在讨论保健品，有一个小小的提醒，就是买保健品的时候，一定要去看净含量，不能只看克数。比如辅酶Q10，每份200mg，你要看清楚，到底是直接说的辅酶Q10是200mg，还是混合物(悬浮液)200mg。什么镁啊锌啊之类的，到底是这个元素还是化合物整体的重量？\n不违法，但很坑。"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
+      "followersCount": 129220,
+      "friendsCount": 1717,
+      "location": "moon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/2035011476109631624",
+    "fullText": "一本书都能整出龙一、龙二、龙三\n\n哦\n\n是币圈呀\n\n那没毛"
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
+      "followersCount": 1498580,
+      "friendsCount": 227,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD2-4-ZboAQYaPw.jpg",
+      "https://pbs.twimg.com/media/HD2-499W8AA5IEb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2034992506652283234",
+    "fullText": "🚨 Added CORN to my portfolio\n\nEveryone’s talking about oil. Nobody’s talking about food.\n\nHigher fuel costs hit farming and fertilizer prices are moving (we already hold NTR). Grain exports are getting disrupted. Corn goes into feed, fuel and food production.\n\nRemember what https://t.co/Pyl2hr1TaQ"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+      "followersCount": 72783,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD2lBjxacAATmE-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2034964211508654500",
+    "fullText": "正在分析我的推文\n\n1、哲学/认知类推文互动最高但产量最低\n\n2、长内容碾压短内容，1000 字以上互动是短推的 7.3 倍\n\n3、用户把你的推特当收藏夹用，收藏/点赞比最高的是工具清单和方法论 https://t.co/QNNQ1gyMCK"
+  },
+  {
+    "user": {
+      "screenName": "Airdrop_Guard",
+      "name": "小熊饼干 . SOL⛵",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
+      "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
+      "followersCount": 52183,
+      "friendsCount": 840,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD2Ze4iakAArlZz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Airdrop_Guard/status/2034951368759550442",
+    "fullText": "这周拿了 1082 分，但也是我最后一周裸短线交易了，盈亏同源，怎么赚到的，就怎么亏回去\n\n老实对冲持仓，不关心价格涨跌的日子太舒心了，没有压力，晚上睡得好，吃饭吃得香，忙起来超级充实\n\n坐看云卷云舒，这 TMD 才是人生 https://t.co/KUGofKTXxX"
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
+      "followersCount": 1498580,
+      "friendsCount": 227,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD2S49KWQAA072R.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2034944122922967140",
+    "fullText": "🚨 CBO just projected U.S. debt hits $150 trillion by 2055\n\nThat’s $150,000,000,000,000.00 https://t.co/n7mAWUgwJM"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+      "followersCount": 72783,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2034943707015958995",
+    "fullText": "《从创业的角度讲，我们可以认为世界上存在两类问题》\n\nA 类问题可以用线性的文字得到回答\n\n比如：「我可以在哪里注册公司」\n\n这是一个 question，你可以得到一段文本形式的 answer\n\n而 B 类问题，我认为它们的答案不能是文本形式的，而应该是一个实践过程\n\n比如：某某 Agent 能做什么？"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
+      "followersCount": 264172,
+      "friendsCount": 6964,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD2NTiPboAUytnY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/2034937980314690003",
+    "fullText": "ai没办法陪领导喝酒🍺 https://t.co/V0cQOUaLxj"
+  },
+  {
+    "user": {
+      "screenName": "0xSleepinRain",
+      "name": "雨中狂睡SleepintheRain🦞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2019065386759794688/jX9769pB_normal.jpg",
+      "description": "我不写出来，就不知道自己在想什么。",
+      "followersCount": 28884,
+      "friendsCount": 3924,
+      "location": "Bitcoin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xSleepinRain/status/2034934254912905253",
+    "fullText": "$TAO 子网很早在玩，现在完全对买子网提不起兴趣。买来买去发现还不如买 $TAO 来得收益高。一是 $TAO 子网高通胀，二是 $TAO 子网流动性不足，买不了很多，主要还是在追求高风险高收益。\n\n流动性在注意力上来之后会好很多。不过，注意力来得快去得也快，注意力散去后又是一地鸡毛。"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+      "followersCount": 72783,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD2AmN6aUAA6nfH.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2034924221055553984",
+    "fullText": "随手分享的内容，其实是属于精耕细作 Pro Max\n\n（我觉得不光是对我而言，可能对所有人都是这样）\n\n因为长年累月的思考这些东西，以至于全部内化了，所以才能随手分享\n\n你对这个内容不够熟悉，才精耕细作 https://t.co/4P3JS73Xe0"
+  },
+  {
+    "user": {
+      "screenName": "0xleng1",
+      "name": "Leng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
+      "description": "早期项目研究，任何推文不构成任何投资建议，对自己的钱负责。 合作DM",
+      "followersCount": 40277,
+      "friendsCount": 339,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xleng1/status/2034918684431716477",
+    "fullText": "其实我发现有好多人还在推okx usdg 4%的年化，明明有很多更好的选择，是因为广吗，还是合作？现在这行情，不应该信息差到这种程度啊🤔"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
+      "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
+      "followersCount": 129220,
+      "friendsCount": 1717,
+      "location": "moon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD1x7UXboAMlRTI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/2034907877690023977",
+    "fullText": "听说以前的我不是现在的我\n\n差别不就是酒量好了点\n\n肌肉更多了点吗\n\n正好最近没段子\n\n就当段子发了吧 https://t.co/4MPzhVZjdN"
+  }
+]
