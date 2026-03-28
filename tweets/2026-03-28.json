@@ -1,11 +1,88 @@
 [
   {
     "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 101207,
+      "friendsCount": 7175,
+      "location": "Crypto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEe9_eIaYAALXZK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/2037806584127270916",
+    "fullText": "传统金融现在的情况跟币圈的 2024 年初越来越像了，愈发感觉币圈就是传统金融的加速版本\n\n最近和几个投一级的传统 VC / PE 圈子朋友交流了一下，发现有些人正在试图往二级跳，极端案例是直接辞职专职炒股（虽然可能有幸存者偏差）\n\n主动退场一级的核心原因是不想再敷衍 LP，想抓住 AI https://t.co/e3W2bcb2Sc"
+  },
+  {
+    "user": {
+      "screenName": "timotimo007",
+      "name": "Timo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
+      "description": "| Investor&trader | 交易用 https://t.co/SMq9oer4Xq | Tg channel https://t.co/hNKkRMHETm",
+      "followersCount": 53195,
+      "friendsCount": 860,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/timotimo007/status/2037798283310178309",
+    "fullText": "给美股巨头高估值也是合理的，中概自己不争气。看看谷歌、NVDA、meta…这些标的 2025 收入和利润的增长，再看看中概巨头，除了腾讯勉强还可以，其他都很拉垮，而且业绩最好的字节没上市。\n另外流动性排序就是：美股&gt;A\n股&gt;中概。业绩比不上、流动性也比不上，估值低就正常。"
+  },
+  {
+    "user": {
+      "screenName": "Michael_Liu93",
+      "name": "憨厚的麦总",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1981574059759378432/Fgvjn2l0_normal.jpg",
+      "description": "Ex-VC & Banker Turned Degen, See You In The Trenches. \n入群联系小助理: https://t.co/u3K10p1dZq",
+      "followersCount": 79714,
+      "friendsCount": 2742,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Michael_Liu93/status/2037779031110856772",
+    "fullText": "有个想不通的地方，特朗普第一届没有开战，且一直把“不开战的总统”当作自己的政绩，到了第二届这是怎么了，又是委内瑞拉、伊朗、古巴的，为什么前面已经有了这么多失败，每任总统总是逃不出把美国卷入战争的命运。"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
+      "followersCount": 264217,
+      "friendsCount": 6974,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/2037775689982914678",
+    "fullText": "大家是怎么在claude或者codex里，让多agent自行合作的？\n\n举个例子\n你只需要跟产品经理的agent提供想法和实现路径，这个agent可以自动分配任务到全栈，UX/UI，再到测试"
+  },
+  {
+    "user": {
+      "screenName": "0xleng1",
+      "name": "Leng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
+      "description": "早期项目研究，任何推文不构成任何投资建议，对自己的钱负责。 合作DM",
+      "followersCount": 40234,
+      "friendsCount": 339,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xleng1/status/2037769138660376752",
+    "fullText": "双币赢是个好东西啊，在合适的时候如果想挂单接btc，还能吃上利息🤔小玩一下。"
+  },
+  {
+    "user": {
       "screenName": "TingHu888",
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 141991,
+      "followersCount": 142006,
       "friendsCount": 572,
       "location": "China"
     },
@@ -20,7 +97,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 141991,
+      "followersCount": 142006,
       "friendsCount": 572,
       "location": "China"
     },
@@ -52,8 +129,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
-      "followersCount": 1520385,
-      "friendsCount": 206,
+      "followersCount": 1520768,
+      "friendsCount": 204,
       "location": ""
     },
     "images": [
@@ -69,7 +146,7 @@
       "name": "Raccoon Chan 小浣熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1508090725455458309/qyQh84s5_normal.jpg",
       "description": "Raccoon Chan 小浣熊 @buji_dao",
-      "followersCount": 38377,
+      "followersCount": 38380,
       "friendsCount": 2591,
       "location": "Hong Kong"
     },
@@ -84,7 +161,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 141991,
+      "followersCount": 142006,
       "friendsCount": 572,
       "location": "China"
     },
@@ -101,8 +178,8 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 129117,
-      "friendsCount": 1722,
+      "followersCount": 129133,
+      "friendsCount": 1723,
       "location": "moon"
     },
     "images": [],
@@ -118,8 +195,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 73684,
-      "friendsCount": 1225,
+      "followersCount": 73717,
+      "friendsCount": 1224,
       "location": ""
     },
     "images": [],
@@ -133,8 +210,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
-      "followersCount": 1520385,
-      "friendsCount": 206,
+      "followersCount": 1520768,
+      "friendsCount": 204,
       "location": ""
     },
     "images": [],
@@ -148,7 +225,7 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 26809,
+      "followersCount": 26804,
       "friendsCount": 3818,
       "location": "推文均非投资建议"
     },
@@ -165,8 +242,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
-      "followersCount": 1520385,
-      "friendsCount": 206,
+      "followersCount": 1520768,
+      "friendsCount": 204,
       "location": ""
     },
     "images": [],
@@ -180,7 +257,7 @@
       "name": "Oxye漆华",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2019223590391148549/k9UbgiiF_normal.jpg",
       "description": "一个努力亏钱的工具人 📧 @nodex_xyz @idolly_AI ambassador 丨节点教程：https://t.co/aUUTv9FJZE",
-      "followersCount": 18407,
+      "followersCount": 18422,
       "friendsCount": 2229,
       "location": "Youtube➡️"
     },
@@ -195,8 +272,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 73684,
-      "friendsCount": 1225,
+      "followersCount": 73717,
+      "friendsCount": 1224,
       "location": ""
     },
     "images": [],
@@ -210,7 +287,7 @@
       "name": "Hongyu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932902235111096320/bFpp1Zew_normal.jpg",
       "description": "Clawist 🦞｜AI maxi｜Storyteller\n一个喜欢好玩产品的文科生\nprev. @okx @initiatecapital @cctv",
-      "followersCount": 3169,
+      "followersCount": 3163,
       "friendsCount": 977,
       "location": "Banana Republic"
     },
@@ -225,7 +302,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 101206,
+      "followersCount": 101207,
       "friendsCount": 7175,
       "location": "Crypto"
     },
@@ -240,7 +317,7 @@
       "name": "Hongyu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932902235111096320/bFpp1Zew_normal.jpg",
       "description": "Clawist 🦞｜AI maxi｜Storyteller\n一个喜欢好玩产品的文科生\nprev. @okx @initiatecapital @cctv",
-      "followersCount": 3169,
+      "followersCount": 3163,
       "friendsCount": 977,
       "location": "Banana Republic"
     },
@@ -257,7 +334,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 141991,
+      "followersCount": 142006,
       "friendsCount": 572,
       "location": "China"
     },
@@ -272,8 +349,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 73684,
-      "friendsCount": 1225,
+      "followersCount": 73717,
+      "friendsCount": 1224,
       "location": ""
     },
     "images": [
@@ -290,7 +367,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936776997897953280/AQnBCynt_normal.jpg",
       "description": "链上韭菜｜只会做空｜\n此推记录个人币圈历程，重分享。\n祝你早安，午安，晚安\ntg https://t.co/ynR5TBs3x7",
       "followersCount": 4983,
-      "friendsCount": 1008,
+      "friendsCount": 1009,
       "location": ""
     },
     "images": [],
@@ -304,7 +381,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 141991,
+      "followersCount": 142006,
       "friendsCount": 572,
       "location": "China"
     },
@@ -321,7 +398,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 141991,
+      "followersCount": 142006,
       "friendsCount": 572,
       "location": "China"
     },
@@ -338,7 +415,7 @@
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
       "description": "早期项目研究，任何推文不构成任何投资建议，对自己的钱负责。 合作DM",
-      "followersCount": 40232,
+      "followersCount": 40234,
       "friendsCount": 339,
       "location": ""
     },
@@ -370,7 +447,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 141991,
+      "followersCount": 142006,
       "friendsCount": 572,
       "location": "China"
     },
@@ -387,8 +464,8 @@
       "name": "0xyuxi | 0x雨曦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954097814990204928/OxYLMkE__normal.jpg",
       "description": "Stay hungry,stay IQ50\n死也要死在龙头上",
-      "followersCount": 5301,
-      "friendsCount": 2761,
+      "followersCount": 5300,
+      "friendsCount": 2757,
       "location": ""
     },
     "images": [
@@ -404,8 +481,8 @@
       "name": "0xyuxi | 0x雨曦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954097814990204928/OxYLMkE__normal.jpg",
       "description": "Stay hungry,stay IQ50\n死也要死在龙头上",
-      "followersCount": 5301,
-      "friendsCount": 2761,
+      "followersCount": 5300,
+      "friendsCount": 2757,
       "location": ""
     },
     "images": [],
@@ -421,7 +498,7 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 26809,
+      "followersCount": 26804,
       "friendsCount": 3818,
       "location": "推文均非投资建议"
     },
@@ -438,8 +515,8 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 129117,
-      "friendsCount": 1722,
+      "followersCount": 129133,
+      "friendsCount": 1723,
       "location": "moon"
     },
     "images": [],
@@ -472,8 +549,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
-      "followersCount": 1520385,
-      "friendsCount": 206,
+      "followersCount": 1520768,
+      "friendsCount": 204,
       "location": ""
     },
     "images": [
@@ -489,8 +566,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 73684,
-      "friendsCount": 1225,
+      "followersCount": 73717,
+      "friendsCount": 1224,
       "location": ""
     },
     "images": [
@@ -506,8 +583,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Bitcoin. Macro. Billion dollar dreams. This is my only account, no other socials.",
-      "followersCount": 1520385,
-      "friendsCount": 206,
+      "followersCount": 1520768,
+      "friendsCount": 204,
       "location": ""
     },
     "images": [],
@@ -521,7 +598,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 264224,
+      "followersCount": 264217,
       "friendsCount": 6974,
       "location": "New York, USA"
     },
@@ -539,7 +616,7 @@
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
       "description": "早期项目研究，任何推文不构成任何投资建议，对自己的钱负责。 合作DM",
-      "followersCount": 40232,
+      "followersCount": 40234,
       "friendsCount": 339,
       "location": ""
     },
@@ -554,8 +631,8 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 129117,
-      "friendsCount": 1722,
+      "followersCount": 129133,
+      "friendsCount": 1723,
       "location": "moon"
     },
     "images": [],
