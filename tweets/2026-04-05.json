@@ -1,11 +1,101 @@
 [
   {
     "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Billion dollar dreams. Building @InTheAssembly",
+      "followersCount": 1521610,
+      "friendsCount": 198,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2040858539543978390",
+    "fullText": "🚨 Iran is now threatening to close the Bab el-Mandeb Strait. 12% of world trade passes through it."
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
+      "followersCount": 74350,
+      "friendsCount": 1231,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2040846789004386558",
+    "fullText": "iOS 端的 X App 好卡，掉帧如红米"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
+      "followersCount": 74350,
+      "friendsCount": 1231,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2040844222887309769",
+    "fullText": "我厌倦了天天看你们反反复复地说：我发好东西没人看，发垃圾真的火了，大家还是一起发垃圾吧\n\n有没有可能，你所谓的“好东西”是没流量的垃圾，你所谓的“垃圾”是有流量的垃圾？\n\n那到底怎么才能不发垃圾呢？\n死之前是不是可以抽空研究研究？"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
+      "followersCount": 74350,
+      "friendsCount": 1231,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2040836756183175324",
+    "fullText": "AI 无法实现真正意义上的仿写\n\n塞给 AI 一大堆语料库去仿写是绝对错误的方法。相对正确一点的方法是让 AI 试图从这些文字当中逆向出人的思考方式。你知道这个人是如思考的，才能搞清楚他是如何写作的\n\n但 AI"
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Billion dollar dreams. Building @InTheAssembly",
+      "followersCount": 1521610,
+      "friendsCount": 198,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2040836608325189650",
+    "fullText": "🚨 Donald Trump said “there is a good chance, but if they don't make a deal, I am blowing up everything over there.”"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
+      "followersCount": 74350,
+      "friendsCount": 1231,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent/status/2040834122168545788",
+    "fullText": "这两天不少人发推文说 Michael Polanyi 的“隐性知识”\n\n这是被 AI 误导了\n\nMichael Polanyi 提出的核心概念是「默会知识」（Tacit Knowledge），不是隐性知识\n\n隐性知识是 Implicit Knowledge"
+  },
+  {
+    "user": {
       "screenName": "0xleng1",
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
       "description": "早期项目研究，任何推文不构成任何投资建议，对自己的钱负责。 合作DM",
-      "followersCount": 40113,
+      "followersCount": 40100,
       "friendsCount": 338,
       "location": ""
     },
@@ -20,8 +110,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Billion dollar dreams. Building @InTheAssembly",
-      "followersCount": 1521997,
-      "friendsCount": 197,
+      "followersCount": 1521610,
+      "friendsCount": 198,
       "location": ""
     },
     "images": [
@@ -37,7 +127,7 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
-      "followersCount": 51875,
+      "followersCount": 51855,
       "friendsCount": 801,
       "location": ""
     },
@@ -52,7 +142,7 @@
       "name": "0x 哆啦A梦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
       "description": "🛠 Web3工具开发车间主任\nAI 最严厉的父亲\nhttps://t.co/v6GwImN9a9\nbsc赞助：0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\nsol赞助：Dgh2nFXXzknmTL4vkVYU2VC7cC5hBwvuvR13Dogwyst8\n不构成投资建议～～",
-      "followersCount": 12103,
+      "followersCount": 12107,
       "friendsCount": 537,
       "location": ""
     },
@@ -67,8 +157,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Billion dollar dreams. Building @InTheAssembly",
-      "followersCount": 1521997,
-      "friendsCount": 197,
+      "followersCount": 1521610,
+      "friendsCount": 198,
       "location": ""
     },
     "images": [
@@ -84,7 +174,7 @@
       "name": "撸毛养家🐬",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875391284577452032/cbVLvdwl_normal.jpg",
       "description": "资深撸毛专业户，近四年市面上空投80%以上，拿过Op,Arb,Zz,Zk,Lo,Tia,Strk,Zeta,W,Mantle,Spec,Jup,solayer,Drift,Huma，Met,Lit等链上空投，打新SUI 中签1万个SUI，抓住铭文2023年10.1-12中旬铭文牛市，长期持有BTC ETH BNB🐬",
-      "followersCount": 2508,
+      "followersCount": 2507,
       "friendsCount": 2000,
       "location": ""
     },
@@ -101,8 +191,8 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 100903,
-      "friendsCount": 6977,
+      "followersCount": 100879,
+      "friendsCount": 6975,
       "location": "Crypto"
     },
     "images": [
@@ -134,7 +224,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
-      "followersCount": 128811,
+      "followersCount": 128754,
       "friendsCount": 1725,
       "location": "moon"
     },
@@ -149,7 +239,7 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 10971,
+      "followersCount": 10969,
       "friendsCount": 857,
       "location": ""
     },
@@ -164,7 +254,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -181,8 +271,8 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 26666,
-      "friendsCount": 3823,
+      "followersCount": 26652,
+      "friendsCount": 3822,
       "location": "推文均非投资建议"
     },
     "images": [
@@ -198,7 +288,7 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
-      "followersCount": 51875,
+      "followersCount": 51855,
       "friendsCount": 801,
       "location": ""
     },
@@ -215,8 +305,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Billion dollar dreams. Building @InTheAssembly",
-      "followersCount": 1521997,
-      "friendsCount": 197,
+      "followersCount": 1521610,
+      "friendsCount": 198,
       "location": ""
     },
     "images": [],
@@ -230,8 +320,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Billion dollar dreams. Building @InTheAssembly",
-      "followersCount": 1521997,
-      "friendsCount": 197,
+      "followersCount": 1521610,
+      "friendsCount": 198,
       "location": ""
     },
     "images": [],
@@ -245,8 +335,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Billion dollar dreams. Building @InTheAssembly",
-      "followersCount": 1521997,
-      "friendsCount": 197,
+      "followersCount": 1521610,
+      "friendsCount": 198,
       "location": ""
     },
     "images": [
@@ -262,8 +352,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Billion dollar dreams. Building @InTheAssembly",
-      "followersCount": 1521997,
-      "friendsCount": 197,
+      "followersCount": 1521610,
+      "friendsCount": 198,
       "location": ""
     },
     "images": [],
@@ -277,7 +367,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -292,7 +382,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -309,7 +399,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -326,8 +416,8 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Billion dollar dreams. Building @InTheAssembly",
-      "followersCount": 1521997,
-      "friendsCount": 197,
+      "followersCount": 1521610,
+      "friendsCount": 198,
       "location": ""
     },
     "images": [],
@@ -341,7 +431,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -356,7 +446,7 @@
       "name": "撸毛养家🐬",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875391284577452032/cbVLvdwl_normal.jpg",
       "description": "资深撸毛专业户，近四年市面上空投80%以上，拿过Op,Arb,Zz,Zk,Lo,Tia,Strk,Zeta,W,Mantle,Spec,Jup,solayer,Drift,Huma，Met,Lit等链上空投，打新SUI 中签1万个SUI，抓住铭文2023年10.1-12中旬铭文牛市，长期持有BTC ETH BNB🐬",
-      "followersCount": 2508,
+      "followersCount": 2507,
       "friendsCount": 2000,
       "location": ""
     },
@@ -373,7 +463,7 @@
       "name": "0x 哆啦A梦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
       "description": "🛠 Web3工具开发车间主任\nAI 最严厉的父亲\nhttps://t.co/v6GwImN9a9\nbsc赞助：0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\nsol赞助：Dgh2nFXXzknmTL4vkVYU2VC7cC5hBwvuvR13Dogwyst8\n不构成投资建议～～",
-      "followersCount": 12103,
+      "followersCount": 12107,
       "friendsCount": 537,
       "location": ""
     },
@@ -388,7 +478,7 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
-      "followersCount": 51875,
+      "followersCount": 51855,
       "friendsCount": 801,
       "location": ""
     },
@@ -403,7 +493,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 263796,
+      "followersCount": 263767,
       "friendsCount": 6985,
       "location": "New York, USA"
     },
@@ -420,7 +510,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -437,7 +527,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -452,7 +542,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -467,7 +557,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -482,7 +572,7 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "Investor&trader | 交易用 https://t.co/SMq9oer4Xq | Tg channel https://t.co/hNKkRMHETm",
-      "followersCount": 52891,
+      "followersCount": 52880,
       "friendsCount": 853,
       "location": ""
     },
@@ -497,7 +587,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -512,7 +602,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者\n⚖️ 正在尝试站着赚钱\n📞 生活合伙人 @xiaoniantalk",
-      "followersCount": 74316,
+      "followersCount": 74350,
       "friendsCount": 1231,
       "location": ""
     },
@@ -529,7 +619,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 263796,
+      "followersCount": 263767,
       "friendsCount": 6985,
       "location": "New York, USA"
     },
