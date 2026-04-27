@@ -1,11 +1,92 @@
 [
   {
     "user": {
+      "screenName": "KarpatZoloto",
+      "name": "Zoloto Karpat 🍳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1877726264359833600/l8S9nmli_normal.jpg",
+      "description": "CMO at @lendlexyz / @SafaryClub Cohort 4 🦁\n\n prev. @FunctionBTC, @Mantle_Official",
+      "followersCount": 832,
+      "friendsCount": 311,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG7U9LsboAAE2Rw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KarpatZoloto/status/2048810999646425189",
+    "fullText": "Nado Trading Bot Update\n\nHaven't shared updates for about a month, here are the results:\n&gt; PNL: -$85\n&gt; Points: +119\n&gt; Average point price: $0.7\n\nDespite this month not being as successful as last month in terms of PNL, I'm still in profit overall. https://t.co/Db2YRq972a"
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Founder of @InTheAssembly (CLOSED)",
+      "followersCount": 1509352,
+      "friendsCount": 195,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG7TMuHbsAAM6EQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2048807108724895867",
+    "fullText": "🚨 OpenAI is reportedly building a phone designed to replace the iPhone.\n\nAnd it’s further along than anyone realized.\n\nAnalyst Ming-Chi Kuo, the same man who predicted every major Apple product cycle for 20 years, just dropped this.\n\nImportant details:\n\n1: OpenAI is partnering https://t.co/ExXtOAEA8p"
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Founder of @InTheAssembly (CLOSED)",
+      "followersCount": 1509352,
+      "friendsCount": 195,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2048798403480482295",
+    "fullText": "🚨 Anthropic is now officially valued at $1 trillion before even going public."
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Founder of @InTheAssembly (CLOSED)",
+      "followersCount": 1509352,
+      "friendsCount": 195,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG6s07RXgAA8x5P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2048764917449208025",
+    "fullText": "🚨 A NEW DOCUMENT JUST DROPPED:\n\nGoldman just updated their oil forecasts today and the numbers are not pretty.\n\nThis is probably the most important tweet you’ll read today.\n\nIf you have any amount of money invested in the market, read every detail.\n\nHere’s what they’re actually https://t.co/H4mG8EeEm5"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
+      "description": "代码仓库：https://t.co/T0SFNGuP4n｜新人用ok: https://t.co/E857wiDG9n｜四亿用户在币安：https://t.co/cKzZoL9bvx",
+      "followersCount": 131623,
+      "friendsCount": 1759,
+      "location": "moon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/2048754860154339686",
+    "fullText": "最近自己弄ai trade和vibecoding 最大的感触就是工具类产品的价值会越来越低，因为随便一个人都可以很轻松的用ai 把你的产品做出来。\n\n甚至我觉得可能基于通用大模型而形成的垂类大模型都没啥用，更不用说一些所谓的垂类agent 。"
+  },
+  {
+    "user": {
       "screenName": "hunterweb303",
       "name": "0x 哆啦A梦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
       "description": "🛠 Web3工具开发车间主任\nAI 最严厉的父亲\nhttps://t.co/v6GwImN9a9\nbsc赞助：0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\nsol赞助：Dgh2nFXXzknmTL4vkVYU2VC7cC5hBwvuvR13Dogwyst8\n不构成投资建议～～",
-      "followersCount": 12356,
+      "followersCount": 12360,
       "friendsCount": 545,
       "location": ""
     },
@@ -22,7 +103,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143398,
+      "followersCount": 143408,
       "friendsCount": 576,
       "location": "China"
     },
@@ -39,7 +120,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1509456,
+      "followersCount": 1509352,
       "friendsCount": 195,
       "location": ""
     },
@@ -54,7 +135,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143398,
+      "followersCount": 143408,
       "friendsCount": 576,
       "location": "China"
     },
@@ -69,7 +150,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143398,
+      "followersCount": 143408,
       "friendsCount": 576,
       "location": "China"
     },
@@ -84,7 +165,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1509456,
+      "followersCount": 1509352,
       "friendsCount": 195,
       "location": ""
     },
@@ -101,7 +182,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143398,
+      "followersCount": 143408,
       "friendsCount": 576,
       "location": "China"
     },
@@ -133,7 +214,7 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "Investor&trader | 交易用 https://t.co/SMq9oer4Xq | Tg channel https://t.co/hNKkRMHETm",
-      "followersCount": 52800,
+      "followersCount": 52801,
       "friendsCount": 851,
       "location": ""
     },
@@ -150,7 +231,7 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
-      "followersCount": 52225,
+      "followersCount": 52221,
       "friendsCount": 782,
       "location": ""
     },
@@ -170,7 +251,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "💡 商业哲学爱好者\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 6.12 广州线下课：DBsilent",
-      "followersCount": 77144,
+      "followersCount": 77192,
       "friendsCount": 1243,
       "location": ""
     },
@@ -185,7 +266,7 @@
       "name": "Oxye漆华",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2019223590391148549/k9UbgiiF_normal.jpg",
       "description": "一个努力亏钱的工具人 📧 @nodex_xyz ambassador 丨节点教程：https://t.co/aUUTv9FJZE",
-      "followersCount": 20249,
+      "followersCount": 20259,
       "friendsCount": 2276,
       "location": "Youtube➡️"
     },
@@ -200,7 +281,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "代码仓库：https://t.co/T0SFNGuP4n｜新人用ok: https://t.co/E857wiDG9n｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 131600,
+      "followersCount": 131623,
       "friendsCount": 1759,
       "location": "moon"
     },
@@ -217,7 +298,7 @@
       "name": "0x 哆啦A梦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
       "description": "🛠 Web3工具开发车间主任\nAI 最严厉的父亲\nhttps://t.co/v6GwImN9a9\nbsc赞助：0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\nsol赞助：Dgh2nFXXzknmTL4vkVYU2VC7cC5hBwvuvR13Dogwyst8\n不构成投资建议～～",
-      "followersCount": 12356,
+      "followersCount": 12360,
       "friendsCount": 545,
       "location": ""
     },
@@ -237,7 +318,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1509456,
+      "followersCount": 1509352,
       "friendsCount": 195,
       "location": ""
     },
@@ -254,7 +335,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "💡 商业哲学爱好者\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 6.12 广州线下课：DBsilent",
-      "followersCount": 77144,
+      "followersCount": 77192,
       "friendsCount": 1243,
       "location": ""
     },
@@ -269,8 +350,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016179196591276041/9NklHIHA_normal.jpg",
       "description": "寻找最土最实在的东西，做异常数据的发现者 ex @aave @berachain",
-      "followersCount": 14511,
-      "friendsCount": 3362,
+      "followersCount": 14516,
+      "friendsCount": 3345,
       "location": ""
     },
     "images": [
@@ -286,7 +367,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143398,
+      "followersCount": 143408,
       "friendsCount": 576,
       "location": "China"
     },
@@ -303,7 +384,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1509456,
+      "followersCount": 1509352,
       "friendsCount": 195,
       "location": ""
     },
@@ -320,7 +401,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 101207,
+      "followersCount": 101205,
       "friendsCount": 6867,
       "location": "Crypto"
     },
@@ -350,7 +431,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1509456,
+      "followersCount": 1509352,
       "friendsCount": 195,
       "location": ""
     },
@@ -367,7 +448,7 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 27657,
+      "followersCount": 27655,
       "friendsCount": 3860,
       "location": "推文均非投资建议"
     },
@@ -382,7 +463,7 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "Investor&trader | 交易用 https://t.co/SMq9oer4Xq | Tg channel https://t.co/hNKkRMHETm",
-      "followersCount": 52800,
+      "followersCount": 52801,
       "friendsCount": 851,
       "location": ""
     },
@@ -397,8 +478,8 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016179196591276041/9NklHIHA_normal.jpg",
       "description": "寻找最土最实在的东西，做异常数据的发现者 ex @aave @berachain",
-      "followersCount": 14511,
-      "friendsCount": 3362,
+      "followersCount": 14516,
+      "friendsCount": 3345,
       "location": ""
     },
     "images": [],
@@ -412,7 +493,7 @@
       "name": "Oxye漆华",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2019223590391148549/k9UbgiiF_normal.jpg",
       "description": "一个努力亏钱的工具人 📧 @nodex_xyz ambassador 丨节点教程：https://t.co/aUUTv9FJZE",
-      "followersCount": 20249,
+      "followersCount": 20259,
       "friendsCount": 2276,
       "location": "Youtube➡️"
     },
@@ -427,7 +508,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 264947,
+      "followersCount": 264974,
       "friendsCount": 7036,
       "location": "New York, USA"
     },
@@ -444,7 +525,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143398,
+      "followersCount": 143408,
       "friendsCount": 576,
       "location": "China"
     },
@@ -461,7 +542,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 264947,
+      "followersCount": 264974,
       "friendsCount": 7036,
       "location": "New York, USA"
     },
@@ -476,7 +557,7 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 27657,
+      "followersCount": 27655,
       "friendsCount": 3860,
       "location": "推文均非投资建议"
     },
@@ -491,7 +572,7 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
-      "followersCount": 52225,
+      "followersCount": 52221,
       "friendsCount": 782,
       "location": ""
     },
@@ -506,7 +587,7 @@
       "name": "0x 哆啦A梦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
       "description": "🛠 Web3工具开发车间主任\nAI 最严厉的父亲\nhttps://t.co/v6GwImN9a9\nbsc赞助：0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\nsol赞助：Dgh2nFXXzknmTL4vkVYU2VC7cC5hBwvuvR13Dogwyst8\n不构成投资建议～～",
-      "followersCount": 12356,
+      "followersCount": 12360,
       "friendsCount": 545,
       "location": ""
     },
@@ -526,7 +607,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1509456,
+      "followersCount": 1509352,
       "friendsCount": 195,
       "location": ""
     },
