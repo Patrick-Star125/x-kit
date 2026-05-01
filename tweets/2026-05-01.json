@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "0xSunNFT",
+      "name": "0xSun",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1820705442735296512/ej9BX01I_normal.png",
+      "description": "Talk is cheap, show me the wallet.",
+      "followersCount": 212134,
+      "friendsCount": 4839,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHLUV0RbUAA-m-R.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xSunNFT/status/2050092859215470952",
+    "fullText": "这波美股上涨真给了我一点小小的震撼，看了一下之前在TradeXYZ的仓位，如果多拿半个月，到现在利润能多接近$2M，当然这样的计算并没有什么意义，当时选择清仓就说明认知不足以吃到后续的涨幅。 https://t.co/DAjjG7NqjJ"
+  },
+  {
+    "user": {
+      "screenName": "AliceBCeiona",
+      "name": "AliceBCeiona",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
+      "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader ☞复旦大学证券投资协会特邀嘉宾☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
+      "followersCount": 7390,
+      "friendsCount": 313,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHNWz9CbMAAVtGD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AliceBCeiona/status/2050077709372711260",
+    "fullText": "看起来很多人确实是上不来推了，自己三月算电协同复盘浏览量超过四万 四月英特尔浏览量只有1000多\n往好处想似乎有6000个followers不会掉了。。。 https://t.co/aJFmlZl474"
+  },
+  {
+    "user": {
+      "screenName": "nbblock",
+      "name": "CJ_Blockchain, CFA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
+      "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
+      "followersCount": 11470,
+      "friendsCount": 876,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nbblock/status/2050074762815119619",
+    "fullText": "五粮液昨天的财报，完美的教科书式财务洗澡。\n\n遮羞布都不要了。\n\n原本披露的2025年前三个季度的营收是609亿，\n\n结果年报披露出来，你猜怎么着，营收 405亿？！\n\n是的你没看错，营收也能到扣的。\n\n“理由是基于谨慎性原则调整部分业务收入确认核算”\n\n然后把锅全部甩到了被抓的前董事长身上。"
+  },
+  {
+    "user": {
       "screenName": "0x_xifeng",
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 27729,
+      "followersCount": 27730,
       "friendsCount": 3868,
       "location": "推文均非投资建议"
     },
@@ -23,7 +72,7 @@
       "name": "0x 哆啦A梦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
       "description": "🛠 Web3工具开发车间主任\nAI 最严厉的父亲\nhttps://t.co/v6GwImN9a9\nbsc赞助：0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\nsol赞助：Dgh2nFXXzknmTL4vkVYU2VC7cC5hBwvuvR13Dogwyst8\n不构成投资建议～～",
-      "followersCount": 12409,
+      "followersCount": 12407,
       "friendsCount": 547,
       "location": ""
     },
@@ -43,7 +92,7 @@
       "name": "Kairos Research",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777421831974051840/OXAmn4DF_normal.jpg",
       "description": "Crypto Research Firm | Staking with @Firstset_",
-      "followersCount": 8871,
+      "followersCount": 8877,
       "friendsCount": 3,
       "location": "New York / Chicago"
     },
@@ -61,8 +110,8 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "代码仓库：https://t.co/T0SFNGuP4n｜新人用ok: https://t.co/E857wiDG9n｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 132466,
-      "friendsCount": 1762,
+      "followersCount": 132473,
+      "friendsCount": 1761,
       "location": "moon"
     },
     "images": [],
@@ -80,7 +129,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1512294,
+      "followersCount": 1512231,
       "friendsCount": 195,
       "location": ""
     },
@@ -97,8 +146,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "💡 商业哲学爱好者\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 6.12 广州线下课，微信 DBsilent",
-      "followersCount": 77828,
-      "friendsCount": 1253,
+      "followersCount": 77847,
+      "friendsCount": 1255,
       "location": ""
     },
     "images": [],
@@ -112,7 +161,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143828,
+      "followersCount": 143833,
       "friendsCount": 577,
       "location": "China"
     },
@@ -127,7 +176,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1512294,
+      "followersCount": 1512231,
       "friendsCount": 195,
       "location": ""
     },
@@ -144,8 +193,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "💡 商业哲学爱好者\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 6.12 广州线下课，微信 DBsilent",
-      "followersCount": 77828,
-      "friendsCount": 1253,
+      "followersCount": 77847,
+      "friendsCount": 1255,
       "location": ""
     },
     "images": [],
@@ -161,8 +210,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "💡 商业哲学爱好者\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 6.12 广州线下课，微信 DBsilent",
-      "followersCount": 77828,
-      "friendsCount": 1253,
+      "followersCount": 77847,
+      "friendsCount": 1255,
       "location": ""
     },
     "images": [],
@@ -176,7 +225,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1512294,
+      "followersCount": 1512231,
       "friendsCount": 195,
       "location": ""
     },
@@ -193,7 +242,7 @@
       "name": "Timo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
       "description": "Investor&trader | 交易用 https://t.co/SMq9oer4Xq | Tg channel https://t.co/hNKkRMHETm",
-      "followersCount": 52862,
+      "followersCount": 52860,
       "friendsCount": 851,
       "location": ""
     },
@@ -242,7 +291,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1512294,
+      "followersCount": 1512231,
       "friendsCount": 195,
       "location": ""
     },
@@ -274,7 +323,7 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
-      "followersCount": 52351,
+      "followersCount": 52352,
       "friendsCount": 782,
       "location": ""
     },
@@ -291,8 +340,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "💡 商业哲学爱好者\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 6.12 广州线下课，微信 DBsilent",
-      "followersCount": 77828,
-      "friendsCount": 1253,
+      "followersCount": 77847,
+      "friendsCount": 1255,
       "location": ""
     },
     "images": [],
@@ -306,7 +355,7 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 27729,
+      "followersCount": 27730,
       "friendsCount": 3868,
       "location": "推文均非投资建议"
     },
@@ -324,7 +373,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143828,
+      "followersCount": 143833,
       "friendsCount": 577,
       "location": "China"
     },
@@ -339,7 +388,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 265796,
+      "followersCount": 265790,
       "friendsCount": 7047,
       "location": "New York, USA"
     },
@@ -359,7 +408,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143828,
+      "followersCount": 143833,
       "friendsCount": 577,
       "location": "China"
     },
@@ -389,7 +438,7 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 27729,
+      "followersCount": 27730,
       "friendsCount": 3868,
       "location": "推文均非投资建议"
     },
@@ -406,7 +455,7 @@
       "name": "Oxye漆华",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2019223590391148549/k9UbgiiF_normal.jpg",
       "description": "一个努力亏钱的工具人 📧 @nodex_xyz ambassador 丨节点教程：https://t.co/aUUTv9FJZE",
-      "followersCount": 20472,
+      "followersCount": 20470,
       "friendsCount": 2283,
       "location": "Youtube➡️"
     },
@@ -423,7 +472,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143828,
+      "followersCount": 143833,
       "friendsCount": 577,
       "location": "China"
     },
@@ -440,7 +489,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1512294,
+      "followersCount": 1512231,
       "friendsCount": 195,
       "location": ""
     },
@@ -457,7 +506,7 @@
       "name": "零一",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1932032080873238528/osS3v_Xn_normal.jpg",
       "description": "记录01年毕业的大学生从0到1 的打狗日记 🗒 \n\n1个月实现2800-A8（已回撤A7.5）下一步目标再次突破A8💴 \n\n免费频道https://t.co/OgzhWDpPuC\n\n注册私聊进聊天群（手动高返）https://t.co/RGDBR4fMbk",
-      "followersCount": 5774,
+      "followersCount": 5773,
       "friendsCount": 426,
       "location": "Hong Kong"
     },
@@ -472,7 +521,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 143828,
+      "followersCount": 143833,
       "friendsCount": 577,
       "location": "China"
     },
@@ -504,8 +553,8 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 11468,
-      "friendsCount": 875,
+      "followersCount": 11470,
+      "friendsCount": 876,
       "location": ""
     },
     "images": [],
@@ -519,7 +568,7 @@
       "name": "撸毛养家🐬",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875391284577452032/cbVLvdwl_normal.jpg",
       "description": "资深撸毛专业户，近四年市面上空投80%以上，拿过Op,Arb,Zz,Zk,Lo,Tia,Strk,Zeta,W,Mantle,Spec,Jup,solayer,Drift,Huma，Met,Lit等链上空投，打新SUI 中签1万个SUI，抓住铭文2023年10.1-12中旬铭文牛市，长期持有BTC ETH BNB🐬",
-      "followersCount": 2507,
+      "followersCount": 2508,
       "friendsCount": 2081,
       "location": ""
     },
@@ -536,8 +585,8 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "💡 商业哲学爱好者\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 6.12 广州线下课，微信 DBsilent",
-      "followersCount": 77828,
-      "friendsCount": 1253,
+      "followersCount": 77847,
+      "friendsCount": 1255,
       "location": ""
     },
     "images": [],
@@ -551,8 +600,8 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 11468,
-      "friendsCount": 875,
+      "followersCount": 11470,
+      "friendsCount": 876,
       "location": ""
     },
     "images": [
@@ -568,8 +617,8 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 11468,
-      "friendsCount": 875,
+      "followersCount": 11470,
+      "friendsCount": 876,
       "location": ""
     },
     "images": [],
@@ -583,7 +632,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 265796,
+      "followersCount": 265790,
       "friendsCount": 7047,
       "location": "New York, USA"
     },
@@ -615,8 +664,8 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "代码仓库：https://t.co/T0SFNGuP4n｜新人用ok: https://t.co/E857wiDG9n｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 132466,
-      "friendsCount": 1762,
+      "followersCount": 132473,
+      "friendsCount": 1761,
       "location": "moon"
     },
     "images": [
@@ -650,7 +699,7 @@
       "name": "0x 哆啦A梦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980980097931776000/8fBSu27N_normal.jpg",
       "description": "🛠 Web3工具开发车间主任\nAI 最严厉的父亲\nhttps://t.co/v6GwImN9a9\nbsc赞助：0x2E1f8348Cd93DC5e15d4390df9FAeF752A07B9ac\nsol赞助：Dgh2nFXXzknmTL4vkVYU2VC7cC5hBwvuvR13Dogwyst8\n不构成投资建议～～",
-      "followersCount": 12409,
+      "followersCount": 12407,
       "friendsCount": 547,
       "location": ""
     },
@@ -665,8 +714,8 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "代码仓库：https://t.co/T0SFNGuP4n｜新人用ok: https://t.co/E857wiDG9n｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 132466,
-      "friendsCount": 1762,
+      "followersCount": 132473,
+      "friendsCount": 1761,
       "location": "moon"
     },
     "images": [],
@@ -680,7 +729,7 @@
       "name": "憨巴龙王",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1944702932022104064/pvb8yhxb_normal.jpg",
       "description": "瞎几把喊单的，找你接盘的，别买，骂我看不见。",
-      "followersCount": 90927,
+      "followersCount": 90924,
       "friendsCount": 439,
       "location": ""
     },
@@ -695,7 +744,7 @@
       "name": "憨巴龙王",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1944702932022104064/pvb8yhxb_normal.jpg",
       "description": "瞎几把喊单的，找你接盘的，别买，骂我看不见。",
-      "followersCount": 90927,
+      "followersCount": 90924,
       "friendsCount": 439,
       "location": ""
     },
