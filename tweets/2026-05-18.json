@@ -1,11 +1,73 @@
 [
   {
     "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 144640,
+      "friendsCount": 584,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/2056330451032346881",
+    "fullText": "任何一个人，在情绪上头的时候都可能是反指，所以一定要珍惜那些在情绪上头还愿意分享观点的人，这是很好的指标。当然，也要珍惜理性发言的人。很多人无法内观，但外人可以看得比较清楚(这话绝对了，因为很多人根本没有能力看清楚，相反还会被别人的情绪影响)。"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 144640,
+      "friendsCount": 584,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/2056319842278580678",
+    "fullText": "虽然我知道很多人不带脑子，大多数人最后投资的结果也是亏钱，但还是希望看我推文的朋友都带脑子。"
+  },
+  {
+    "user": {
+      "screenName": "yuyue_chris",
+      "name": "Yuyue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+      "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
+      "followersCount": 101394,
+      "friendsCount": 6868,
+      "location": "Crypto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyue_chris/status/2056315963746967940",
+    "fullText": "港股上新的速度已经远远超越币安 alpha 了\n\n卖了剂泰打翼菲，卖了翼菲打拓璞，卖完这个卖那个\n\n中签资金出来无缝衔接下一个打新，中了 AI 吃日料，中了其他猪脚饭，一周起码 2-3 碗"
+  },
+  {
+    "user": {
+      "screenName": "sanyi_eth_",
+      "name": "sanyi.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+      "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
+      "followersCount": 266472,
+      "friendsCount": 7105,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIl3iLHb0AAtgNy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sanyi_eth_/status/2056306186526564432",
+    "fullText": "微信群里看到的，太草了哈哈哈哈 https://t.co/esB3RXaHp3"
+  },
+  {
+    "user": {
       "screenName": "connectfarm1",
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "代码仓库：https://t.co/T0SFNGuP4n｜新人用ok: https://t.co/E857wiDG9n｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 133021,
+      "followersCount": 133037,
       "friendsCount": 1778,
       "location": "moon"
     },
@@ -50,7 +112,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 101386,
+      "followersCount": 101394,
       "friendsCount": 6868,
       "location": "Crypto"
     },
@@ -68,8 +130,8 @@
       "name": "Oxye漆华",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2019223590391148549/k9UbgiiF_normal.jpg",
       "description": "一个努力亏钱的工具人 📧 @nodex_xyz ambassador 丨节点教程：https://t.co/aUUTv9FJZE",
-      "followersCount": 20442,
-      "friendsCount": 2291,
+      "followersCount": 20457,
+      "friendsCount": 2292,
       "location": "Youtube➡️"
     },
     "images": [
@@ -85,7 +147,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "代码仓库：https://t.co/T0SFNGuP4n｜新人用ok: https://t.co/E857wiDG9n｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 133021,
+      "followersCount": 133037,
       "friendsCount": 1778,
       "location": "moon"
     },
@@ -104,9 +166,9 @@
       "screenName": "nbblock",
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
-      "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 11693,
-      "friendsCount": 887,
+      "description": "Ex-Investment banker   |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
+      "followersCount": 11717,
+      "friendsCount": 888,
       "location": ""
     },
     "images": [],
@@ -121,7 +183,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
       "followersCount": 52426,
-      "friendsCount": 749,
+      "friendsCount": 705,
       "location": ""
     },
     "images": [],
@@ -136,7 +198,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
       "followersCount": 52426,
-      "friendsCount": 749,
+      "friendsCount": 705,
       "location": ""
     },
     "images": [
@@ -152,7 +214,7 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 27616,
+      "followersCount": 27620,
       "friendsCount": 3908,
       "location": "推文均非投资建议"
     },
@@ -169,7 +231,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1505924,
+      "followersCount": 1505849,
       "friendsCount": 182,
       "location": ""
     },
@@ -184,7 +246,7 @@
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
       "description": "早期项目研究，任何推文不构成任何投资建议。合作DM",
-      "followersCount": 40697,
+      "followersCount": 40694,
       "friendsCount": 305,
       "location": ""
     },
@@ -199,7 +261,7 @@
       "name": "Leslie🔶大心脏",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016179196591276041/9NklHIHA_normal.jpg",
       "description": "币圈最懂约会最懂性的 ex @aave @berachain",
-      "followersCount": 14741,
+      "followersCount": 14740,
       "friendsCount": 3339,
       "location": ""
     },
@@ -217,8 +279,8 @@
       "name": "雨中狂睡SleepinRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2049055388658794496/Sr2LwzEm_normal.jpg",
       "description": "Slow and steady wins the race｜Channel: https://t.co/BtMtMROMkO",
-      "followersCount": 30198,
-      "friendsCount": 3978,
+      "followersCount": 30199,
+      "friendsCount": 3977,
       "location": "Hyperliquid"
     },
     "images": [],
@@ -232,7 +294,7 @@
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
       "description": "早期项目研究，任何推文不构成任何投资建议。合作DM",
-      "followersCount": 40697,
+      "followersCount": 40694,
       "friendsCount": 305,
       "location": ""
     },
@@ -247,7 +309,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "💡 商业哲学爱好者\n🙋 伪装为早期维特根斯坦的晚期维特根斯坦\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 6.12 广州线下课，微信 dbs2408",
-      "followersCount": 78870,
+      "followersCount": 78905,
       "friendsCount": 1263,
       "location": ""
     },
@@ -262,7 +324,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1505924,
+      "followersCount": 1505849,
       "friendsCount": 182,
       "location": ""
     },
@@ -316,7 +378,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 101386,
+      "followersCount": 101394,
       "friendsCount": 6868,
       "location": "Crypto"
     },
@@ -350,7 +412,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
       "followersCount": 52426,
-      "friendsCount": 749,
+      "friendsCount": 705,
       "location": ""
     },
     "images": [],
@@ -364,7 +426,7 @@
       "name": "Leng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
       "description": "早期项目研究，任何推文不构成任何投资建议。合作DM",
-      "followersCount": 40697,
+      "followersCount": 40694,
       "friendsCount": 305,
       "location": ""
     },
@@ -379,7 +441,7 @@
       "name": "AliceBCeiona",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
       "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader ☞复旦大学证券投资协会特邀嘉宾☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
-      "followersCount": 7408,
+      "followersCount": 7407,
       "friendsCount": 206,
       "location": ""
     },
@@ -396,7 +458,7 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 27616,
+      "followersCount": 27620,
       "friendsCount": 3908,
       "location": "推文均非投资建议"
     },
@@ -413,8 +475,8 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 266473,
-      "friendsCount": 7104,
+      "followersCount": 266472,
+      "friendsCount": 7105,
       "location": "New York, USA"
     },
     "images": [],
@@ -428,7 +490,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 101386,
+      "followersCount": 101394,
       "friendsCount": 6868,
       "location": "Crypto"
     },
@@ -443,7 +505,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1505924,
+      "followersCount": 1505849,
       "friendsCount": 182,
       "location": ""
     },
@@ -459,9 +521,9 @@
       "screenName": "nbblock",
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
-      "description": "Ex-Investment banker   |  All in #Blockchain  |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 11693,
-      "friendsCount": 887,
+      "description": "Ex-Investment banker   |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
+      "followersCount": 11717,
+      "friendsCount": 888,
       "location": ""
     },
     "images": [
@@ -478,7 +540,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly (CLOSED)",
-      "followersCount": 1505924,
+      "followersCount": 1505849,
       "friendsCount": 182,
       "location": ""
     },
@@ -495,7 +557,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 101386,
+      "followersCount": 101394,
       "friendsCount": 6868,
       "location": "Crypto"
     },
