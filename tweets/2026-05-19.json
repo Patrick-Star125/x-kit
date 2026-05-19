@@ -1,11 +1,107 @@
 [
   {
     "user": {
+      "screenName": "0xleng1",
+      "name": "Leng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
+      "description": "早期项目研究，任何推文不构成任何投资建议。合作DM",
+      "followersCount": 40692,
+      "friendsCount": 306,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xleng1/status/2056687193632985130",
+    "fullText": "buidlpad这个吃相有点太难看了，20%手续费和20%盈利，还要锁仓半年，目前来看bg确实是格局最大的。"
+  },
+  {
+    "user": {
+      "screenName": "ferdie_jhovie",
+      "name": "Oxye漆华",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2019223590391148549/k9UbgiiF_normal.jpg",
+      "description": "一个努力亏钱的工具人 📧 @nodex_xyz ambassador 丨节点教程：https://t.co/aUUTv9FJZE",
+      "followersCount": 20490,
+      "friendsCount": 2293,
+      "location": "Youtube➡️"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIrPUdSakAACK3W.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ferdie_jhovie/status/2056684276855533913",
+    "fullText": "不懂就问，这个怎么选呢 https://t.co/DfnkU8JBUe"
+  },
+  {
+    "user": {
+      "screenName": "connectfarm1",
+      "name": "潜水观察员🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
+      "description": "代码仓库：https://t.co/T0SFNGuP4n｜新人用ok: https://t.co/E857wiDG9n｜四亿用户在币安：https://t.co/cKzZoL9bvx",
+      "followersCount": 133066,
+      "friendsCount": 1778,
+      "location": "moon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/connectfarm1/status/2056664452288970767",
+    "fullText": "怎么办\n\nBase抠字眼6m\n\nBsc抠字眼60k\n\n没招了"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 144719,
+      "friendsCount": 585,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIq6gw4bUAAieQ5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/2056661254597685274",
+    "fullText": "东方财富的投顾工作室很多都是这样的“烂货”，类似于币圈的带单，绝大多数都是坑爹的。 https://t.co/0QdzDy3NHq"
+  },
+  {
+    "user": {
       "screenName": "NoLimitGains",
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly",
-      "followersCount": 1505013,
+      "followersCount": 1504747,
+      "friendsCount": 182,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIq0n_YXcAAY_VO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NoLimitGains/status/2056654786720620962",
+    "fullText": "🚨 The Korean stock market is collapsing\n\nYou won’t believe why this is happening… https://t.co/VdnUV0NMxP"
+  },
+  {
+    "user": {
+      "screenName": "TingHu888",
+      "name": "TingHu♪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+      "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+      "followersCount": 144719,
+      "friendsCount": 585,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TingHu888/status/2056654057633419462",
+    "fullText": "投资不要在乎别人的反对声，尤其是群体的反对声，要记住，任何大的方向都是真理掌握在少数人手中，否则，群体赚少数人的钱吗？不可能的，与大道相违背，最后的结果一定是少数人赚多数人的钱，只有在部分上升趋势的过程中可以一起有浮盈。这就牵扯到另外一个问题，可以一起有饭吃，但不可能人人当财主。"
+  },
+  {
+    "user": {
+      "screenName": "NoLimitGains",
+      "name": "NoLimit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
+      "description": "Founder of @InTheAssembly",
+      "followersCount": 1504747,
       "friendsCount": 182,
       "location": ""
     },
@@ -20,7 +116,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -35,7 +131,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -50,7 +146,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -65,7 +161,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -80,7 +176,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -95,7 +191,7 @@
       "name": "AliceBCeiona",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950723657426522112/s4mWyw5T_normal.jpg",
       "description": "Alicization社区与A组leader&&复旦大学区块链协会投研部leader ☞复旦大学证券投资协会特邀嘉宾☞所有推文是分享个人经历，不构成投资建议，盈亏自负",
-      "followersCount": 7408,
+      "followersCount": 7406,
       "friendsCount": 206,
       "location": ""
     },
@@ -112,7 +208,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -129,7 +225,7 @@
       "name": "潜水观察员🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
       "description": "代码仓库：https://t.co/T0SFNGuP4n｜新人用ok: https://t.co/E857wiDG9n｜四亿用户在币安：https://t.co/cKzZoL9bvx",
-      "followersCount": 133060,
+      "followersCount": 133066,
       "friendsCount": 1778,
       "location": "moon"
     },
@@ -144,7 +240,7 @@
       "name": "小熊饼干 . SOL⛵",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887329695471181826/z4UhGBoA_normal.jpg",
       "description": "前债券评级分析师 CFA Level III candidate \nCertified Financial Technician - IFTA \n现在是一名保安，爱吃小熊饼干",
-      "followersCount": 52422,
+      "followersCount": 52423,
       "friendsCount": 705,
       "location": ""
     },
@@ -161,7 +257,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly",
-      "followersCount": 1505013,
+      "followersCount": 1504747,
       "friendsCount": 182,
       "location": ""
     },
@@ -176,7 +272,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -193,7 +289,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -210,7 +306,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly",
-      "followersCount": 1505013,
+      "followersCount": 1504747,
       "friendsCount": 182,
       "location": ""
     },
@@ -227,8 +323,8 @@
       "name": "Oxye漆华",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2019223590391148549/k9UbgiiF_normal.jpg",
       "description": "一个努力亏钱的工具人 📧 @nodex_xyz ambassador 丨节点教程：https://t.co/aUUTv9FJZE",
-      "followersCount": 20488,
-      "friendsCount": 2292,
+      "followersCount": 20490,
+      "friendsCount": 2293,
       "location": "Youtube➡️"
     },
     "images": [],
@@ -244,7 +340,7 @@
       "name": "spark 🦅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886598436495220737/xnKAw0ZG_normal.png",
       "description": "spark韭菜日记： https://t.co/9qmI8oRuHd\n\n任何推文都不是投资建议",
-      "followersCount": 27610,
+      "followersCount": 27616,
       "friendsCount": 3908,
       "location": "推文均非投资建议"
     },
@@ -259,7 +355,7 @@
       "name": "NoLimit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979122951103430656/znPx7D7N_normal.jpg",
       "description": "Founder of @InTheAssembly",
-      "followersCount": 1505013,
+      "followersCount": 1504747,
       "friendsCount": 182,
       "location": ""
     },
@@ -274,7 +370,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -289,7 +385,7 @@
       "name": "CJ_Blockchain, CFA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1592864864413835264/J3p5ThW8_normal.jpg",
       "description": "Ex-Investment banker   |  9 years #Bitcoin Holder  |  Blockchain Industry Researcher | \nAlpha channel：https://t.co/E9GBNuNxaO",
-      "followersCount": 11770,
+      "followersCount": 11779,
       "friendsCount": 888,
       "location": ""
     },
@@ -304,7 +400,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -319,7 +415,7 @@
       "name": "TingHu♪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
       "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
-      "followersCount": 144697,
+      "followersCount": 144719,
       "friendsCount": 585,
       "location": "China"
     },
@@ -334,7 +430,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\nAI + 交易探索\n#OKX https://t.co/NXhCSu4BhQ",
-      "followersCount": 101400,
+      "followersCount": 101405,
       "friendsCount": 6870,
       "location": "Crypto"
     },
@@ -349,7 +445,7 @@
       "name": "sanyi.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
       "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
-      "followersCount": 266471,
+      "followersCount": 266470,
       "friendsCount": 7106,
       "location": "New York, USA"
     },
